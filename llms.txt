@@ -1,0 +1,53 @@
+# Betkyo
+
+> Betkyo is a crypto casino built around in-house provably fair original games. Every game's house edge is derived from the engine source and published; every round can be recomputed from its committed seeds. No gambling licence is held at present; restricted jurisdictions are listed in the Terms; 18+.
+
+## Verify
+- [Fairness page](https://betkyo.com/en/fairness/): the commitment scheme and a worked verification
+- [provably-fair-verifier](https://github.com/betkyo-open-labs/provably-fair-verifier): recompute any round (browser + CLI)
+
+## Odds
+- [House edge of every game](https://github.com/betkyo-open-labs/open-docs/blob/main/house-edge.md)
+- [odds-data](https://github.com/betkyo-open-labs/odds-data): paytables and outcome distributions as JSON/CSV
+
+## Games
+- [Dice](https://betkyo.com/en/guide/dice/): Dice is the purest expression of a crypto original: pick a target, roll under it, get paid.
+- [Plinko](https://betkyo.com/en/guide/plinko/): Drop a ball down a pegboard and watch it bounce into a multiplier bucket.
+- [RPS](https://betkyo.com/en/guide/rps/): Rock, paper, scissors against the dealer — the game everyone already knows, with a bet on it.
+- [Hilo](https://betkyo.com/en/guide/hilo/): Call the next card higher or lower, and keep calling — every correct call multiplies your pot, and the multiplier itself never stops climbing..
+- [Baccarat](https://betkyo.com/en/guide/baccarat/): The table classic: bet Player or Banker, closest to nine wins.
+- [Fugu](https://betkyo.com/en/guide/fugu/): A minefield with a Tokyo menu: reveal tiles, dodge the fugu, and watch your multiplier climb with every safe pick..
+- [Limbo](https://betkyo.com/en/guide/limbo/): Name your own multiplier — anything up to ×10,000 — then see if the round’s result clears it.
+- [Chinchiro](https://betkyo.com/en/guide/chinchiro/): The izakaya dice duel: three dice against the dealer, best combination wins, top hands pay up to ×6..
+- [Keno](https://betkyo.com/en/guide/keno/): Pick up to 10 numbers out of 40, then watch ten balls drop.
+- [Pagoda](https://betkyo.com/en/guide/pagoda/): Climb a nine-floor pagoda one safe panel at a time.
+- [Wheel](https://betkyo.com/en/guide/wheel/): One wheel, one spin, everyone on it together — every player rides the same shared result.
+- [Double](https://betkyo.com/en/guide/double/): Call the colour of the next roll.
+- [Crash](https://betkyo.com/en/guide/crash/): A multiplier curve climbs from ×1 and can bust at any moment — cash out before it does.
+- [Dragon Road](https://betkyo.com/en/guide/dragon-road/): Ride win streaks across a wall of about 2,000 live baccarat tables.
+- [BTC ×1000](https://betkyo.com/en/guide/btc-x1000/): Go long or short on the live Bitcoin price with up to 1000× leverage.
+- [Tairyō](https://betkyo.com/en/guide/tairyo/): Tairyō (大漁 — “big catch”) is Betkyo’s fishing slot: 5 reels, 3 rows, 10 lines, where collector wilds gather the koi values on screen.
+- [Omikuji](https://betkyo.com/en/guide/omikuji/): A shrine fortune slip you scratch open: match three symbols and the slip pays, up to ×100..
+- [Fukubukuro](https://betkyo.com/en/guide/fukubukuro/): Lucky bags, Betkyo style: every bag pays something — the question is how much.
+- [Roulette](https://betkyo.com/en/guide/roulette/): European single-zero roulette — one green pocket, not two, which is the version you want.
+- [Sic Bo](https://betkyo.com/en/guide/sic-bo/): Three dice, one shake, a whole table of ways to bet it.
+- [Bingo](https://betkyo.com/en/guide/bingo/): 38 balls, one card, seven pay lines — complete lines to win, with the top pattern paying ×500..
+- [Hanabi](https://betkyo.com/en/guide/hanabi/): A summer-festival slot where the reels end in fireworks — line wins build toward a top payout of ×2,000..
+- [Koban Flip](https://betkyo.com/en/guide/koban-flip/): Call the koban coin — heads or tails — and let it ride.
+- [Video Poker](https://betkyo.com/en/guide/video-poker/): Jacks or Better, the canonical video poker: five cards, one draw, paytable poker hands.
+- [Casino Holdem](https://betkyo.com/en/guide/casino-holdem/): Hold’em against the house: ante up, see the flop, then decide to call or fold.
+- [Blackjack](https://betkyo.com/en/guide/blackjack/): The table game: beat the dealer to 21 without going over.
+- [Andar Bahar](https://betkyo.com/en/guide/andar-bahar/): The subcontinent’s fastest card game: a joker is cut, then cards race to Andar and Bahar — first side to match the joker wins.
+
+## Journal (summaries)
+- [Stories & Incidents](https://github.com/betkyo-open-labs/open-docs/blob/main/journal/incidents.md)
+- [Math of Luck](https://github.com/betkyo-open-labs/open-docs/blob/main/journal/math.md)
+- [Japan & History](https://github.com/betkyo-open-labs/open-docs/blob/main/journal/history.md)
+- [Fairness Studies](https://github.com/betkyo-open-labs/open-docs/blob/main/journal/fairness.md)
+- [Crypto](https://github.com/betkyo-open-labs/open-docs/blob/main/journal/crypto.md)
+- [Mind & Responsibility](https://github.com/betkyo-open-labs/open-docs/blob/main/journal/mind.md)
+- [Game Notes](https://github.com/betkyo-open-labs/open-docs/blob/main/journal/notes.md)
+
+## Optional
+- [Journal index](https://betkyo.com/en/blog/)
+- [Methodology](https://betkyo.com/en/blog/how-the-journal-verifies-a-number-methodology/)

@@ -1,0 +1,7 @@
+title: Betkyo open docs
+description: House edges, game specs, journal summaries and verification docs for Betkyo's provably fair originals
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-sitemap
+exclude:
+  - faq/faq.json

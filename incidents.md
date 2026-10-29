@@ -2,6 +2,26 @@
 
 Famous runs, heists, collapses and cons from the public record, each written up with the arithmetic that decided it. Summaries are the articles' own; sources are listed on each page.
 
+## [Eddie Tipton: the lottery random number generator that knew three dates a year](https://betkyo.com/en/blog/eddie-tipton-the-lottery-random-number-generator-that-knew-three-dates-a-year/)
+
+On 29 December 2010 the Multi-State Lottery Association’s own information security director held the winning Hot Lotto ticket for a $14.3 million jackpot. He had written the random number generator. On three dates a year, if they fell on a draw day after 8 p.m., his code stopped being random. The claim through a Belize trust failed on a misspelling, the surveillance tape failed on a second-per-minute camera, and the numbers were only ever as random as the one person allowed in the room. The arithmetic of a 1-in-10,939,383 draw when one participant knows the seed, and why a public commitment is the only kind of randomness that does not depend on who wrote it.
+
+## [Hamster Kombat: 300 million players, a 60-billion-token airdrop, and the month they left](https://betkyo.com/en/blog/hamster-kombat-300-million-players-a-60-billion-token-airdrop-and-the-month-they-left/)
+
+In summer 2024 a Telegram tap game said it had 300 million players, and its whitepaper promised them 60% of the token. The airdrop landed on 26 September 2024: 131 million qualified, the price fell 30% on day one, most players got a few dollars, and within six weeks the monthly player count read about 41 million. The arithmetic of a payout that is decided after you play, and why a game that states its price before the first tap cannot produce this curve.
+
+## [Don Johnson: $15 million from Atlantic City, and the 20% rebate that flipped the edge](https://betkyo.com/en/blog/don-johnson-15-million-from-atlantic-city-and-the-20-percent-rebate-that-flipped-the-edge/)
+
+In April 2011 a former jockey won $5.8 million in a 12-hour session at the Tropicana, after $5 million from the Borgata and $4 million from Caesars in the months before. He did not count cards. He negotiated — a 20% rebate on losses past $500,000 and a rule set that cut the house edge to a quarter of a percent — and then played the arithmetic of the rebate rather than the arithmetic of the game. The month’s state filings, the deal, and the calculation that shows why a discount on losses is not a smaller edge but a different sign.
+
+## [Jontay Porter: the under only the player can guarantee, and the bets the NBA just removed](https://betkyo.com/en/blog/jontay-porter-the-under-only-the-player-can-guarantee-and-the-bets-the-nba-just-removed/)
+
+In March 2024 a Toronto Raptors bench player told a bettor he would leave the game early, played three minutes, and an $80,000 parlay on his “unders” stood to pay $1.1 million. The sportsbook froze it, the NBA banned him for life, he pleaded guilty to wire-fraud conspiracy — and in October 2026 the league told its sportsbooks to stop offering the bet type altogether. The math of why a market can be fair only when nobody inside it controls the result.
+
+## [Ippei Mizuhara: 19,000 bets, a 12% loss rate, and the bankroll that was never his](https://betkyo.com/en/blog/ippei-mizuhara-19000-bets-and-the-12-percent-that-broke-someone-elses-bankroll/)
+
+Shohei Ohtani’s interpreter placed about 19,000 bets with an illegal bookmaker between late 2021 and January 2024: $142.3 million won, $182.9 million lost, a net hole of $40.7 million, filled with about $17 million taken from the player’s bank account. The court record puts numbers on what “chasing” actually costs.
+
 ## [The Stake hack: $41 million in nine hours, and the vault that provably fair does not cover](https://betkyo.com/en/blog/the-stake-hack-41-million-in-nine-hours-and-the-vault-provably-fair-does-not-cover/)
 
 On 4 September 2023 the largest crypto casino in the world started paying out to someone who had not won. About $41 million left its Ethereum, BNB Chain and Polygon hot wallets in minutes; services were back the same evening; days later the FBI named North Korea’s Lazarus Group. The games were never touched. That is the point.

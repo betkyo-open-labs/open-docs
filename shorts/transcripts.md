@@ -44,6 +44,12 @@ Dragon Road. A wall of baccarat tables on long streaks. Twenty-one Bankers in a 
 
 Full article: https://betkyo.com/en/blog/dragon-road-priced-2000-tables-four-21-hand-streaks-a-day-and-the-next-hand-at-45-86/
 
+## Hamster Kombat: 300M players, a 60B-token airdrop, and the month they left
+
+Summer 2024. A Telegram tap game says it has three hundred million players. The promise: sixty percent of the token to players. Price unknown, formula unknown. People tapped for months anyway. September twenty-sixth: airdrop. One hundred thirty-one million qualify. The price drops thirty percent on day one. Do the division. Sixty billion tokens over one hundred thirty-one million people: about four fifty-eight each. At listing, five dollars. By November, one fifteen. Ten minutes a day for six months: cents an hour. Every new player raised the denominator. Growth did not make the prize bigger. It made each share smaller. Six weeks later the monthly counter read forty-one million. They left the month they learned what an hour was worth. Full story at betkyo dot com slash blog. Eighteen plus. Play responsibly.
+
+Full article: https://betkyo.com/en/blog/hamster-kombat-300-million-players-a-60-billion-token-airdrop-and-the-month-they-left/
+
 ## Hanabi slot RTP, computed exactly: 95.81%, not the simulated 96.1%
 
 Hanabi, our festival slot. The engine's own note says it returns ninety-six point one percent. That number was a simulation. Every cell is an independent weighted draw, so the return can be summed exactly. It is ninety-five point eight one percent. The cheapest symbols carry it. Yakisoba pays five times at most, and supplies fifteen and a half percent of the return. Free spins land once in about eighty-four spins and pay twenty-two times the bet on average. But the middle feature pays sixteen point eight. The average is pulled up by the rare big ones. One spin in three pays something. One in nine pays less than it cost: a loss that plays like a win. Over a hundred spins, the median session ends twelve point nine bets down. Full derivation at betkyo dot com slash blog. Eighteen plus. Play responsibly.
@@ -56,17 +62,35 @@ What does an hour at the casino cost? Not the edge. Edge times stake times how m
 
 Full article: https://betkyo.com/en/blog/the-price-of-an-hour-what-each-game-costs-per-hour-at-your-stake-and-pace/
 
+## Don Johnson: $15M from Atlantic City, and the rebate that flipped the edge
+
+April 2011. A former jockey sits down at the Tropicana and bets one hundred thousand dollars a hand. Twelve hours later: up five point eight million. The casino's monthly table win drops fifty-four percent. He was not counting cards. They were watching. He had negotiated before he sat down. Twenty percent back on losses past half a million, per trip, plus rules that cut the house edge to a quarter percent. The trick: lose half a million, stop, pay four hundred thousand. Win? Keep playing with their money. In a fair game that is worth about ninety thousand dollars a try, even though you lose nine tries in ten. Fifteen million from three casinos. The Tropicana's president was out in weeks. Every casino pulled the deal. Full story at betkyo dot com slash blog. Eighteen plus. Play responsibly.
+
+Full article: https://betkyo.com/en/blog/don-johnson-15-million-from-atlantic-city-and-the-20-percent-rebate-that-flipped-the-edge/
+
 ## Mines game odds: no tile is safer, and the edge does not compound
 
 Mines. Twenty-five tiles, you choose how many are mines, and every safe tile raises the multiplier. The mines are shuffled before your first click, so no tile is safer than another. Corners change nothing. Each multiplier is the fair odds, floored to two decimals, times zero point nine nine, floored again. Those floors bite at the bottom. One mine, two picks pays one point zero six on a ninety-two percent chance. Ninety-seven and a half. But the edge does not compound. Every rung is priced from scratch, so it is about ninety-nine percent wherever you stop. Three mines, twenty tiles: two hundred twenty-seven times, one in two hundred thirty. Still ninety-nine percent. So the mine count changes the shape of the ride, not its price. Only the very bottom of the board costs more. Full derivation at betkyo dot com slash blog. Eighteen plus. Play responsibly.
 
 Full article: https://betkyo.com/en/blog/mines-odds-priced-every-multiplier-for-1-to-24-mines-and-the-first-pick-that-returns-97-5/
 
+## Ippei Mizuhara: 19,000 bets, 12% lost, and a bankroll that was never his
+
+Nineteen thousand bets. Twenty-five a day, for over two years. None of the money was his. Shohei Ohtani's interpreter bet with an illegal bookmaker, about twelve thousand eight hundred dollars a bet. He won a hundred and forty-two million. He lost a hundred and eighty-three. Net: forty million down. Twelve and a half percent of everything he wagered. A sports book's edge is about four and a half. At minus one-ten, that is a forty-six percent pick rate. Break-even is fifty-two. The hole stayed open because the bookie gave credit, and he paid it with seventeen million from Ohtani's account. A losing game is survivable only while the stakes are bounded by what you have. Credit removes the bound. Full story at betkyo dot com slash blog. Eighteen plus. Play responsibly.
+
+Full article: https://betkyo.com/en/blog/ippei-mizuhara-19000-bets-and-the-12-percent-that-broke-someone-elses-bankroll/
+
 ## Omikuji scratch card odds: the two-大吉 card that pays nothing
 
 Omikuji. Nine cells, three of a kind pays. But the whole card is decided by one number before you scratch. Dai-kichi, the big blessing, pays a hundred times. One card in a thousand. Some fortune hits on thirty point nine percent of cards. Return ninety-six point five five. Edge three point four five. The twist: the one-and-a-half-times fortune pays more of the return than the hundred-times jackpot. Twenty point five points against ten. The near miss is painted in. Nine cells, seven glyphs, at most two of each. So every losing card shows at least two pairs. Forty-six percent of losing cards show two dai-kichi. Thirty-two percent of all cards, against zero point one that actually pay. Three hundred and eighteen almosts for every win. The third glyph was never in play. Full table at betkyo dot com slash blog. Eighteen plus. Play responsibly.
 
 Full article: https://betkyo.com/en/blog/omikuji-priced-six-fortunes-a-30-9-percent-hit-rate-and-the-two-daikichi-card-that-pays-nothing/
+
+## Jontay Porter: the under only the player can guarantee (13-to-1, frozen)
+
+March twentieth, 2024. A Raptors bench player tells a bettor he's unwell. Then he plays three minutes. An associate had eighty thousand dollars on his unders. Points, rebounds, threes: all under. Four legs at minus one-ten pay about thirteen to one. Eighty thousand becomes one point one million. Here is the trick. An over needs the ball and the shots. An under only needs the player to stop. The sportsbook saw the money, froze the payout, and the NBA banned him for life. He also bet on NBA games through a friend's account: fifty-four thousand dollars, including his own team to lose. This October the NBA removed the bets themselves: single-player under parlays, bench-player unders, opening tips. Full story at betkyo dot com slash blog. Eighteen plus. Play responsibly.
+
+Full article: https://betkyo.com/en/blog/jontay-porter-the-under-only-the-player-can-guarantee-and-the-bets-the-nba-just-removed/
 
 ## Rock paper scissors odds: why ×1.97 is a 1.5% edge, not 1%
 
@@ -91,6 +115,12 @@ Full article: https://betkyo.com/en/blog/the-stake-hack-41-million-in-nine-hours
 Tairyo, our fishing slot. It returns about ninety-six percent. But look where that return lives. The reels you watch spin return twenty-nine point four percent. Exactly, from the strips. The other two thirds comes from free spins. They start once in three hundred eighty-six spins. So in a hundred spins, the feature never comes seventy-seven percent of the time. When it does come, the round averages two hundred fifty-eight times the bet. The middle one pays fifty-six. You can buy the round for two hundred seventy times the bet. That returns about ninety-five and a half percent. The average is real. It just lives in a feature most short sessions never reach. Full derivation at betkyo dot com slash blog. Eighteen plus. Play responsibly.
 
 Full article: https://betkyo.com/en/blog/tairyo-priced-29-percent-from-the-reels-67-from-one-spin-in-386/
+
+## Eddie Tipton: the lottery RNG that knew three dates a year
+
+December 2010. A man buys two hot dogs, a soda and two lottery tickets. One of them wins fourteen point three million. A year later a Belize trust tries to claim it, two hours before expiry, with the trust's name misspelled. The buyer was the lottery's own security director. He had helped write the random number generator. On three dates a year, on a draw day after eight p.m., his code stopped being random. Every jackpot tied to him, five states, six years, fell on November twenty-third or December twenty-ninth. Honest odds: one in ten point nine million. For the man who knew the seed: one in one. The audits checked the function. They could not check who chose the seed. Twenty-five years. Full story at betkyo dot com slash blog. Eighteen plus. Play responsibly.
+
+Full article: https://betkyo.com/en/blog/eddie-tipton-the-lottery-random-number-generator-that-knew-three-dates-a-year/
 
 
 

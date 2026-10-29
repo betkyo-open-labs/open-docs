@@ -1,8 +1,8 @@
 # Betkyo Journal — index
 
-95 articles. Every game figure in the Journal is read from the engine source that pays it; incident figures come from the public record. Methodology: [How the Journal verifies a number](https://betkyo.com/en/blog/how-the-journal-verifies-a-number-methodology/).
+100 articles. Every game figure in the Journal is read from the engine source that pays it; incident figures come from the public record. Methodology: [How the Journal verifies a number](https://betkyo.com/en/blog/how-the-journal-verifies-a-number-methodology/).
 
-- [Stories & Incidents](journal/incidents.md) — 12 articles
+- [Stories & Incidents](journal/incidents.md) — 17 articles
 - [Math of Luck](journal/math.md) — 37 articles
 - [Japan & History](journal/history.md) — 10 articles
 - [Fairness Studies](journal/fairness.md) — 9 articles
@@ -12,6 +12,11 @@
 
 ## Latest
 
+- 2026-10-29 · [Eddie Tipton: the lottery random number generator that knew three dates a year](https://betkyo.com/en/blog/eddie-tipton-the-lottery-random-number-generator-that-knew-three-dates-a-year/)
+- 2026-10-22 · [Hamster Kombat: 300 million players, a 60-billion-token airdrop, and the month they left](https://betkyo.com/en/blog/hamster-kombat-300-million-players-a-60-billion-token-airdrop-and-the-month-they-left/)
+- 2026-10-21 · [Don Johnson: $15 million from Atlantic City, and the 20% rebate that flipped the edge](https://betkyo.com/en/blog/don-johnson-15-million-from-atlantic-city-and-the-20-percent-rebate-that-flipped-the-edge/)
+- 2026-10-19 · [Jontay Porter: the under only the player can guarantee, and the bets the NBA just removed](https://betkyo.com/en/blog/jontay-porter-the-under-only-the-player-can-guarantee-and-the-bets-the-nba-just-removed/)
+- 2026-10-18 · [Ippei Mizuhara: 19,000 bets, a 12% loss rate, and the bankroll that was never his](https://betkyo.com/en/blog/ippei-mizuhara-19000-bets-and-the-12-percent-that-broke-someone-elses-bankroll/)
 - 2026-10-17 · [The Stake hack: $41 million in nine hours, and the vault that provably fair does not cover](https://betkyo.com/en/blog/the-stake-hack-41-million-in-nine-hours-and-the-vault-provably-fair-does-not-cover/)
 - 2026-10-13 · [The statistician who read scratch tickets without scratching them: Mohan Srivastava and the singleton flaw](https://betkyo.com/en/blog/mohan-srivastava-the-statistician-who-read-scratch-tickets-without-scratching-them/)
 - 2026-10-11 · [Omikuji, priced: six fortunes, a 30.9% hit rate, and the two-大吉 card that pays nothing](https://betkyo.com/en/blog/omikuji-priced-six-fortunes-a-30-9-percent-hit-rate-and-the-two-daikichi-card-that-pays-nothing/)
@@ -22,11 +27,6 @@
 - 2026-09-29 · [Rock, paper, scissors, priced: the ×1.97 win, a 1.5% edge per win, and how it compounds](https://betkyo.com/en/blog/rps-priced-the-1-97-win-a-1-5-percent-edge-per-win-and-how-it-compounds/)
 - 2026-09-28 · [Tairyō, priced: 29% from the reels, 67% from one spin in 386](https://betkyo.com/en/blog/tairyo-priced-29-percent-from-the-reels-67-from-one-spin-in-386/)
 - 2026-09-27 · [Dragon Road, priced: 2,000 tables, four 21-hand streaks a day, and the next hand at 45.86%](https://betkyo.com/en/blog/dragon-road-priced-2000-tables-four-21-hand-streaks-a-day-and-the-next-hand-at-45-86/)
-- 2026-09-26 · [Hanabi, priced exactly: every symbol, the free-spin ladder and the 95.81% return](https://betkyo.com/en/blog/hanabi-odds-priced-exactly-every-symbol-the-free-spin-ladder-and-the-95-81-return/)
-- 2026-09-25 · [Dice, priced exactly: the true win chance and return behind every target](https://betkyo.com/en/blog/dice-odds-priced-the-true-win-chance-and-return-behind-every-target/)
-- 2026-09-24 · [Bingo, priced exactly: every line count from zero to twelve and the return behind 38 balls](https://betkyo.com/en/blog/bingo-odds-priced-exactly-every-line-count-from-zero-to-twelve-and-the-return-behind-38-balls/)
-- 2026-09-23 · [Pagoda, priced: nine floors, three difficulties and the cents the ladder drops](https://betkyo.com/en/blog/pagoda-odds-priced-nine-floors-three-difficulties-and-the-cents-the-ladder-drops/)
-- 2026-09-22 · [Roulette hit rates, priced: how long a number takes and what a streak is worth](https://betkyo.com/en/blog/roulette-hit-rates-priced-how-long-a-number-takes-and-what-a-streak-is-worth/)
 
 ## Revised articles
 

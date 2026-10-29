@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-17",
+  "generated": "2026-10-29",
   "license": "CC BY 4.0",
-  "count": 543,
+  "count": 568,
   "items": [
     {
       "game": "dice",
@@ -488,6 +488,156 @@
       "q": "Is Andar Bahar provably fair?",
       "a": "Yes. Every Betkyo original publishes verifiable fairness data for each round, so you can check results yourself. The fairness page explains the exact scheme and walks through a verification.",
       "source": "https://betkyo.com/en/guide/andar-bahar/"
+    },
+    {
+      "article": "eddie-tipton-the-lottery-random-number-generator-that-knew-three-dates-a-year",
+      "q": "Who was Eddie Tipton?",
+      "a": "The information security director of the Multi-State Lottery Association, which ran Hot Lotto and other multi-state games, and one of the programmers of its random number generator. He bought the winning ticket for the 29 December 2010 Iowa Hot Lotto draw, a $14.3 million jackpot that was never paid because the claim came through an anonymous Belize trust that withdrew rather than name him.",
+      "source": "https://betkyo.com/en/blog/eddie-tipton-the-lottery-random-number-generator-that-knew-three-dates-a-year/"
+    },
+    {
+      "article": "eddie-tipton-the-lottery-random-number-generator-that-knew-three-dates-a-year",
+      "q": "How did he rig the draw?",
+      "a": "Forensic examination of a sister generator in Wisconsin found code added after certification that, on 27 May, 23 November and 29 December, if the date fell on a Wednesday or Saturday draw after 8 p.m., replaced the random draw with numbers he could compute. In June 2017 he confessed to installing it around 2005–2006. Prosecutors had earlier argued he used a draw-room visit on 20 November 2010, with the camera recording one second per minute, to install a self-deleting program.",
+      "source": "https://betkyo.com/en/blog/eddie-tipton-the-lottery-random-number-generator-that-knew-three-dates-a-year/"
+    },
+    {
+      "article": "eddie-tipton-the-lottery-random-number-generator-that-knew-three-dates-a-year",
+      "q": "Which jackpots were involved?",
+      "a": "Colorado, 23 November 2005 ($568,990 share, claimed by his brother Tommy); Wisconsin, 29 December 2007 ($783,257, via a company of Robert Rhodes); Kansas, 2010; Iowa, 29 December 2010 ($14.3 million, forfeited); Oklahoma, 23 November 2011 ($1.2 million). All on 23 November or 29 December.",
+      "source": "https://betkyo.com/en/blog/eddie-tipton-the-lottery-random-number-generator-that-knew-three-dates-a-year/"
+    },
+    {
+      "article": "eddie-tipton-the-lottery-random-number-generator-that-knew-three-dates-a-year",
+      "q": "What was the sentence?",
+      "a": "Convicted in July 2015 and sentenced to ten years; the convictions were vacated in June 2017 on the statute of limitations; he then pleaded guilty to ongoing criminal conduct and was sentenced on 22 August 2017 to 25 years, the maximum, with about $2.2 million in restitution split among Colorado, Oklahoma, Wisconsin and Kansas. He was paroled in July 2022 after five years.",
+      "source": "https://betkyo.com/en/blog/eddie-tipton-the-lottery-random-number-generator-that-knew-three-dates-a-year/"
+    },
+    {
+      "article": "eddie-tipton-the-lottery-random-number-generator-that-knew-three-dates-a-year",
+      "q": "Could this happen to a provably fair game?",
+      "a": "Not by this route. The operator commits to its seed with a published hash before the bet, the player supplies their own seed afterwards, and the result is a function of both, so an insider who wrote the code and holds the server seed still cannot pick the outcome. What remains possible is a server that does not honour its commitment, which is why the hash is published first and the player’s seed is theirs to set.",
+      "source": "https://betkyo.com/en/blog/eddie-tipton-the-lottery-random-number-generator-that-knew-three-dates-a-year/"
+    },
+    {
+      "article": "hamster-kombat-300-million-players-a-60-billion-token-airdrop-and-the-month-they-left",
+      "q": "What was Hamster Kombat?",
+      "a": "A Telegram mini-app launched in March 2024 in which players tapped a cartoon hamster to accumulate in-game coins, with a promised token airdrop. The makers announced 300 million players on 30 July 2024, the day they published a whitepaper allocating 60% of the HMSTR token to players.",
+      "source": "https://betkyo.com/en/blog/hamster-kombat-300-million-players-a-60-billion-token-airdrop-and-the-month-they-left/"
+    },
+    {
+      "article": "hamster-kombat-300-million-players-a-60-billion-token-airdrop-and-the-month-they-left",
+      "q": "What happened at the airdrop?",
+      "a": "Claims opened on 26 September 2024 and the token listed on Binance, HashKey, OKX, Bybit, KuCoin and others the same day. 131 million accounts qualified and about 2.3 million were banned for cheating. The price fell about 30% in the first 24 hours, from $0.012 to $0.0087, and reached $0.0025 by 1 November 2024.",
+      "source": "https://betkyo.com/en/blog/hamster-kombat-300-million-players-a-60-billion-token-airdrop-and-the-month-they-left/"
+    },
+    {
+      "article": "hamster-kombat-300-million-players-a-60-billion-token-airdrop-and-the-month-they-left",
+      "q": "How much did a player get?",
+      "a": "On average about 458 tokens: 60 billion tokens divided by 131 million qualified accounts, a calculation for this article. That was about $5 at the listing price and $1.15 at the November low; many players reported $10 or less. The actual formula weighted coin balances, referrals and card purchases, so most received less than the average.",
+      "source": "https://betkyo.com/en/blog/hamster-kombat-300-million-players-a-60-billion-token-airdrop-and-the-month-they-left/"
+    },
+    {
+      "article": "hamster-kombat-300-million-players-a-60-billion-token-airdrop-and-the-month-they-left",
+      "q": "How far did the player count fall?",
+      "a": "Reading the mini-app’s own monthly counter: over 100 million in late September 2024 to under 44 million by early November (Decrypt), 40.9 million (ForkLog, 4 November) and 38 million (BitPinas, 6 November). Against the 300 million summer figure that is a fall of about 86% in six weeks.",
+      "source": "https://betkyo.com/en/blog/hamster-kombat-300-million-players-a-60-billion-token-airdrop-and-the-month-they-left/"
+    },
+    {
+      "article": "hamster-kombat-300-million-players-a-60-billion-token-airdrop-and-the-month-they-left",
+      "q": "Was it a scam?",
+      "a": "Nothing in the public record says so: the token was delivered as the whitepaper described, exchanges listed it, and the bans were for cheating. The collapse is the arithmetic of a fixed pool divided among a growing number of players, paid at a price set on the day 131 million recipients could sell, in a game whose payout was decided after the play rather than before it.",
+      "source": "https://betkyo.com/en/blog/hamster-kombat-300-million-players-a-60-billion-token-airdrop-and-the-month-they-left/"
+    },
+    {
+      "article": "don-johnson-15-million-from-atlantic-city-and-the-20-percent-rebate-that-flipped-the-edge",
+      "q": "How much did Don Johnson win, and where?",
+      "a": "About $15 million across three Atlantic City casinos between December 2010 and April 2011: $4.23 million at Caesars in December, roughly $5 million at the Borgata over five months, and $5.8 million at the Tropicana in a single 12-hour session in April 2011, betting $100,000 a hand.",
+      "source": "https://betkyo.com/en/blog/don-johnson-15-million-from-atlantic-city-and-the-20-percent-rebate-that-flipped-the-edge/"
+    },
+    {
+      "article": "don-johnson-15-million-from-atlantic-city-and-the-20-percent-rebate-that-flipped-the-edge",
+      "q": "Was he counting cards?",
+      "a": "No. He was under constant surveillance at $100,000 a hand and the casinos ruled it out; card counting leaves a recognisable betting pattern he did not show. The Tropicana’s CEO described him as a player who makes every decision correctly, which by itself leaves the house a small edge.",
+      "source": "https://betkyo.com/en/blog/don-johnson-15-million-from-atlantic-city-and-the-20-percent-rebate-that-flipped-the-edge/"
+    },
+    {
+      "article": "don-johnson-15-million-from-atlantic-city-and-the-20-percent-rebate-that-flipped-the-edge",
+      "q": "What exactly did he negotiate?",
+      "a": "A trip-to-trip 20% rebate on losses once they passed $500,000, a $100,000 maximum bet with $1 million of his own front money, a hand-shuffled six-deck shoe, the dealer standing on soft 17, and the right to split and double on up to four hands. By his figuring the rules cut the house edge to about 0.25%.",
+      "source": "https://betkyo.com/en/blog/don-johnson-15-million-from-atlantic-city-and-the-20-percent-rebate-that-flipped-the-edge/"
+    },
+    {
+      "article": "don-johnson-15-million-from-atlantic-city-and-the-20-percent-rebate-that-flipped-the-edge",
+      "q": "Why does a 20% rebate beat a 0.25% edge?",
+      "a": "Because the rebate pays only on losses and he controlled when a loss stopped. Quitting at −$500,000 and paying $400,000, while playing on when ahead, makes each attempt worth about +$80,000 to +$90,000 in a fair-game approximation; the 0.25% edge costs about $250 per $100,000 hand, far too little to reverse that. The rebate is an option on variance, and large bets at a small edge maximise variance for minimum drag.",
+      "source": "https://betkyo.com/en/blog/don-johnson-15-million-from-atlantic-city-and-the-20-percent-rebate-that-flipped-the-edge/"
+    },
+    {
+      "article": "don-johnson-15-million-from-atlantic-city-and-the-20-percent-rebate-that-flipped-the-edge",
+      "q": "What happened afterwards?",
+      "a": "The Tropicana’s April 2011 table-game win fell 54.4% year-on-year in the state filings, its president was replaced within weeks, and all three casinos withdrew the terms; Caesars effectively barred him. The Tropicana continued to deal to him with modified discounts, and he says he won a further $2 million there in October 2011 without a rebate.",
+      "source": "https://betkyo.com/en/blog/don-johnson-15-million-from-atlantic-city-and-the-20-percent-rebate-that-flipped-the-edge/"
+    },
+    {
+      "article": "jontay-porter-the-under-only-the-player-can-guarantee-and-the-bets-the-nba-just-removed",
+      "q": "What did Jontay Porter do?",
+      "a": "Per the NBA’s April 2024 findings, he told a known bettor about his health before the 20 March 2024 game, then played three minutes and left, while an associate held an $80,000 parlay on his unders worth $1.1 million (frozen by the sportsbook). He had also placed at least 13 NBA bets through an associate’s account, $54,094 in total, including parlays on his own team to lose. He pleaded guilty in July 2024 to conspiracy to commit wire fraud.",
+      "source": "https://betkyo.com/en/blog/jontay-porter-the-under-only-the-player-can-guarantee-and-the-bets-the-nba-just-removed/"
+    },
+    {
+      "article": "jontay-porter-the-under-only-the-player-can-guarantee-and-the-bets-the-nba-just-removed",
+      "q": "Why are “under” bets the problem?",
+      "a": "An over needs minutes, the ball and made shots; an under needs only that the player stops. A bench player can make every under on his card certain by leaving early at no visible cost, which turns a parlay priced at about 13 to 1 into a near-sure payout.",
+      "source": "https://betkyo.com/en/blog/jontay-porter-the-under-only-the-player-can-guarantee-and-the-bets-the-nba-just-removed/"
+    },
+    {
+      "article": "jontay-porter-the-under-only-the-player-can-guarantee-and-the-bets-the-nba-just-removed",
+      "q": "How much would the parlay have paid?",
+      "a": "$80,000 to win $1.1 million, about 13.75 to 1, consistent with four legs at −110 (1.909⁴ ≈ 13.3). The sportsbook froze it as suspicious and it was never paid.",
+      "source": "https://betkyo.com/en/blog/jontay-porter-the-under-only-the-player-can-guarantee-and-the-bets-the-nba-just-removed/"
+    },
+    {
+      "article": "jontay-porter-the-under-only-the-player-can-guarantee-and-the-bets-the-nba-just-removed",
+      "q": "What did the NBA change in October 2026?",
+      "a": "It told its sportsbook partners to stop offering parlays built on a single player’s unders, unders on players expected to play under 12 minutes, bets on the opening-tip winner and bets on a player missing a specific shot. In 2024 the major books had already dropped unders on two-way and ten-day players.",
+      "source": "https://betkyo.com/en/blog/jontay-porter-the-under-only-the-player-can-guarantee-and-the-bets-the-nba-just-removed/"
+    },
+    {
+      "article": "jontay-porter-the-under-only-the-player-can-guarantee-and-the-bets-the-nba-just-removed",
+      "q": "Can a casino game have the same problem?",
+      "a": "Only when someone inside can see or steer the result, as in the 2000s online-poker superuser scandal. A provably fair original fixes the result by a commitment before the bet, so no participant has a lever afterwards; that property does not exist in a game played by people.",
+      "source": "https://betkyo.com/en/blog/jontay-porter-the-under-only-the-player-can-guarantee-and-the-bets-the-nba-just-removed/"
+    },
+    {
+      "article": "ippei-mizuhara-19000-bets-and-the-12-percent-that-broke-someone-elses-bankroll",
+      "q": "How much did Ippei Mizuhara bet and lose?",
+      "a": "About 19,000 bets between late 2021 and January 2024, roughly $325 million in total: $142.3 million in winning bets, $182.9 million in losing bets, a net loss of about $40.7 million (the complaint’s balance was −$40,678,435.94).",
+      "source": "https://betkyo.com/en/blog/ippei-mizuhara-19000-bets-and-the-12-percent-that-broke-someone-elses-bankroll/"
+    },
+    {
+      "article": "ippei-mizuhara-19000-bets-and-the-12-percent-that-broke-someone-elses-bankroll",
+      "q": "How much did he take from Shohei Ohtani?",
+      "a": "About $17 million, moved by impersonating Ohtani on calls to the bank. The court ordered $16,975,010 in restitution to Ohtani and $1,149,400 to the IRS. MLB’s investigation treated Ohtani as the victim; Mizuhara did not bet on baseball.",
+      "source": "https://betkyo.com/en/blog/ippei-mizuhara-19000-bets-and-the-12-percent-that-broke-someone-elses-bankroll/"
+    },
+    {
+      "article": "ippei-mizuhara-19000-bets-and-the-12-percent-that-broke-someone-elses-bankroll",
+      "q": "What sentence did Mizuhara receive?",
+      "a": "On 6 February 2025 he was sentenced to 57 months in federal prison and three years of supervised release after pleading guilty to bank fraud and filing a false tax return.",
+      "source": "https://betkyo.com/en/blog/ippei-mizuhara-19000-bets-and-the-12-percent-that-broke-someone-elses-bankroll/"
+    },
+    {
+      "article": "ippei-mizuhara-19000-bets-and-the-12-percent-that-broke-someone-elses-bankroll",
+      "q": "Was he a bad bettor or unlucky?",
+      "a": "Over 19,000 bets luck averages out. A 12.5% loss on money wagered at standard −110 pricing implies about a 46% win rate against the 52.4% needed to break even; the vig alone would have cost about 4.5%.",
+      "source": "https://betkyo.com/en/blog/ippei-mizuhara-19000-bets-and-the-12-percent-that-broke-someone-elses-bankroll/"
+    },
+    {
+      "article": "ippei-mizuhara-19000-bets-and-the-12-percent-that-broke-someone-elses-bankroll",
+      "q": "What does the case teach about bankroll?",
+      "a": "That a losing game is survivable only while the stakes are bounded by what you have. Credit from the bookmaker and access to someone else’s account removed the bound, which is how a bad habit became a $40 million hole and a federal case.",
+      "source": "https://betkyo.com/en/blog/ippei-mizuhara-19000-bets-and-the-12-percent-that-broke-someone-elses-bankroll/"
     },
     {
       "article": "the-stake-hack-41-million-in-nine-hours-and-the-vault-provably-fair-does-not-cover",

@@ -40,13 +40,13 @@
 - [Andar Bahar](https://betkyo.com/en/guide/andar-bahar/): The subcontinent’s fastest card game: a joker is cut, then cards race to Andar and Bahar — first side to match the joker wins.
 
 ## Journal (summaries)
-- [Stories & Incidents](https://github.com/betkyo-open-labs/open-docs/blob/main/journal/incidents.md)
 - [Math of Luck](https://github.com/betkyo-open-labs/open-docs/blob/main/journal/math.md)
+- [Stories & Incidents](https://github.com/betkyo-open-labs/open-docs/blob/main/journal/incidents.md)
+- [Game Notes](https://github.com/betkyo-open-labs/open-docs/blob/main/journal/notes.md)
 - [Japan & History](https://github.com/betkyo-open-labs/open-docs/blob/main/journal/history.md)
 - [Fairness Studies](https://github.com/betkyo-open-labs/open-docs/blob/main/journal/fairness.md)
 - [Crypto](https://github.com/betkyo-open-labs/open-docs/blob/main/journal/crypto.md)
 - [Mind & Responsibility](https://github.com/betkyo-open-labs/open-docs/blob/main/journal/mind.md)
-- [Game Notes](https://github.com/betkyo-open-labs/open-docs/blob/main/journal/notes.md)
 
 ## Optional
 - [Journal index](https://betkyo.com/en/blog/)

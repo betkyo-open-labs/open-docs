@@ -2,6 +2,12 @@
 
 Short answers from the Betkyo Journal's Game Notes category. Each entry is the article's own summary; the full derivation, tables and sources are on the linked page.
 
+## [Your balance, your deposits, your wins — in the chat: Betkyo in Telegram](https://betkyo.com/en/blog/betkyo-in-telegram-your-balance-your-deposits-your-wins-in-the-chat/)
+
+_2026-11-05 · 6 min_
+
+The official bot is **@BetkyoPlayBot**; its page is [betkyo.com/en/telegram](https://betkyo.com/en/telegram/). Reply with a number or a sentence: **1** balance, **2** play, **3** deposit address, **4** race standing, **5** today’s 福袋, **6** a quick dice bet, **7** a free roll, **8** withdraw, **0** quiet. A chat dice bet is shown as a card and nothing is placed until you tap *Place bet*; the chat caps bets at **$25 a bet and $250 a day**, withdrawals at **$1,000 a day** to an address you have used and **$300** to a new one. The Mini App starts you with **1,000 play chips** and no sign-up. The bot never asks first for a password, a code, a seed phrase or an address. 18+.
+
 ## [Designing Koban Flip: every face is fixed when you buy the coin](https://betkyo.com/en/blog/designing-koban-flip-every-face-is-fixed-when-you-buy-the-coin/)
 
 _2026-09-11 · 7 min_

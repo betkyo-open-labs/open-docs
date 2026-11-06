@@ -2,6 +2,18 @@
 
 Short answers from the Betkyo Journal's Math of Luck category. Each entry is the article's own summary; the full derivation, tables and sources are on the linked page.
 
+## [The longest losing streak, priced: what 100, 1,000 and 10,000 dice rolls will show you](https://betkyo.com/en/blog/the-longest-losing-streak-priced-what-100-1000-and-10000-dice-rolls-will-show-you/)
+
+_2026-11-06 · 8 min_
+
+On Betkyo dice at ×2 (roll under 49.50, a 49.495 % win), the longest losing run has a median of **6 in 100 rolls, 9 in 1,000 and 12 in 10,000**. The chance of at least **10 losses in a row** is **4.8 %** in 100 rolls, **41.3 %** in 1,000 and **99.5 %** in 10,000. At ×10 (roll under 9.90) the median longest run is **47 in 1,000 rolls**. The streak grows with the logarithm of the number of rolls, so a session ten times longer adds only about three losses to its worst run at ×2 — but a player doubling after each loss from $1 has lost $511 by the end of a 9-loss run and $32,767 by the end of a 15-loss run. Calculations for this article from the engine’s odds.
+
+## [How many bets before the edge shows, priced: the 40,000 rolls that hide a 1% house edge](https://betkyo.com/en/blog/how-many-bets-before-the-edge-shows-priced-the-40000-rolls-that-hide-a-1-percent-house-edge/)
+
+_2026-11-03 · 8 min_
+
+Per unit staked, a **×1.98 dice roll costs 1.01 cents on average and swings by 99 cents** — a standard deviation 98 times the edge. Expected loss grows with the number of bets N; the swing grows with √N; the two cross where N = (2 × 0.99 ÷ 0.0101)², about **38,000 rolls**. Until then more than one player in six is still ahead at 10,000 rolls, and **46% are ahead after 100 rolls**. Higher targets hide the edge longer: **limbo ×10 needs about 357,000 rounds, ×100 about 3.9 million**. The formula is (2 × standard deviation ÷ edge)², and the house clears it every day because it counts everyone’s rolls together.
+
 ## [Omikuji, priced: six fortunes, a 30.9% hit rate, and the two-大吉 card that pays nothing](https://betkyo.com/en/blog/omikuji-priced-six-fortunes-a-30-9-percent-hit-rate-and-the-two-daikichi-card-that-pays-nothing/)
 
 _2026-10-11 · 6 min_

@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-29",
+  "generated": "2026-11-06",
   "license": "CC BY 4.0",
-  "count": 568,
+  "count": 612,
   "items": [
     {
       "game": "dice",
@@ -488,6 +488,270 @@
       "q": "Is Andar Bahar provably fair?",
       "a": "Yes. Every Betkyo original publishes verifiable fairness data for each round, so you can check results yourself. The fairness page explains the exact scheme and walks through a verification.",
       "source": "https://betkyo.com/en/guide/andar-bahar/"
+    },
+    {
+      "article": "the-longest-losing-streak-priced-what-100-1000-and-10000-dice-rolls-will-show-you",
+      "q": "How many losses in a row are normal at a 50/50 dice bet?",
+      "a": "At ×2 on Betkyo dice (49.495 % to win), the typical longest losing run is 6 in 100 rolls, 9 in 1,000 and 12 in 10,000. Fewer than one session in ten of 1,000 rolls reaches 13. Calculations for this article from the engine’s odds.",
+      "source": "https://betkyo.com/en/blog/the-longest-losing-streak-priced-what-100-1000-and-10000-dice-rolls-will-show-you/"
+    },
+    {
+      "article": "the-longest-losing-streak-priced-what-100-1000-and-10000-dice-rolls-will-show-you",
+      "q": "What is the chance of 10 losses in a row on dice?",
+      "a": "At ×2 it is 4.8 % somewhere in 100 rolls, 41.3 % in 1,000 rolls and 99.5 % in 10,000 rolls. The chance of ten losses in the next ten rolls specifically is about 0.1 %, which is why a run feels rarer than it is.",
+      "source": "https://betkyo.com/en/blog/the-longest-losing-streak-priced-what-100-1000-and-10000-dice-rolls-will-show-you/"
+    },
+    {
+      "article": "the-longest-losing-streak-priced-what-100-1000-and-10000-dice-rolls-will-show-you",
+      "q": "Does a long losing streak make a win more likely?",
+      "a": "No. Each roll is drawn independently from its own seed and nonce; the chance on the next roll is the same as on the first. Believing otherwise is the gambler’s fallacy.",
+      "source": "https://betkyo.com/en/blog/the-longest-losing-streak-priced-what-100-1000-and-10000-dice-rolls-will-show-you/"
+    },
+    {
+      "article": "the-longest-losing-streak-priced-what-100-1000-and-10000-dice-rolls-will-show-you",
+      "q": "Why does the longest streak grow so slowly with more rolls?",
+      "a": "The longest run is about log(n × p) ÷ log(1 ÷ q) for n rolls with win chance p and loss chance q. At ×2 that adds about 3.4 losses for every tenfold increase in the number of rolls.",
+      "source": "https://betkyo.com/en/blog/the-longest-losing-streak-priced-what-100-1000-and-10000-dice-rolls-will-show-you/"
+    },
+    {
+      "article": "the-longest-losing-streak-priced-what-100-1000-and-10000-dice-rolls-will-show-you",
+      "q": "How much does a Martingale need to survive a losing streak on dice?",
+      "a": "Doubling from $1, a run of k losses costs 2^k − 1: $511 for nine, $4,095 for twelve, $32,767 for fifteen. In 1,000 rolls at ×2 a run of nine is reached 65.4 % of the time and twelve 12.6 % of the time.",
+      "source": "https://betkyo.com/en/blog/the-longest-losing-streak-priced-what-100-1000-and-10000-dice-rolls-will-show-you/"
+    },
+    {
+      "article": "jerry-and-marge-selbee-27-million-in-tickets-the-2-million-roll-down-and-the-lottery-ticket-worth-more-than-it-cost",
+      "q": "Who are Jerry and Marge Selbee?",
+      "a": "A retired couple from Evart, Michigan, who from 2003 to 2012 bought lottery tickets in bulk during Winfall (Michigan) and Cash WinFall (Massachusetts) roll-down drawings through a company, GS Investment Strategies. By Jason Fagone’s account from their records they grossed nearly $27 million and netted $7.75 million before taxes; 60 Minutes rounds it to $26 million and nearly $8 million.",
+      "source": "https://betkyo.com/en/blog/jerry-and-marge-selbee-27-million-in-tickets-the-2-million-roll-down-and-the-lottery-ticket-worth-more-than-it-cost/"
+    },
+    {
+      "article": "jerry-and-marge-selbee-27-million-in-tickets-the-2-million-roll-down-and-the-lottery-ticket-worth-more-than-it-cost",
+      "q": "What was a Cash WinFall roll-down?",
+      "a": "Cash WinFall capped its jackpot at $2 million. If the jackpot reached the cap and nobody matched all six numbers, the jackpot was distributed to the lower tiers: 26% to the match-fives, 47% to the match-fours, 27% to the match-threes, divided equally among the winning tickets in each tier and added to the standard prize. On 8 February 2010 that turned the $4,000 match-five into $22,096 and the $150 match-four into $807.52.",
+      "source": "https://betkyo.com/en/blog/jerry-and-marge-selbee-27-million-in-tickets-the-2-million-roll-down-and-the-lottery-ticket-worth-more-than-it-cost/"
+    },
+    {
+      "article": "jerry-and-marge-selbee-27-million-in-tickets-the-2-million-roll-down-and-the-lottery-ticket-worth-more-than-it-cost",
+      "q": "Was a Cash WinFall ticket really worth more than it cost?",
+      "a": "During a roll-down, yes. At the 8 February 2010 prizes a $2 ticket carried $2.14 in expected cash and about $2.43 counting the free tickets at face value, against about 74 cents at the standard prizes (calculation for this article from the published odds). The Inspector General put it as at least $1.15 in the pool for every $1 wagered in every roll-down drawing.",
+      "source": "https://betkyo.com/en/blog/jerry-and-marge-selbee-27-million-in-tickets-the-2-million-roll-down-and-the-lottery-ticket-worth-more-than-it-cost/"
+    },
+    {
+      "article": "jerry-and-marge-selbee-27-million-in-tickets-the-2-million-roll-down-and-the-lottery-ticket-worth-more-than-it-cost",
+      "q": "Was it legal?",
+      "a": "Yes. The Massachusetts Inspector General’s letter of 27 July 2012 found no collusion, no leaked information and no illegality, and said no player’s odds were affected by the high-volume betting. It did find that stores had broken Lottery rules by letting the syndicates operate terminals and by opening outside hours, and that the Lottery had known since 2005 and benefited.",
+      "source": "https://betkyo.com/en/blog/jerry-and-marge-selbee-27-million-in-tickets-the-2-million-roll-down-and-the-lottery-ticket-worth-more-than-it-cost/"
+    },
+    {
+      "article": "jerry-and-marge-selbee-27-million-in-tickets-the-2-million-roll-down-and-the-lottery-ticket-worth-more-than-it-cost",
+      "q": "How much did the syndicates win?",
+      "a": "The Inspector General interviewed four groups that wagered more than $40 million over seven years; the Boston Globe’s reading of the letter put their winnings at about $48 million. The MIT group bet $17–18 million and made at least $3.5 million on the letter’s floor estimate of a 20% margin; the Selbees’ company grossed about $27 million.",
+      "source": "https://betkyo.com/en/blog/jerry-and-marge-selbee-27-million-in-tickets-the-2-million-roll-down-and-the-lottery-ticket-worth-more-than-it-cost/"
+    },
+    {
+      "article": "jerry-and-marge-selbee-27-million-in-tickets-the-2-million-roll-down-and-the-lottery-ticket-worth-more-than-it-cost",
+      "q": "Why can’t a casino game have a roll-down?",
+      "a": "A roll-down needs a jackpot that accumulates from other people’s bets and a rule that releases it to whoever is holding tickets on a predictable night. A provably fair dice or limbo round pays out of its own stake by a fixed formula, with nothing carried between rounds, so its edge is a constant (1.0% on Betkyo dice, read from the engine source) and never changes sign.",
+      "source": "https://betkyo.com/en/blog/jerry-and-marge-selbee-27-million-in-tickets-the-2-million-roll-down-and-the-lottery-ticket-worth-more-than-it-cost/"
+    },
+    {
+      "article": "betkyo-in-telegram-your-balance-your-deposits-your-wins-in-the-chat",
+      "q": "What is the official Betkyo Telegram bot?",
+      "a": "@BetkyoPlayBot, that name exactly. Its page on the site is betkyo.com/en/telegram. Anything else with Betkyo in its name is not ours.",
+      "source": "https://betkyo.com/en/blog/betkyo-in-telegram-your-balance-your-deposits-your-wins-in-the-chat/"
+    },
+    {
+      "article": "betkyo-in-telegram-your-balance-your-deposits-your-wins-in-the-chat",
+      "q": "Do I need an account to try Betkyo in Telegram?",
+      "a": "No. The Mini App gives 1,000 play chips with no sign-up, and reply 7 in the chat rolls the dice in play chips. A real account is made at the first deposit or on request.",
+      "source": "https://betkyo.com/en/blog/betkyo-in-telegram-your-balance-your-deposits-your-wins-in-the-chat/"
+    },
+    {
+      "article": "betkyo-in-telegram-your-balance-your-deposits-your-wins-in-the-chat",
+      "q": "Can I bet from the Telegram chat?",
+      "a": "Yes, a dice bet in USDT: $1 at ×2, $2 at ×3 or $5 at ×1.5. The chat shows a card first and places nothing until you tap Place bet. Chat bets are capped at $25 a bet and $250 a day.",
+      "source": "https://betkyo.com/en/blog/betkyo-in-telegram-your-balance-your-deposits-your-wins-in-the-chat/"
+    },
+    {
+      "article": "betkyo-in-telegram-your-balance-your-deposits-your-wins-in-the-chat",
+      "q": "Is it safe to withdraw from the Telegram chat?",
+      "a": "Each withdrawal is a card you confirm. With two-factor sign-in, your authenticator code sends it; without it, a first-time address is held for a person to review and you are told by mail. The chat caps withdrawals at $1,000 a day to used addresses and $300 a day to a new one.",
+      "source": "https://betkyo.com/en/blog/betkyo-in-telegram-your-balance-your-deposits-your-wins-in-the-chat/"
+    },
+    {
+      "article": "betkyo-in-telegram-your-balance-your-deposits-your-wins-in-the-chat",
+      "q": "Will the Betkyo bot ever ask for my password or seed phrase?",
+      "a": "No. The bot never asks first for a password, a code, a seed phrase or an address, never predicts games and never promises money. Every money message it sends confirms something you did.",
+      "source": "https://betkyo.com/en/blog/betkyo-in-telegram-your-balance-your-deposits-your-wins-in-the-chat/"
+    },
+    {
+      "article": "betkyo-in-telegram-your-balance-your-deposits-your-wins-in-the-chat",
+      "q": "How do I stop the bot’s reminders?",
+      "a": "Reply 0 or tap Mute pushes. Reminders and suggestions stop; your own deposit and withdrawal confirmations still arrive. “Pushes on” turns them back on.",
+      "source": "https://betkyo.com/en/blog/betkyo-in-telegram-your-balance-your-deposits-your-wins-in-the-chat/"
+    },
+    {
+      "article": "the-squid-game-token-286000x-in-six-days-zero-in-five-minutes-and-the-market-where-you-could-buy-but-not-sell",
+      "q": "What was the Squid Game token?",
+      "a": "SQUID was a token launched on 26 October 2021 on PancakeSwap, named after the Netflix series and sold as the currency of a play-to-earn game that was to launch in November. It had no connection to Netflix. The game never launched.",
+      "source": "https://betkyo.com/en/blog/the-squid-game-token-286000x-in-six-days-zero-in-five-minutes-and-the-market-where-you-could-buy-but-not-sell/"
+    },
+    {
+      "article": "the-squid-game-token-286000x-in-six-days-zero-in-five-minutes-and-the-market-where-you-could-buy-but-not-sell",
+      "q": "How much did the Squid Game token rise and fall?",
+      "a": "From $0.01 at launch to $2,861.80 at 09:35 London time on 1 November 2021, a multiple of about 286,000, then to $0.0007926 five minutes later, a fall of 99.9999%, according to CoinMarketCap’s figures.",
+      "source": "https://betkyo.com/en/blog/the-squid-game-token-286000x-in-six-days-zero-in-five-minutes-and-the-market-where-you-could-buy-but-not-sell/"
+    },
+    {
+      "article": "the-squid-game-token-286000x-in-six-days-zero-in-five-minutes-and-the-market-where-you-could-buy-but-not-sell",
+      "q": "Why could nobody sell the Squid Game token?",
+      "a": "The white paper’s “anti-dump mechanism” required holders to own a second token, Marbles, to sell SQUID on PancakeSwap, and Marbles could only be earned in the game, which did not exist. CoinMarketCap warned on 29 October that users were reporting they could not sell.",
+      "source": "https://betkyo.com/en/blog/the-squid-game-token-286000x-in-six-days-zero-in-five-minutes-and-the-market-where-you-could-buy-but-not-sell/"
+    },
+    {
+      "article": "the-squid-game-token-286000x-in-six-days-zero-in-five-minutes-and-the-market-where-you-could-buy-but-not-sell",
+      "q": "How much did the Squid Game token developers take?",
+      "a": "An estimated $3.38 million, a figure first published by Gizmodo (corrected from an initial $2.1 million) and carried by the BBC and others. BscScan showed as many as 43,000 holding addresses at the end.",
+      "source": "https://betkyo.com/en/blog/the-squid-game-token-286000x-in-six-days-zero-in-five-minutes-and-the-market-where-you-could-buy-but-not-sell/"
+    },
+    {
+      "article": "the-squid-game-token-286000x-in-six-days-zero-in-five-minutes-and-the-market-where-you-could-buy-but-not-sell",
+      "q": "Was anyone charged over the Squid Game token?",
+      "a": "Not in the public record. The developers were anonymous, the website and social accounts were taken down within hours of the collapse, and the description “rug pull” is the press’s and CoinMarketCap’s characterisation, not a legal finding.",
+      "source": "https://betkyo.com/en/blog/the-squid-game-token-286000x-in-six-days-zero-in-five-minutes-and-the-market-where-you-could-buy-but-not-sell/"
+    },
+    {
+      "article": "the-squid-game-token-286000x-in-six-days-zero-in-five-minutes-and-the-market-where-you-could-buy-but-not-sell",
+      "q": "What does a one-way market do to a token’s price?",
+      "a": "In a constant-product pool the price is proportional to the square of the quote currency in the pool. With sells blocked, a price multiple of 286,000 needs only about 535 times the starting liquidity, and when the one party that can sell does so, the price falls to the floor in a single transaction because there is no bid underneath it.",
+      "source": "https://betkyo.com/en/blog/the-squid-game-token-286000x-in-six-days-zero-in-five-minutes-and-the-market-where-you-could-buy-but-not-sell/"
+    },
+    {
+      "article": "how-many-bets-before-the-edge-shows-priced-the-40000-rolls-that-hide-a-1-percent-house-edge",
+      "q": "How many bets does it take to see the house edge?",
+      "a": "For a ×1.98 coin-flip bet with a 1% edge, the expected loss exceeds two standard deviations of the swing after about 40,000 bets (exactly 38,439 on dice at roll under 50, 39,996 on limbo at ×2). After 100 bets 46% of players are still ahead; after 10,000, 15%.",
+      "source": "https://betkyo.com/en/blog/how-many-bets-before-the-edge-shows-priced-the-40000-rolls-that-hide-a-1-percent-house-edge/"
+    },
+    {
+      "article": "how-many-bets-before-the-edge-shows-priced-the-40000-rolls-that-hide-a-1-percent-house-edge",
+      "q": "What is the formula for how many bets until the edge shows?",
+      "a": "N = (k × σ ÷ e)², where σ is the standard deviation of one bet per unit staked, e the house edge per unit, and k the number of standard deviations you want the expected loss to clear. For σ = 0.99 and e = 0.0101 with k = 2, N is about 38,000.",
+      "source": "https://betkyo.com/en/blog/how-many-bets-before-the-edge-shows-priced-the-40000-rolls-that-hide-a-1-percent-house-edge/"
+    },
+    {
+      "article": "how-many-bets-before-the-edge-shows-priced-the-40000-rolls-that-hide-a-1-percent-house-edge",
+      "q": "Does a higher multiplier hide the house edge longer?",
+      "a": "Yes. The edge is the same but the swing grows with the payout. On limbo the two-standard-deviation crossing is 39,600 × target − 39,204 rounds: about 40,000 at ×2, 357,000 at ×10 and 3.9 million at ×100.",
+      "source": "https://betkyo.com/en/blog/how-many-bets-before-the-edge-shows-priced-the-40000-rolls-that-hide-a-1-percent-house-edge/"
+    },
+    {
+      "article": "how-many-bets-before-the-edge-shows-priced-the-40000-rolls-that-hide-a-1-percent-house-edge",
+      "q": "If I am ahead after 1,000 bets, does that mean the game is fair or favourable?",
+      "a": "No. On a 1% game 36% of players are ahead after 1,000 coin-flip bets, and on a game with no edge at all half are behind. A thousand results cannot distinguish a 1% edge from zero; the edge is read from the engine and the multiplier, not from a session.",
+      "source": "https://betkyo.com/en/blog/how-many-bets-before-the-edge-shows-priced-the-40000-rolls-that-hide-a-1-percent-house-edge/"
+    },
+    {
+      "article": "how-many-bets-before-the-edge-shows-priced-the-40000-rolls-that-hide-a-1-percent-house-edge",
+      "q": "Why does the casino see the edge when players cannot?",
+      "a": "Because it counts every player’s bets together. A thousand players making forty bets each are forty thousand bets in the house ledger, past the two-standard-deviation crossing, on a day when no single player has made enough bets to see anything.",
+      "source": "https://betkyo.com/en/blog/how-many-bets-before-the-edge-shows-priced-the-40000-rolls-that-hide-a-1-percent-house-edge/"
+    },
+    {
+      "article": "how-many-bets-before-the-edge-shows-priced-the-40000-rolls-that-hide-a-1-percent-house-edge",
+      "q": "How big a swing should I expect in a session?",
+      "a": "About the per-bet standard deviation times the square root of the number of bets times the stake, two sessions in three: $9.90 over 100 rolls at $1 on dice under 50, $31 over 1,000, $99 over 100 rounds of limbo at ×100.",
+      "source": "https://betkyo.com/en/blog/how-many-bets-before-the-edge-shows-priced-the-40000-rolls-that-hide-a-1-percent-house-edge/"
+    },
+    {
+      "article": "full-tilt-poker-390-million-owed-60-million-in-the-bank-and-the-email-that-said-player-funds-were-segregated",
+      "q": "What was Full Tilt Poker accused of in 2011?",
+      "a": "The US Attorney for the Southern District of New York alleged in a 20 September 2011 amended civil complaint that Full Tilt and its board told players their deposits were safe, segregated and available at any time while, by 31 March 2011, the company owed about $390 million to players and held about $60 million, had paid $443.9 million to its board and owners since April 2007, and had credited about $130 million of US deposits it never collected. Preet Bharara described it as “a global Ponzi scheme.” The civil case was settled in July 2012 without an admission of wrongdoing.",
+      "source": "https://betkyo.com/en/blog/full-tilt-poker-390-million-owed-60-million-in-the-bank-and-the-email-that-said-player-funds-were-segregated/"
+    },
+    {
+      "article": "full-tilt-poker-390-million-owed-60-million-in-the-bank-and-the-email-that-said-player-funds-were-segregated",
+      "q": "Were the poker games rigged?",
+      "a": "No such allegation appears in the federal complaint or in the Alderney Gambling Control Commission’s determination. The case concerned the custody of player funds, the distributions to owners and the misstatements about both, not the dealing of the cards.",
+      "source": "https://betkyo.com/en/blog/full-tilt-poker-390-million-owed-60-million-in-the-bank-and-the-email-that-said-player-funds-were-segregated/"
+    },
+    {
+      "article": "full-tilt-poker-390-million-owed-60-million-in-the-bank-and-the-email-that-said-player-funds-were-segregated",
+      "q": "How much did the owners receive?",
+      "a": "The complaint says $443,860,529.89 was distributed to board members and owners between April 2007 and April 2011: about $41 million to Ray Bitar, about $42 million to Howard Lederer, about $11.7 million to Rafael Furst, and at least $25 million to Chris Ferguson out of about $87.5 million allocated to him, with the balance characterised as owed.",
+      "source": "https://betkyo.com/en/blog/full-tilt-poker-390-million-owed-60-million-in-the-bank-and-the-email-that-said-player-funds-were-segregated/"
+    },
+    {
+      "article": "full-tilt-poker-390-million-owed-60-million-in-the-bank-and-the-email-that-said-player-funds-were-segregated",
+      "q": "Did players get their money back?",
+      "a": "Non-US players were repaid by PokerStars within 90 days of the 31 July 2012 settlement, about $184 million. US players filed petitions with the Garden City Group under a Department of Justice remission process funded from PokerStars’ $547 million forfeiture; the first payments, about $76 million to more than 27,500 players, were made on 28 February 2014, and about $95 million had been paid by June 2014, with further rounds after that.",
+      "source": "https://betkyo.com/en/blog/full-tilt-poker-390-million-owed-60-million-in-the-bank-and-the-email-that-said-player-funds-were-segregated/"
+    },
+    {
+      "article": "full-tilt-poker-390-million-owed-60-million-in-the-bank-and-the-email-that-said-player-funds-were-segregated",
+      "q": "What does this have to do with provably fair?",
+      "a": "A provably fair engine proves that each result was fixed by a committed seed before the bet and can be recomputed afterwards. It proves nothing about whether the operator holds cash behind player balances. Full Tilt is the clean example of a site whose results were never questioned and whose balances were not backed; the proof covers the roll, and the vault is a separate promise that no hash can make.",
+      "source": "https://betkyo.com/en/blog/full-tilt-poker-390-million-owed-60-million-in-the-bank-and-the-email-that-said-player-funds-were-segregated/"
+    },
+    {
+      "article": "dennis-nikrasch-the-locksmith-who-reprogrammed-the-slot-chip-ten-jackpots-6-million-and-a-swap-under-a-minute",
+      "q": "Who was Dennis Nikrasch?",
+      "a": "A Chicago-trained locksmith who became Nevada’s best-known slot cheat. He rigged mechanical-reel slots for about $10 million between 1976 and 1979 (indicted 1983, sentenced to 15 years in 1986, paroled January 1991), then from September 1996 ran a second scheme against computer-based machines that took about $6 million in ten jackpots before his arrest on 9 June 1998.",
+      "source": "https://betkyo.com/en/blog/dennis-nikrasch-the-locksmith-who-reprogrammed-the-slot-chip-ten-jackpots-6-million-and-a-swap-under-a-minute/"
+    },
+    {
+      "article": "dennis-nikrasch-the-locksmith-who-reprogrammed-the-slot-chip-ten-jackpots-6-million-and-a-swap-under-a-minute",
+      "q": "How did the 1990s scheme work?",
+      "a": "He practised on a slot machine at home and obtained computer chips from the manufacturer. In the casino, with a blocker shielding him from cameras, he opened the machine with an unauthorised key, clipped a hand-held device onto the chip and programmed the machine to pay a jackpot, then left. A nominee player sat down later and won on the first coins; Nikrasch took 50% to 70% of the jackpot.",
+      "source": "https://betkyo.com/en/blog/dennis-nikrasch-the-locksmith-who-reprogrammed-the-slot-chip-ten-jackpots-6-million-and-a-swap-under-a-minute/"
+    },
+    {
+      "article": "dennis-nikrasch-the-locksmith-who-reprogrammed-the-slot-chip-ten-jackpots-6-million-and-a-swap-under-a-minute",
+      "q": "What were the biggest hits?",
+      "a": "$3.7 million at Harrah’s in July 1997 and $1.7 million at the Luxor in November 1997, both won by relatives of a co-defendant, plus $200,500 at the Excalibur in September 1996, a BMW at the Rio and a Jaguar at the Luxor. At his arrest he was working toward a Megabucks jackpot of more than $17 million.",
+      "source": "https://betkyo.com/en/blog/dennis-nikrasch-the-locksmith-who-reprogrammed-the-slot-chip-ten-jackpots-6-million-and-a-swap-under-a-minute/"
+    },
+    {
+      "article": "dennis-nikrasch-the-locksmith-who-reprogrammed-the-slot-chip-ten-jackpots-6-million-and-a-swap-under-a-minute",
+      "q": "What was the sentence?",
+      "a": "Nikrasch pleaded guilty on 1 December 1998 to conspiracy, interstate travel in aid of racketeering, money laundering and interstate transportation of stolen property, agreed to brief state and federal regulators on his method, and was sentenced to seven and a half years. His co-defendants received 3 years 10 months, 2 years 9 months, and 4 months plus house arrest.",
+      "source": "https://betkyo.com/en/blog/dennis-nikrasch-the-locksmith-who-reprogrammed-the-slot-chip-ten-jackpots-6-million-and-a-swap-under-a-minute/"
+    },
+    {
+      "article": "dennis-nikrasch-the-locksmith-who-reprogrammed-the-slot-chip-ten-jackpots-6-million-and-a-swap-under-a-minute",
+      "q": "Could a chip swap work against a provably fair slot?",
+      "a": "No, because there is no stored program deciding the result. Each reel stop is a function of a server seed committed by its hash before the bet, the player’s own seed and a round counter, using a published weight table. Changing the outcome after the commitment would change the seed, and the fingerprint the player already holds would stop matching. What remains to trust is the commitment and the custody of funds, not a lock on a cabinet.",
+      "source": "https://betkyo.com/en/blog/dennis-nikrasch-the-locksmith-who-reprogrammed-the-slot-chip-ten-jackpots-6-million-and-a-swap-under-a-minute/"
+    },
+    {
+      "article": "the-tran-organization-false-shuffles-42-guilty-pleas-and-the-slug-of-cards-that-came-back-in-order",
+      "q": "What was the Tran Organization?",
+      "a": "A San Diego-based casino-cheating enterprise founded about August 2002 by Phuong Quoc Truong, Van Thu Tran and Tai Khiem Tran. Its members bribed blackjack and mini-baccarat dealers and supervisors to perform false shuffles, tracked the unshuffled “slug” of cards with hidden transmitters and software, and bet on hands whose outcome they already knew.",
+      "source": "https://betkyo.com/en/blog/the-tran-organization-false-shuffles-42-guilty-pleas-and-the-slug-of-cards-that-came-back-in-order/"
+    },
+    {
+      "article": "the-tran-organization-false-shuffles-42-guilty-pleas-and-the-slug-of-cards-that-came-back-in-order",
+      "q": "How does a false shuffle work?",
+      "a": "The dealer appears to shuffle but keeps a block of cards in their original order. A crew member who has recorded that block signals when to do it; when the block comes back to the table the crew knows each hand’s outcome in advance and bets the maximum on the winning side.",
+      "source": "https://betkyo.com/en/blog/the-tran-organization-false-shuffles-42-guilty-pleas-and-the-slug-of-cards-that-came-back-in-order/"
+    },
+    {
+      "article": "the-tran-organization-false-shuffles-42-guilty-pleas-and-the-slug-of-cards-that-came-back-in-order",
+      "q": "How much did they take?",
+      "a": "The leaders admitted up to $7 million from about 29 casinos in eight US states and Ontario between 2002 and 2007; the first indictment put the figure at $3.3 million, and the biggest single session was $868,000 in about ninety minutes at Resorts East Chicago in October 2005.",
+      "source": "https://betkyo.com/en/blog/the-tran-organization-false-shuffles-42-guilty-pleas-and-the-slug-of-cards-that-came-back-in-order/"
+    },
+    {
+      "article": "the-tran-organization-false-shuffles-42-guilty-pleas-and-the-slug-of-cards-that-came-back-in-order",
+      "q": "What were the sentences?",
+      "a": "Forty-two defendants pleaded guilty and one dealer was convicted at trial. Phuong Quoc Truong received 70 months, $2,791,146 in forfeiture and $5,753,416 in restitution in March 2010; Van Thu Tran received 36 months and the same restitution in September 2012; George Michael Lee received 36 months and $2,208,019 in restitution in July 2009.",
+      "source": "https://betkyo.com/en/blog/the-tran-organization-false-shuffles-42-guilty-pleas-and-the-slug-of-cards-that-came-back-in-order/"
+    },
+    {
+      "article": "the-tran-organization-false-shuffles-42-guilty-pleas-and-the-slug-of-cards-that-came-back-in-order",
+      "q": "Could a false shuffle work against a provably fair table?",
+      "a": "No, because there is no shoe to hold still. Each card is an independent draw from a number derived from a committed server seed, the player’s seed and a round counter, so no card order persists from one round to the next and there is no dealer whose shuffle could be faked. What remains to trust is the commitment itself, not the order of a physical deck.",
+      "source": "https://betkyo.com/en/blog/the-tran-organization-false-shuffles-42-guilty-pleas-and-the-slug-of-cards-that-came-back-in-order/"
     },
     {
       "article": "eddie-tipton-the-lottery-random-number-generator-that-knew-three-dates-a-year",

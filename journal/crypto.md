@@ -28,19 +28,19 @@ A **stablecoin** is a token whose issuer promises it can be redeemed for one uni
 
 ## [What a confirmation is, and why your deposit waits for several](https://betkyo.com/en/blog/what-a-confirmation-is/)
 
-_2026-09-01 · 8 min_
+_2026-09-01, revised 2026-11-06 · 8 min_
 
 A **confirmation** is one block mined on top of the block that contains your transaction. Zero confirmations means the network has seen the transaction; it has not yet agreed on it. Each further block makes reversing it exponentially harder — in the Bitcoin whitepaper’s own calculation, an attacker with 10% of the network has a **20% chance of undoing a one-confirmation transaction and about 0.02% after six**, which is where the “six confirmations” convention comes from. A casino waits before crediting because a deposit that is credited, wagered and then reversed is money the house has already paid out. **The required count is set per coin and printed on the deposit screen next to the address.**
 
 ## [Right coin, wrong network: how a deposit goes missing](https://betkyo.com/en/blog/right-coin-wrong-network/)
 
-_2026-09-01 · 8 min_
+_2026-09-01, revised 2026-11-06 · 8 min_
 
 A token like USDT is not one asset. It is a separate asset on every chain it exists on — TRON, Ethereum, Polygon and others — and a deposit address is valid on **exactly one** of them. Send the Ethereum version to an address that is only being watched on TRON and the coins arrive on a chain nobody is looking at. Some mistakes protect themselves: a TRON address begins with **T**, a Bitcoin address with **1, 3 or bc1**, and a wallet will refuse to send across formats. The dangerous case is the one that looks right — **Ethereum, Polygon and other EVM chains all use the same 0x address**, so a transfer on the wrong one goes through without complaint. This wallet asks you to choose the network **before** it issues an address, and some coins (XRP) need a **destination tag** as well as an address.
 
 ## [Where the money sits: hot wallets, cold storage and what “proof of reserves” proves](https://betkyo.com/en/blog/where-the-money-sits/)
 
-_2026-08-07 · 8 min_
+_2026-08-07, revised 2026-11-06 · 8 min_
 
 A deposit moves coins into someone else’s custody — you now hold a **claim**, not the coins. Operators split holdings into a small **hot wallet** for withdrawals and a large **cold** reserve kept offline, because online keys are the ones that get stolen. **Proof of reserves** shows a venue controls certain assets at a point in time; it does **not** show what it owes, so reserves without a matching liability attestation prove much less than they appear to. The reliable player-side defence is simply not leaving more on any platform than you intend to play with.
 
@@ -52,7 +52,7 @@ No single exchange owns the price of a crypto asset — each has its own order b
 
 ## [Paying the network, not the house: a player’s guide to crypto fees](https://betkyo.com/en/blog/crypto-fees-for-players/)
 
-_2026-07-24 · 8 min_
+_2026-07-24, revised 2026-11-06 · 8 min_
 
 Crypto fees are paid to **the network’s miners or validators, not to the casino** — they are the cost of writing to a public ledger. The three habits that minimize them: **pick the cheap rail for the asset** (the same stablecoin can differ enormously between networks), **avoid peak congestion** (fees are an auction), and **withdraw in fewer, larger moves** rather than many small ones. Whatever the network charges, it should be shown to you before you confirm — here, it is.
 

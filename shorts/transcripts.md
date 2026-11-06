@@ -44,6 +44,18 @@ Dragon Road. A wall of baccarat tables on long streaks. Twenty-one Bankers in a 
 
 Full article: https://betkyo.com/en/blog/dragon-road-priced-2000-tables-four-21-hand-streaks-a-day-and-the-next-hand-at-45-86/
 
+## A 1% house edge hides for 40,000 rolls
+
+A one percent house edge. Can you see it? Not in one roll. Not in a thousand. Dice under fifty pays one point nine eight. Costs one cent a dollar. Swings ninety-nine. The loss grows with the number of rolls. The swing grows with the square root. They cross near forty thousand. After a hundred rolls, forty-six players in a hundred are still ahead. After ten thousand, fifteen. Higher targets hide it longer. Limbo at ten x: three hundred fifty-seven thousand rounds. At a hundred x, nearly four million. At nine hundred an hour, forty thousand rolls is five working days. Four million is a year and a half. The house never waits. A thousand players, forty rolls each, is forty thousand rolls in one ledger. So the edge is read, not seen. It is in the multiplier. Full tables on the Betkyo Journal.
+
+Full article: https://betkyo.com/en/blog/how-many-bets-before-the-edge-shows-priced-the-40000-rolls-that-hide-a-1-percent-house-edge/
+
+## Full Tilt Poker: $390M owed, $60M in the bank
+
+May 2008. A poker site emails a player: all player funds are segregated and held separately. March 2011. It owes players three hundred ninety million. The bank holds sixty. In four years the owners were paid four hundred forty-three point nine million. More than all players were owed. When US deposits stopped clearing, it credited the accounts anyway. One hundred thirty million that never arrived. June 2011. The chief executive writes: at this point we can't even take a five million run. The games were never accused of anything. The cards were fair. The vault was fifteen percent full. US players got their first dollar back one thousand and fifty days later. About two thousand seven hundred sixty each. A provably fair engine proves the roll. Nothing proves the vault. Full story on the Betkyo Journal.
+
+Full article: https://betkyo.com/en/blog/full-tilt-poker-390-million-owed-60-million-in-the-bank-and-the-email-that-said-player-funds-were-segregated/
+
 ## Hamster Kombat: 300M players, a 60B-token airdrop, and the month they left
 
 Summer 2024. A Telegram tap game says it has three hundred million players. The promise: sixty percent of the token to players. Price unknown, formula unknown. People tapped for months anyway. September twenty-sixth: airdrop. One hundred thirty-one million qualify. The price drops thirty percent on day one. Do the division. Sixty billion tokens over one hundred thirty-one million people: about four fifty-eight each. At listing, five dollars. By November, one fifteen. Ten minutes a day for six months: cents an hour. Every new player raised the denominator. Growth did not make the prize bigger. It made each share smaller. Six weeks later the monthly counter read forty-one million. They left the month they learned what an hour was worth. Full story at betkyo dot com slash blog. Eighteen plus. Play responsibly.
@@ -80,6 +92,12 @@ Nineteen thousand bets. Twenty-five a day, for over two years. None of the money
 
 Full article: https://betkyo.com/en/blog/ippei-mizuhara-19000-bets-and-the-12-percent-that-broke-someone-elses-bankroll/
 
+## Dennis Nikrasch: the locksmith who rewrote the slot chip
+
+September 1996, Las Vegas. A retiree plays a few coins and wins two hundred thousand five hundred dollars. The machine paid exactly what it had been told to. Someone had rewritten its chip an hour earlier. Dennis Nikrasch, a locksmith. He practised on a slot machine in his own house. Open the cabinet with a key. Clip onto the chip. Write in the jackpot. Under a minute. Walk out. Three point seven million at Harrah's. One point seven at the Luxor. Ten hits, six million dollars. An honest spin costs about four cents a dollar. A rigged first spin returns the whole prize. Arrested in 1998. Seven and a half years. A committed seed has no chip to clip onto. Full story at betkyo dot com slash blog. Eighteen plus. Play responsibly.
+
+Full article: https://betkyo.com/en/blog/dennis-nikrasch-the-locksmith-who-reprogrammed-the-slot-chip-ten-jackpots-6-million-and-a-swap-under-a-minute/
+
 ## Omikuji scratch card odds: the two-大吉 card that pays nothing
 
 Omikuji. Nine cells, three of a kind pays. But the whole card is decided by one number before you scratch. Dai-kichi, the big blessing, pays a hundred times. One card in a thousand. Some fortune hits on thirty point nine percent of cards. Return ninety-six point five five. Edge three point four five. The twist: the one-and-a-half-times fortune pays more of the return than the hundred-times jackpot. Twenty point five points against ten. The near miss is painted in. Nine cells, seven glyphs, at most two of each. So every losing card shows at least two pairs. Forty-six percent of losing cards show two dai-kichi. Thirty-two percent of all cards, against zero point one that actually pay. Three hundred and eighteen almosts for every win. The third glyph was never in play. Full table at betkyo dot com slash blog. Eighteen plus. Play responsibly.
@@ -98,6 +116,18 @@ Rock, paper, scissors against the dealer. A win pays one point nine seven times 
 
 Full article: https://betkyo.com/en/blog/rps-priced-the-1-97-win-a-1-5-percent-edge-per-win-and-how-it-compounds/
 
+## Jerry & Marge Selbee: the $2M roll-down that made a $2 ticket worth $2.14
+
+2003. A retired couple in Michigan reads a lottery brochure. Jerry says: three minutes. The game had a cap. Jackpot hits two million, nobody wins, the money rolls down into the smaller prizes. On a roll-down night the one-in-thirty-nine-thousand match paid twenty-two thousand instead of four. So a two-dollar ticket was worth two fourteen in cash. Buy enough, and the averages arrive. Three hundred twelve thousand tickets a drawing, sorted by hand in a motel room. Ten days. The risk: five to thirteen percent a night that someone hit the jackpot and nothing rolled down. It happened once. Nine years: twenty-seven million in tickets, seven point seven five million kept. Legal. The state took forty percent. A casino edge never rolls down. That's the whole difference. Full story on the Betkyo Journal.
+
+Full article: https://betkyo.com/en/blog/jerry-and-marge-selbee-27-million-in-tickets-the-2-million-roll-down-and-the-lottery-ticket-worth-more-than-it-cost/
+
+## Squid Game token: $0.01 to $2,861 in six days, zero in five minutes
+
+October 2021. A Squid Game token lists at one cent. You can buy it. You can't sell it. The white paper calls that anti-dumping. To sell, you need a second token, from a game that does not exist. Six days later: ninety dollars at seven a.m. Twenty-eight sixty-one at nine thirty-five. Five minutes later: eight hundredths of a cent. The site, the white paper and the accounts are gone. The developers leave with three point four million and a Telegram apology. Forty-three thousand holders stay. In a one-way pool the price is the square of the money in it. Two eighty-six thousand x took only five thirty-five x. So the two thousand eight hundred sixty-one dollars was the last buyer's price. Nobody else could have it. A price is only a price if there is a way out at it. Try to sell one. Full story on the Betkyo Journal.
+
+Full article: https://betkyo.com/en/blog/the-squid-game-token-286000x-in-six-days-zero-in-five-minutes-and-the-market-where-you-could-buy-but-not-sell/
+
 ## He read scratch tickets without scratching them: the singleton flaw
 
 In 2003 a Toronto statistician won three dollars on a scratch ticket. Then he looked again. The tic-tac-toe ticket showed seventy-two numbers before you scratched anything. Most numbers repeated across the boards. A few appeared only once. He called them singletons. Three singletons in a row on one board, and the ticket was a winner about nine times in ten. Forty-five seconds a ticket, about six hundred dollars a day. Not worth his time. He sorted twenty unscratched tickets into winners and losers and mailed them to the lottery. Game pulled within days. The flaw: a lottery that fixes how many winners it prints cannot also make every ticket random. Full story at betkyo dot com slash blog. Eighteen plus. Play responsibly.
@@ -110,6 +140,12 @@ September fourth, 2023, 12:48 UTC. The biggest crypto casino in the world starte
 
 Full article: https://betkyo.com/en/blog/the-stake-hack-41-million-in-nine-hours-and-the-vault-provably-fair-does-not-cover/
 
+## 10 losses in a row at 50/50 dice: 41% in 1,000 rolls
+
+Ten losses in a row at fifty-fifty dice sounds rigged. In a thousand rolls it happens forty-one percent of the time. Betkyo dice: nine thousand nine hundred ninety-nine equal results. Roll under forty-nine fifty pays double. Your longest losing run: about six in a hundred rolls, nine in a thousand, twelve in ten thousand. Ten times more rolls adds only about three losses to the worst run. It grows with the logarithm. At a ten-times target the typical worst run in a thousand rolls is forty-seven. Double after every loss from one dollar, and nine losses cost five hundred eleven. Two sessions in three get there. And the next roll is still forty-nine point five percent. The dice do not remember. Price the streak before the session, not during it. Full story on the Betkyo Journal.
+
+Full article: https://betkyo.com/en/blog/the-longest-losing-streak-priced-what-100-1000-and-10000-dice-rolls-will-show-you/
+
 ## Slot RTP taken apart: the reels return 29%, free spins the rest
 
 Tairyo, our fishing slot. It returns about ninety-six percent. But look where that return lives. The reels you watch spin return twenty-nine point four percent. Exactly, from the strips. The other two thirds comes from free spins. They start once in three hundred eighty-six spins. So in a hundred spins, the feature never comes seventy-seven percent of the time. When it does come, the round averages two hundred fifty-eight times the bet. The middle one pays fifty-six. You can buy the round for two hundred seventy times the bet. That returns about ninety-five and a half percent. The average is real. It just lives in a feature most short sessions never reach. Full derivation at betkyo dot com slash blog. Eighteen plus. Play responsibly.
@@ -121,6 +157,12 @@ Full article: https://betkyo.com/en/blog/tairyo-priced-29-percent-from-the-reels
 December 2010. A man buys two hot dogs, a soda and two lottery tickets. One of them wins fourteen point three million. A year later a Belize trust tries to claim it, two hours before expiry, with the trust's name misspelled. The buyer was the lottery's own security director. He had helped write the random number generator. On three dates a year, on a draw day after eight p.m., his code stopped being random. Every jackpot tied to him, five states, six years, fell on November twenty-third or December twenty-ninth. Honest odds: one in ten point nine million. For the man who knew the seed: one in one. The audits checked the function. They could not check who chose the seed. Twenty-five years. Full story at betkyo dot com slash blog. Eighteen plus. Play responsibly.
 
 Full article: https://betkyo.com/en/blog/eddie-tipton-the-lottery-random-number-generator-that-knew-three-dates-a-year/
+
+## The Tran Organization: false shuffles and the slug that came back in order
+
+October 2005, Indiana. A mini-baccarat table pays out eight hundred sixty-eight thousand dollars in ninety minutes. Nothing on the tape looked wrong. The dealer shuffled. The players bet. The cards fell. Except the dealer had been paid not to shuffle. A block of cards, the slug, came back in the same order. The crew tracked the cards with hidden transmitters and software. They already knew every hand. Honest baccarat costs the banker bettor one point zero six percent a hand. With the hand known: plus ninety-five percent. Twenty-nine casinos, up to seven million dollars, forty-two guilty pleas. Seventy months for the leader. The cheat lived in a shoe that could remember its order. A shoe dealt from a committed seed has nothing to remember. Full story at betkyo dot com slash blog. Eighteen plus. Play responsibly.
+
+Full article: https://betkyo.com/en/blog/the-tran-organization-false-shuffles-42-guilty-pleas-and-the-slug-of-cards-that-came-back-in-order/
 
 
 

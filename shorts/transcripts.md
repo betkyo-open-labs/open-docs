@@ -164,6 +164,12 @@ October 2005, Indiana. A mini-baccarat table pays out eight hundred sixty-eight 
 
 Full article: https://betkyo.com/en/blog/the-tran-organization-false-shuffles-42-guilty-pleas-and-the-slug-of-cards-that-came-back-in-order/
 
+## The Triple Six Fix: the lottery host who weighted the balls
+
+April 1980, live on Pennsylvania television. The Daily Number comes up six, six, six. The host had arranged it. Three machines, ten ping-pong balls each. Every ball except the fours and sixes was injected with white latex paint. That cut a thousand possible numbers down to eight. A one-dollar ticket paid five hundred. Honest, it was worth fifty cents. Rigged, about sixty-two dollars fifty. Two brothers bought about fourteen thousand tickets, roughly twenty-four hundred on six-six-six. On TV the balls looked normal. The money did not. Too many bets sat on eight numbers out of a thousand. The host, Nick Perry, was convicted in May 1981 and served two years. Most of the money was never paid. A draw is only as fair as whoever can touch the randomness. Full story on the Betkyo Journal.
+
+Full article: https://betkyo.com/en/blog/the-triple-six-fix-1980-pennsylvania-lottery-weighted-balls-eight-numbers-and-the-bets-that-gave-it-away/
+
 
 
 ---

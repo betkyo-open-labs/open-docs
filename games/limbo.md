@@ -9,9 +9,9 @@ Limbo is the most direct risk dial on the floor: you literally type the payout y
 2. Enter a target multiplier, up to ×10,000.
 3. If the round result meets or beats your target, you win your target multiplier.
 
-## Verify a round
+## How a round is derived
 
-Every Limbo round is derived from a committed server seed, your client seed and a nonce. After the server seed is revealed you can recompute the round with the open verifier: [provably-fair-verifier](https://github.com/betkyo-open-labs/provably-fair-verifier) (also on npm as `betkyo-provably-fair-verifier`). The scheme is explained at [https://betkyo.com/en/fairness/](https://betkyo.com/en/fairness/).
+Every Limbo round is derived from a server seed committed by SHA-256 hash before you bet, your client seed and a nonce. The open verifier implements the same derivation: [provably-fair-verifier](https://github.com/betkyo-open-labs/provably-fair-verifier) (also on npm as `betkyo-provably-fair-verifier`). The scheme is explained at [https://betkyo.com/en/fairness/](https://betkyo.com/en/fairness/).
 
 ## Odds and derivations
 
@@ -19,8 +19,8 @@ Every Limbo round is derived from a committed server seed, your client seed and 
 - [How many bets before the edge shows, priced: the 40,000 rolls that hide a 1% house edge](https://betkyo.com/en/blog/how-many-bets-before-the-edge-shows-priced-the-40000-rolls-that-hide-a-1-percent-house-edge/) — A 1% house edge is not something a player can see. Each roll swings a hundred times more than it costs, and the swing only shrinks relative to the cost as the square root of the number of bets. On a ×1.98 coin flip the expected loss does not clear two standard deviations until about 40,000 rolls; on a ×100 limbo target it takes 3.9 million. Here is the exact number for every setting, what it is in hours, and why the house never has to wait.
 - [Doubling $100, priced: the chance of doubling before busting at every stake, every edge and every odds](https://betkyo.com/en/blog/doubling-100-dollars-priced-the-chance-of-doubling-before-busting-at-every-stake-and-edge/) — Walk in with $100 and leave with $200 or nothing: a single all-in bet at ×1.98 gets you to $198 just under half the time. The same game at $1 a bet reaches $200 11% of the time, and at Chinchiro’s 2.6% edge, half a percent. Here is the whole table — why small bets lose more often than big ones, why a 1-in-100 long shot doubles you more often than a coin flip at the same stake, and what the house edge really buys the house.
 - [Glossary: casino math and provably fair terms, defined in two sentences each](https://betkyo.com/en/blog/glossary-of-casino-math-and-provably-fair-terms/) — Thirty-two terms that appear across the Journal, each defined in two sentences and linked to the article that uses it with real numbers. Where a term has a specific meaning on this site, the definition says so.
-- [One rounding, not many: why the verifier matches the server bit for bit](https://betkyo.com/en/blog/one-rounding-not-many-why-the-verifier-matches-the-server-bit-for-bit/) — A provably fair verifier has one job: recompute the round and get the same answer the server got. That sounds like arithmetic and is actually engineering, because the server was written in Kotlin and the verifier runs in your browser, and the two turn the same 256-bit hash into the same number only if they round it the same way. Here is the trap, the two places it bites, and how the engine steps around it.
-- [What a hash commitment proves, and the three things it cannot](https://betkyo.com/en/blog/what-a-hash-commitment-proves/) — “Provably fair” rests on one trick: the house publishes a fingerprint of its secret before you play, and reveals the secret afterwards. That trick proves exactly three things. It is worth being precise about them, because it is just as often sold as proving everything.
+- [One rounding, not many: why the verifier matches the server bit for bit](https://betkyo.com/en/blog/one-rounding-not-many-why-the-verifier-matches-the-server-bit-for-bit/) — A provably fair verifier has one job: recompute the round and get the same answer the server got. That sounds like arithmetic and is actually engineering, because the server was written in Kotlin and the verifier in JavaScript, and the two turn the same 256-bit hash into the same number only if they round it the same way. Here is the trap, the two places it bites, and how the engine steps around it.
+- [What a hash commitment proves, and the three things it cannot](https://betkyo.com/en/blog/what-a-hash-commitment-proves/) — “Provably fair” rests on one trick: the house publishes a fingerprint of its secret before you play, and cannot swap the secret afterwards. That trick proves exactly three things. It is worth being precise about them, because it is just as often sold as proving everything.
 - [Two rides, two curves: what Limbo and Crash actually charge](https://betkyo.com/en/blog/two-rides-two-curves/) — They look like the same game wearing different clothes — name a multiplier, or watch one climb. Underneath they run different functions — and, once the settlement rule is applied, the same price. Both functions are four lines long, and we can show you both.
 - [Risk of ruin: why a 99% game still empties a bankroll](https://betkyo.com/en/blog/risk-of-ruin/) — House edge tells you what a game costs per bet. It says almost nothing about whether you survive to see the average. The number that decides that is variance, and it is the one almost nobody looks up.
 
@@ -37,7 +37,7 @@ You can set a target of up to ×10,000.
 
 **Is Limbo provably fair?**
 
-Yes. Every Betkyo original publishes verifiable fairness data for each round, so you can check results yourself. The fairness page explains the exact scheme and walks through a verification.
+Yes. Every Betkyo original commits to its randomness before you bet: a server seed fixed by its SHA-256 hash and mixed with your own client seed, or, for the shared-round games, a hash chain published in advance. The fairness page explains the exact scheme.
 
 
 Guide on the site: [https://betkyo.com/en/guide/limbo/](https://betkyo.com/en/guide/limbo/)

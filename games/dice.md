@@ -1,18 +1,18 @@
 # Dice
 
 Dice is the purest expression of a crypto original: pick a target, roll under it, get paid. The lower your target, the rarer the win and the bigger the multiplier — up to ×49.5.
-Rounds resolve instantly, which makes Dice the classic first stop for testing fairness verification: one roll, one verifiable result.
+Rounds resolve instantly: one roll, one result, fixed by the committed seed pair before you roll.
 
 ## How a round works
 
 1. Set your bet amount.
 2. Choose your roll-under target — the payout multiplier updates live as you move it.
 3. Roll. If the result lands under your target, you win the shown multiplier.
-4. Verify any roll from the round history whenever you like.
+4. Every roll in your round history carries its commitment hash and nonce.
 
-## Verify a round
+## How a round is derived
 
-Every Dice round is derived from a committed server seed, your client seed and a nonce. After the server seed is revealed you can recompute the round with the open verifier: [provably-fair-verifier](https://github.com/betkyo-open-labs/provably-fair-verifier) (also on npm as `betkyo-provably-fair-verifier`). The scheme is explained at [https://betkyo.com/en/fairness/](https://betkyo.com/en/fairness/).
+Every Dice round is derived from a server seed committed by SHA-256 hash before you bet, your client seed and a nonce. The open verifier implements the same derivation: [provably-fair-verifier](https://github.com/betkyo-open-labs/provably-fair-verifier) (also on npm as `betkyo-provably-fair-verifier`). The scheme is explained at [https://betkyo.com/en/fairness/](https://betkyo.com/en/fairness/).
 
 ## Odds and derivations
 
@@ -38,7 +38,7 @@ The maximum multiplier is ×49.5, at the tightest roll-under target the game off
 
 **Is Dice provably fair?**
 
-Yes. Every Betkyo original publishes verifiable fairness data for each round, so you can check results yourself. The fairness page explains the exact scheme and walks through a verification.
+Yes. Every Betkyo original commits to its randomness before you bet: a server seed fixed by its SHA-256 hash and mixed with your own client seed, or, for the shared-round games, a hash chain published in advance. The fairness page explains the exact scheme.
 
 
 Guide on the site: [https://betkyo.com/en/guide/dice/](https://betkyo.com/en/guide/dice/)

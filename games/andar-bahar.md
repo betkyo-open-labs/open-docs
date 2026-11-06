@@ -9,9 +9,9 @@ The base call is near a coin flip; the boosts are where the long odds live.
 2. The joker card is revealed, then cards deal alternately to each side.
 3. The first side to match the joker’s rank wins — boosts pay up to ×3,750.
 
-## Verify a round
+## How a round is derived
 
-Every Andar Bahar round is derived from a committed server seed, your client seed and a nonce. After the server seed is revealed you can recompute the round with the open verifier: [provably-fair-verifier](https://github.com/betkyo-open-labs/provably-fair-verifier) (also on npm as `betkyo-provably-fair-verifier`). The scheme is explained at [https://betkyo.com/en/fairness/](https://betkyo.com/en/fairness/).
+Every Andar Bahar round is derived from a server seed committed by SHA-256 hash before you bet, your client seed and a nonce. The open verifier implements the same derivation: [provably-fair-verifier](https://github.com/betkyo-open-labs/provably-fair-verifier) (also on npm as `betkyo-provably-fair-verifier`). The scheme is explained at [https://betkyo.com/en/fairness/](https://betkyo.com/en/fairness/).
 
 ## Odds and derivations
 
@@ -30,7 +30,7 @@ Side boosts pay up to ×3,750 on top of the base Andar/Bahar call.
 
 **Is Andar Bahar provably fair?**
 
-Yes. Every Betkyo original publishes verifiable fairness data for each round, so you can check results yourself. The fairness page explains the exact scheme and walks through a verification.
+Yes. Every Betkyo original commits to its randomness before you bet: a server seed fixed by its SHA-256 hash and mixed with your own client seed, or, for the shared-round games, a hash chain published in advance. The fairness page explains the exact scheme.
 
 
 Guide on the site: [https://betkyo.com/en/guide/andar-bahar/](https://betkyo.com/en/guide/andar-bahar/)

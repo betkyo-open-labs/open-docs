@@ -10,9 +10,9 @@ Keno is a lottery you can verify: the entire draw is provably fair, not just the
 3. Pick up to 10 numbers from the 40-number board (or quick-pick).
 4. The draw reveals ten winning numbers — payouts scale with how many you hit, up to ×1,000 on Low, Medium and High (×100 on Classic).
 
-## Verify a round
+## How a round is derived
 
-Every Keno round is derived from a committed server seed, your client seed and a nonce. After the server seed is revealed you can recompute the round with the open verifier: [provably-fair-verifier](https://github.com/betkyo-open-labs/provably-fair-verifier) (also on npm as `betkyo-provably-fair-verifier`). The scheme is explained at [https://betkyo.com/en/fairness/](https://betkyo.com/en/fairness/).
+Every Keno draw comes from a committed hash and salt, fixed before the balls are drawn. The scheme is explained at [https://betkyo.com/en/fairness/](https://betkyo.com/en/fairness/).
 
 ## Odds and derivations
 
@@ -36,7 +36,7 @@ A perfect 10-for-10 card pays ×1,000 on the Low, Medium and High risk levels, a
 
 **Is Keno provably fair?**
 
-Yes. Every Betkyo original publishes verifiable fairness data for each round, so you can check results yourself. The fairness page explains the exact scheme and walks through a verification.
+Yes. Every Betkyo original commits to its randomness before you bet: a server seed fixed by its SHA-256 hash and mixed with your own client seed, or, for the shared-round games, a hash chain published in advance. The fairness page explains the exact scheme.
 
 
 Guide on the site: [https://betkyo.com/en/guide/keno/](https://betkyo.com/en/guide/keno/)

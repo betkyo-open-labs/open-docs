@@ -9,9 +9,9 @@ One throw, instant result, instantly verifiable. No strategy layer to learn.
 2. Throw rock, paper or scissors.
 3. Beat the dealer’s throw to win ×1.97.
 
-## Verify a round
+## How a round is derived
 
-Every RPS round is derived from a committed server seed, your client seed and a nonce. After the server seed is revealed you can recompute the round with the open verifier: [provably-fair-verifier](https://github.com/betkyo-open-labs/provably-fair-verifier) (also on npm as `betkyo-provably-fair-verifier`). The scheme is explained at [https://betkyo.com/en/fairness/](https://betkyo.com/en/fairness/).
+Every RPS round is derived from a server seed committed by SHA-256 hash before you bet, your client seed and a nonce. The open verifier implements the same derivation: [provably-fair-verifier](https://github.com/betkyo-open-labs/provably-fair-verifier) (also on npm as `betkyo-provably-fair-verifier`). The scheme is explained at [https://betkyo.com/en/fairness/](https://betkyo.com/en/fairness/).
 
 ## Odds and derivations
 
@@ -30,7 +30,7 @@ Beating the dealer pays ×1.97 on your stake.
 
 **Is RPS provably fair?**
 
-Yes. Every Betkyo original publishes verifiable fairness data for each round, so you can check results yourself. The fairness page explains the exact scheme and walks through a verification.
+Yes. Every Betkyo original commits to its randomness before you bet: a server seed fixed by its SHA-256 hash and mixed with your own client seed, or, for the shared-round games, a hash chain published in advance. The fairness page explains the exact scheme.
 
 
 Guide on the site: [https://betkyo.com/en/guide/rps/](https://betkyo.com/en/guide/rps/)

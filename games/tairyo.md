@@ -9,9 +9,9 @@ The chase is the free-spin round: three scatters start 10 free spins, and there 
 2. Line hits pay on the 10 lines; koi carry bonus values on the reels.
 3. Land 3 scatters (they appear on reels 2–4) to trigger 10 free spins — collector wilds scoop every koi value on screen, each 3 wilds collected add 10 spins and step the multiplier ×2, ×3, ×10, and a free-spin round pays up to ×2,100.
 
-## Verify a round
+## How a round is derived
 
-Every Tairyō round is derived from a committed server seed, your client seed and a nonce. After the server seed is revealed you can recompute the round with the open verifier: [provably-fair-verifier](https://github.com/betkyo-open-labs/provably-fair-verifier) (also on npm as `betkyo-provably-fair-verifier`). The scheme is explained at [https://betkyo.com/en/fairness/](https://betkyo.com/en/fairness/).
+Every Tairyō round is derived from a server seed committed by SHA-256 hash before you bet, your client seed and a nonce. The open verifier implements the same derivation: [provably-fair-verifier](https://github.com/betkyo-open-labs/provably-fair-verifier) (also on npm as `betkyo-provably-fair-verifier`). The scheme is explained at [https://betkyo.com/en/fairness/](https://betkyo.com/en/fairness/).
 
 ## Odds and derivations
 
@@ -32,7 +32,7 @@ Free spins can pay up to ×2,100 — the collector-wild-plus-koi combination is 
 
 **Is Tairyō provably fair?**
 
-Yes. Every Betkyo original publishes verifiable fairness data for each round, so you can check results yourself. The fairness page explains the exact scheme and walks through a verification.
+Yes. Every Betkyo original commits to its randomness before you bet: a server seed fixed by its SHA-256 hash and mixed with your own client seed, or, for the shared-round games, a hash chain published in advance. The fairness page explains the exact scheme.
 
 
 Guide on the site: [https://betkyo.com/en/guide/tairyo/](https://betkyo.com/en/guide/tairyo/)

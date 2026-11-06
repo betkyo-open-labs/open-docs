@@ -1,10 +1,10 @@
 # Betkyo
 
-> Betkyo is a crypto casino built around in-house provably fair original games. Every game's house edge is derived from the engine source and published; every round can be recomputed from its committed seeds. No gambling licence is held at present; restricted jurisdictions are listed in the Terms; 18+.
+> Betkyo is a crypto casino built around in-house provably fair original games. Every game's house edge is derived from the engine source and published; every round is derived from a committed server seed and the player's own client seed. No gambling licence is held at present; restricted jurisdictions are listed in the Terms; 18+.
 
-## Verify
-- [Fairness page](https://betkyo.com/en/fairness/): the commitment scheme and a worked verification
-- [provably-fair-verifier](https://github.com/betkyo-open-labs/provably-fair-verifier): recompute any round (browser + CLI)
+## Fairness
+- [Fairness page](https://betkyo.com/en/fairness/): the commitment scheme behind every round
+- [provably-fair-verifier](https://github.com/betkyo-open-labs/provably-fair-verifier): the round derivation as open code (browser + CLI)
 
 ## Odds
 - [House edge of every game](https://github.com/betkyo-open-labs/open-docs/blob/main/house-edge.md)
@@ -40,8 +40,8 @@
 - [Andar Bahar](https://betkyo.com/en/guide/andar-bahar/): The subcontinent’s fastest card game: a joker is cut, then cards race to Andar and Bahar — first side to match the joker wins.
 
 ## Journal (summaries)
-- [Math of Luck](https://github.com/betkyo-open-labs/open-docs/blob/main/journal/math.md)
 - [Stories & Incidents](https://github.com/betkyo-open-labs/open-docs/blob/main/journal/incidents.md)
+- [Math of Luck](https://github.com/betkyo-open-labs/open-docs/blob/main/journal/math.md)
 - [Game Notes](https://github.com/betkyo-open-labs/open-docs/blob/main/journal/notes.md)
 - [Japan & History](https://github.com/betkyo-open-labs/open-docs/blob/main/journal/history.md)
 - [Fairness Studies](https://github.com/betkyo-open-labs/open-docs/blob/main/journal/fairness.md)

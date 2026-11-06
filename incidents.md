@@ -2,6 +2,10 @@
 
 Famous runs, heists, collapses and cons from the public record, each written up with the arithmetic that decided it. Summaries are the articles' own; sources are listed on each page.
 
+## [The Triple Six Fix: weighted balls, eight numbers, and the bets that gave it away](https://betkyo.com/en/blog/the-triple-six-fix-1980-pennsylvania-lottery-weighted-balls-eight-numbers-and-the-bets-that-gave-it-away/)
+
+On 24 April 1980 the Pennsylvania Daily Number came up 6-6-6 on live television. Every ball in the three machines except the 4s and the 6s had been injected with white latex paint, so only eight of the thousand possible numbers could come up. The man reading them out had arranged it. This is what the record says happened, what the weighting did to a $1 ticket, and why the fix was caught by the bets rather than by the balls.
+
 ## [Jerry and Marge Selbee: $27 million in tickets, the $2 million roll-down, and the lottery ticket that was worth more than it cost](https://betkyo.com/en/blog/jerry-and-marge-selbee-27-million-in-tickets-the-2-million-roll-down-and-the-lottery-ticket-worth-more-than-it-cost/)
 
 Between 2003 and 2012 a retired couple from a one-stoplight town in Michigan bought something like $27 million of lottery tickets and kept $7.75 million of it. Nothing was rigged. Two state lotteries had written a rule that, for a few days every few months, made a $2 ticket worth more than $2, and Jerry Selbee read it in three minutes. This is the arithmetic of the roll-down: where the edge came from, how big it really was, what it cost in variance and labour, and why a casino can never offer the same thing.

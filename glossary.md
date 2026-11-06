@@ -4,9 +4,9 @@
 
 **Return to player (RTP)** — 100% minus the house edge: the long-run share of stakes paid back as winnings.
 
-**Provably fair** — A commitment scheme for game results: the server publishes a hash of its seed before you bet, you supply a client seed, each result is a public function of (server seed, client seed, nonce), and the server seed is revealed afterwards so every round can be recomputed. It proves results, not custody.
+**Provably fair** — A commitment scheme for game results: the server publishes a hash of its seed before you bet, you supply a client seed, and each result is a public function of (server seed, client seed, nonce). It covers how results are derived, not custody.
 
-**Server seed** — The secret the casino commits to (by hash) before a seed period starts and reveals when it ends.
+**Server seed** — The secret the casino commits to (by hash) before a seed period starts.
 
 **Client seed** — A value the player supplies or changes; it enters every result so the server cannot fix outcomes in advance without your input.
 
@@ -16,7 +16,7 @@
 
 **Hash commitment** — Publishing hash(x) before revealing x. Anyone can later check that the revealed x matches; nobody can change x after committing.
 
-**Verifier** — A program that recomputes a round from its revealed inputs. Betkyo's runs in the browser and as a CLI (provably-fair-verifier).
+**Verifier** — A program that recomputes a round from its inputs (server seed, client seed, nonce). Betkyo's open implementation runs in the browser and as a CLI (provably-fair-verifier).
 
 **Hot wallet** — An online wallet a casino uses to pay withdrawals quickly. It holds the operational float and is the usual target of thefts; it is separate from the games and from cold storage.
 

@@ -3,7 +3,7 @@
 Betkyo is a crypto casino built around in-house provably fair original games — dice, limbo, crash, mines, plinko, keno, roulette, baccarat, blackjack and a set of Japanese-themed originals. Two things make it unusual, and both are documented here so they can be checked rather than believed:
 
 - **Every house edge is published and derived from the engine source.** The Journal prints a game figure only after reading it from the code that pays it. [house-edge.md](house-edge.md) is the summary table.
-- **Every round can be recomputed.** Results are a public function of a committed server seed, your client seed and a nonce; the [verifier](https://github.com/betkyo-open-labs/provably-fair-verifier) re-runs any round after the seed is revealed. This proves results, not custody — see the glossary.
+- **Every round is committed before you bet.** Results are a public function of a server seed committed by hash, your client seed and a nonce; the open [verifier](https://github.com/betkyo-open-labs/provably-fair-verifier) implements the same derivation. This covers how results are derived, not custody — see the glossary.
 
 Betkyo is operated by Shirokane Interactive, holds no gambling licence at present, and lists its restricted jurisdictions (including the US, UK, France, the Netherlands, Australia and Japan) in its Terms. 18+ only. This repository is documentation, not a promotion: no bonuses, no sign-up links.
 
@@ -11,7 +11,7 @@ Betkyo is operated by Shirokane Interactive, holds no gambling licence at presen
 
 | Section | What it is |
 |---|---|
-| [games/](games/) | One spec sheet per original: rules, how a round works, verification, odds articles, datasets, FAQ |
+| [games/](games/) | One spec sheet per original: rules, how a round works, how a result is derived, odds articles, datasets, FAQ |
 | [house-edge.md](house-edge.md) | The house edge of every game and what it costs per hour |
 | [journal/](journal/README.md) | Summaries of every Journal article by category, plus the list of revised articles |
 | [incidents.md](incidents.md) | Famous runs, heists and cons from the public record, with the math |
@@ -55,7 +55,7 @@ Betkyo is operated by Shirokane Interactive, holds no gambling licence at presen
 
 ## Related repositories
 
-- [provably-fair-verifier](https://github.com/betkyo-open-labs/provably-fair-verifier) — recompute a round (MIT, npm `betkyo-provably-fair-verifier`)
+- [provably-fair-verifier](https://github.com/betkyo-open-labs/provably-fair-verifier) — the round derivation as open code (MIT, npm `betkyo-provably-fair-verifier`)
 - [odds-data](https://github.com/betkyo-open-labs/odds-data) — paytables and distributions as JSON/CSV (CC BY 4.0, Zenodo DOI)
 - [odds-derivations](https://github.com/betkyo-open-labs/odds-derivations) — the scripts that turn tables into returns
 - [awesome-provably-fair](https://github.com/betkyo-open-labs/awesome-provably-fair) — curated reading on verifiable randomness

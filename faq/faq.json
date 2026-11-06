@@ -1,7 +1,7 @@
 {
   "generated": "2026-11-06",
   "license": "CC BY 4.0",
-  "count": 612,
+  "count": 617,
   "items": [
     {
       "game": "dice",
@@ -18,7 +18,7 @@
     {
       "game": "dice",
       "q": "Is Dice provably fair?",
-      "a": "Yes. Every Betkyo original publishes verifiable fairness data for each round, so you can check results yourself. The fairness page explains the exact scheme and walks through a verification.",
+      "a": "Yes. Every Betkyo original commits to its randomness before you bet: a server seed fixed by its SHA-256 hash and mixed with your own client seed, or, for the shared-round games, a hash chain published in advance. The fairness page explains the exact scheme.",
       "source": "https://betkyo.com/en/guide/dice/"
     },
     {
@@ -36,7 +36,7 @@
     {
       "game": "plinko",
       "q": "Is Plinko provably fair?",
-      "a": "Yes. Every Betkyo original publishes verifiable fairness data for each round, so you can check results yourself. The fairness page explains the exact scheme and walks through a verification.",
+      "a": "Yes. Every Betkyo original commits to its randomness before you bet: a server seed fixed by its SHA-256 hash and mixed with your own client seed, or, for the shared-round games, a hash chain published in advance. The fairness page explains the exact scheme.",
       "source": "https://betkyo.com/en/guide/plinko/"
     },
     {
@@ -54,7 +54,7 @@
     {
       "game": "rps",
       "q": "Is RPS provably fair?",
-      "a": "Yes. Every Betkyo original publishes verifiable fairness data for each round, so you can check results yourself. The fairness page explains the exact scheme and walks through a verification.",
+      "a": "Yes. Every Betkyo original commits to its randomness before you bet: a server seed fixed by its SHA-256 hash and mixed with your own client seed, or, for the shared-round games, a hash chain published in advance. The fairness page explains the exact scheme.",
       "source": "https://betkyo.com/en/guide/rps/"
     },
     {
@@ -72,7 +72,7 @@
     {
       "game": "hilo",
       "q": "Is Hilo provably fair?",
-      "a": "Yes. Every Betkyo original publishes verifiable fairness data for each round, so you can check results yourself. The fairness page explains the exact scheme and walks through a verification.",
+      "a": "Yes. Every Betkyo original commits to its randomness before you bet: a server seed fixed by its SHA-256 hash and mixed with your own client seed, or, for the shared-round games, a hash chain published in advance. The fairness page explains the exact scheme.",
       "source": "https://betkyo.com/en/guide/hilo/"
     },
     {
@@ -90,7 +90,7 @@
     {
       "game": "baccarat",
       "q": "Is Baccarat provably fair?",
-      "a": "Yes. Every Betkyo original publishes verifiable fairness data for each round, so you can check results yourself. The fairness page explains the exact scheme and walks through a verification.",
+      "a": "Yes. Every Betkyo original commits to its randomness before you bet: a server seed fixed by its SHA-256 hash and mixed with your own client seed, or, for the shared-round games, a hash chain published in advance. The fairness page explains the exact scheme.",
       "source": "https://betkyo.com/en/guide/baccarat/"
     },
     {
@@ -108,7 +108,7 @@
     {
       "game": "fugu",
       "q": "Is Fugu provably fair?",
-      "a": "Yes. Every Betkyo original publishes verifiable fairness data for each round, so you can check results yourself. The fairness page explains the exact scheme and walks through a verification.",
+      "a": "Yes. Every Betkyo original commits to its randomness before you bet: a server seed fixed by its SHA-256 hash and mixed with your own client seed, or, for the shared-round games, a hash chain published in advance. The fairness page explains the exact scheme.",
       "source": "https://betkyo.com/en/guide/fugu/"
     },
     {
@@ -126,7 +126,7 @@
     {
       "game": "limbo",
       "q": "Is Limbo provably fair?",
-      "a": "Yes. Every Betkyo original publishes verifiable fairness data for each round, so you can check results yourself. The fairness page explains the exact scheme and walks through a verification.",
+      "a": "Yes. Every Betkyo original commits to its randomness before you bet: a server seed fixed by its SHA-256 hash and mixed with your own client seed, or, for the shared-round games, a hash chain published in advance. The fairness page explains the exact scheme.",
       "source": "https://betkyo.com/en/guide/limbo/"
     },
     {
@@ -144,7 +144,7 @@
     {
       "game": "chinchiro",
       "q": "Is Chinchiro provably fair?",
-      "a": "Yes. Every Betkyo original publishes verifiable fairness data for each round, so you can check results yourself. The fairness page explains the exact scheme and walks through a verification.",
+      "a": "Yes. Every Betkyo original commits to its randomness before you bet: a server seed fixed by its SHA-256 hash and mixed with your own client seed, or, for the shared-round games, a hash chain published in advance. The fairness page explains the exact scheme.",
       "source": "https://betkyo.com/en/guide/chinchiro/"
     },
     {
@@ -162,7 +162,7 @@
     {
       "game": "keno",
       "q": "Is Keno provably fair?",
-      "a": "Yes. Every Betkyo original publishes verifiable fairness data for each round, so you can check results yourself. The fairness page explains the exact scheme and walks through a verification.",
+      "a": "Yes. Every Betkyo original commits to its randomness before you bet: a server seed fixed by its SHA-256 hash and mixed with your own client seed, or, for the shared-round games, a hash chain published in advance. The fairness page explains the exact scheme.",
       "source": "https://betkyo.com/en/guide/keno/"
     },
     {
@@ -180,7 +180,7 @@
     {
       "game": "pagoda",
       "q": "Is Pagoda provably fair?",
-      "a": "Yes. Every Betkyo original publishes verifiable fairness data for each round, so you can check results yourself. The fairness page explains the exact scheme and walks through a verification.",
+      "a": "Yes. Every Betkyo original commits to its randomness before you bet: a server seed fixed by its SHA-256 hash and mixed with your own client seed, or, for the shared-round games, a hash chain published in advance. The fairness page explains the exact scheme.",
       "source": "https://betkyo.com/en/guide/pagoda/"
     },
     {
@@ -198,7 +198,7 @@
     {
       "game": "wheel",
       "q": "Is Wheel provably fair?",
-      "a": "Yes. Every Betkyo original publishes verifiable fairness data for each round, so you can check results yourself. The fairness page explains the exact scheme and walks through a verification.",
+      "a": "Yes. Every Betkyo original commits to its randomness before you bet: a server seed fixed by its SHA-256 hash and mixed with your own client seed, or, for the shared-round games, a hash chain published in advance. The fairness page explains the exact scheme.",
       "source": "https://betkyo.com/en/guide/wheel/"
     },
     {
@@ -216,7 +216,7 @@
     {
       "game": "double",
       "q": "Is Double provably fair?",
-      "a": "Yes. Every Betkyo original publishes verifiable fairness data for each round, so you can check results yourself. The fairness page explains the exact scheme and walks through a verification.",
+      "a": "Yes. Every Betkyo original commits to its randomness before you bet: a server seed fixed by its SHA-256 hash and mixed with your own client seed, or, for the shared-round games, a hash chain published in advance. The fairness page explains the exact scheme.",
       "source": "https://betkyo.com/en/guide/double/"
     },
     {
@@ -234,7 +234,7 @@
     {
       "game": "crash",
       "q": "Is Crash provably fair?",
-      "a": "Yes. Every Betkyo original publishes verifiable fairness data for each round, so you can check results yourself. The fairness page explains the exact scheme and walks through a verification.",
+      "a": "Yes. Every Betkyo original commits to its randomness before you bet: a server seed fixed by its SHA-256 hash and mixed with your own client seed, or, for the shared-round games, a hash chain published in advance. The fairness page explains the exact scheme.",
       "source": "https://betkyo.com/en/guide/crash/"
     },
     {
@@ -252,7 +252,7 @@
     {
       "game": "dragon-road",
       "q": "Is Dragon Road provably fair?",
-      "a": "Yes. Every Betkyo original publishes verifiable fairness data for each round, so you can check results yourself. The fairness page explains the exact scheme and walks through a verification.",
+      "a": "Yes. Every Betkyo original commits to its randomness before you bet: a server seed fixed by its SHA-256 hash and mixed with your own client seed, or, for the shared-round games, a hash chain published in advance. The fairness page explains the exact scheme.",
       "source": "https://betkyo.com/en/guide/dragon-road/"
     },
     {
@@ -270,7 +270,7 @@
     {
       "game": "btc-x1000",
       "q": "Is BTC ×1000 provably fair?",
-      "a": "Yes. Every Betkyo original publishes verifiable fairness data for each round, so you can check results yourself. The fairness page explains the exact scheme and walks through a verification.",
+      "a": "Yes. Every Betkyo original commits to its randomness before you bet: a server seed fixed by its SHA-256 hash and mixed with your own client seed, or, for the shared-round games, a hash chain published in advance. The fairness page explains the exact scheme.",
       "source": "https://betkyo.com/en/guide/btc-x1000/"
     },
     {
@@ -288,7 +288,7 @@
     {
       "game": "tairyo",
       "q": "Is Tairyō provably fair?",
-      "a": "Yes. Every Betkyo original publishes verifiable fairness data for each round, so you can check results yourself. The fairness page explains the exact scheme and walks through a verification.",
+      "a": "Yes. Every Betkyo original commits to its randomness before you bet: a server seed fixed by its SHA-256 hash and mixed with your own client seed, or, for the shared-round games, a hash chain published in advance. The fairness page explains the exact scheme.",
       "source": "https://betkyo.com/en/guide/tairyo/"
     },
     {
@@ -306,7 +306,7 @@
     {
       "game": "omikuji",
       "q": "Is Omikuji provably fair?",
-      "a": "Yes. Every Betkyo original publishes verifiable fairness data for each round, so you can check results yourself. The fairness page explains the exact scheme and walks through a verification.",
+      "a": "Yes. Every Betkyo original commits to its randomness before you bet: a server seed fixed by its SHA-256 hash and mixed with your own client seed, or, for the shared-round games, a hash chain published in advance. The fairness page explains the exact scheme.",
       "source": "https://betkyo.com/en/guide/omikuji/"
     },
     {
@@ -324,7 +324,7 @@
     {
       "game": "fukubukuro",
       "q": "Is Fukubukuro provably fair?",
-      "a": "Yes. Every Betkyo original publishes verifiable fairness data for each round, so you can check results yourself. The fairness page explains the exact scheme and walks through a verification.",
+      "a": "Yes. Every Betkyo original commits to its randomness before you bet: a server seed fixed by its SHA-256 hash and mixed with your own client seed, or, for the shared-round games, a hash chain published in advance. The fairness page explains the exact scheme.",
       "source": "https://betkyo.com/en/guide/fukubukuro/"
     },
     {
@@ -342,7 +342,7 @@
     {
       "game": "roulette",
       "q": "Is Roulette provably fair?",
-      "a": "Yes. Every Betkyo original publishes verifiable fairness data for each round, so you can check results yourself. The fairness page explains the exact scheme and walks through a verification.",
+      "a": "Yes. Every Betkyo original commits to its randomness before you bet: a server seed fixed by its SHA-256 hash and mixed with your own client seed, or, for the shared-round games, a hash chain published in advance. The fairness page explains the exact scheme.",
       "source": "https://betkyo.com/en/guide/roulette/"
     },
     {
@@ -360,7 +360,7 @@
     {
       "game": "sic-bo",
       "q": "Is Sic Bo provably fair?",
-      "a": "Yes. Every Betkyo original publishes verifiable fairness data for each round, so you can check results yourself. The fairness page explains the exact scheme and walks through a verification.",
+      "a": "Yes. Every Betkyo original commits to its randomness before you bet: a server seed fixed by its SHA-256 hash and mixed with your own client seed, or, for the shared-round games, a hash chain published in advance. The fairness page explains the exact scheme.",
       "source": "https://betkyo.com/en/guide/sic-bo/"
     },
     {
@@ -378,7 +378,7 @@
     {
       "game": "bingo",
       "q": "Is Bingo provably fair?",
-      "a": "Yes. Every Betkyo original publishes verifiable fairness data for each round, so you can check results yourself. The fairness page explains the exact scheme and walks through a verification.",
+      "a": "Yes. Every Betkyo original commits to its randomness before you bet: a server seed fixed by its SHA-256 hash and mixed with your own client seed, or, for the shared-round games, a hash chain published in advance. The fairness page explains the exact scheme.",
       "source": "https://betkyo.com/en/guide/bingo/"
     },
     {
@@ -396,7 +396,7 @@
     {
       "game": "hanabi",
       "q": "Is Hanabi provably fair?",
-      "a": "Yes. Every Betkyo original publishes verifiable fairness data for each round, so you can check results yourself. The fairness page explains the exact scheme and walks through a verification.",
+      "a": "Yes. Every Betkyo original commits to its randomness before you bet: a server seed fixed by its SHA-256 hash and mixed with your own client seed, or, for the shared-round games, a hash chain published in advance. The fairness page explains the exact scheme.",
       "source": "https://betkyo.com/en/guide/hanabi/"
     },
     {
@@ -414,7 +414,7 @@
     {
       "game": "koban-flip",
       "q": "Is Koban Flip provably fair?",
-      "a": "Yes. Every Betkyo original publishes verifiable fairness data for each round, so you can check results yourself. The fairness page explains the exact scheme and walks through a verification.",
+      "a": "Yes. Every Betkyo original commits to its randomness before you bet: a server seed fixed by its SHA-256 hash and mixed with your own client seed, or, for the shared-round games, a hash chain published in advance. The fairness page explains the exact scheme.",
       "source": "https://betkyo.com/en/guide/koban-flip/"
     },
     {
@@ -432,7 +432,7 @@
     {
       "game": "video-poker",
       "q": "Is Video Poker provably fair?",
-      "a": "Yes. Every Betkyo original publishes verifiable fairness data for each round, so you can check results yourself. The fairness page explains the exact scheme and walks through a verification.",
+      "a": "Yes. Every Betkyo original commits to its randomness before you bet: a server seed fixed by its SHA-256 hash and mixed with your own client seed, or, for the shared-round games, a hash chain published in advance. The fairness page explains the exact scheme.",
       "source": "https://betkyo.com/en/guide/video-poker/"
     },
     {
@@ -450,7 +450,7 @@
     {
       "game": "casino-holdem",
       "q": "Is Casino Holdem provably fair?",
-      "a": "Yes. Every Betkyo original publishes verifiable fairness data for each round, so you can check results yourself. The fairness page explains the exact scheme and walks through a verification.",
+      "a": "Yes. Every Betkyo original commits to its randomness before you bet: a server seed fixed by its SHA-256 hash and mixed with your own client seed, or, for the shared-round games, a hash chain published in advance. The fairness page explains the exact scheme.",
       "source": "https://betkyo.com/en/guide/casino-holdem/"
     },
     {
@@ -468,7 +468,7 @@
     {
       "game": "blackjack",
       "q": "Is Blackjack provably fair?",
-      "a": "Yes. Every Betkyo original publishes verifiable fairness data for each round, so you can check results yourself. The fairness page explains the exact scheme and walks through a verification.",
+      "a": "Yes. Every Betkyo original commits to its randomness before you bet: a server seed fixed by its SHA-256 hash and mixed with your own client seed, or, for the shared-round games, a hash chain published in advance. The fairness page explains the exact scheme.",
       "source": "https://betkyo.com/en/guide/blackjack/"
     },
     {
@@ -486,8 +486,38 @@
     {
       "game": "andar-bahar",
       "q": "Is Andar Bahar provably fair?",
-      "a": "Yes. Every Betkyo original publishes verifiable fairness data for each round, so you can check results yourself. The fairness page explains the exact scheme and walks through a verification.",
+      "a": "Yes. Every Betkyo original commits to its randomness before you bet: a server seed fixed by its SHA-256 hash and mixed with your own client seed, or, for the shared-round games, a hash chain published in advance. The fairness page explains the exact scheme.",
       "source": "https://betkyo.com/en/guide/andar-bahar/"
+    },
+    {
+      "article": "the-triple-six-fix-1980-pennsylvania-lottery-weighted-balls-eight-numbers-and-the-bets-that-gave-it-away",
+      "q": "What was the Triple Six Fix?",
+      "a": "The rigging of the Pennsylvania Lottery’s televised Daily Number on 24 April 1980. Every ping-pong ball except the 4s and 6s was weighted with latex paint, so only eight three-digit numbers could come up; the draw produced 666.",
+      "source": "https://betkyo.com/en/blog/the-triple-six-fix-1980-pennsylvania-lottery-weighted-balls-eight-numbers-and-the-bets-that-gave-it-away/"
+    },
+    {
+      "article": "the-triple-six-fix-1980-pennsylvania-lottery-weighted-balls-eight-numbers-and-the-bets-that-gave-it-away",
+      "q": "Who rigged the 1980 Pennsylvania Lottery?",
+      "a": "The drawing’s host, Pittsburgh broadcaster Nick Perry, with lottery official Edward Plevel, art director Joseph Bock, stagehand Fred Luman and the brothers Peter and Jack Maragos, who bought the tickets. Perry was convicted on 20 May 1981 and served two years in prison.",
+      "source": "https://betkyo.com/en/blog/the-triple-six-fix-1980-pennsylvania-lottery-weighted-balls-eight-numbers-and-the-bets-that-gave-it-away/"
+    },
+    {
+      "article": "the-triple-six-fix-1980-pennsylvania-lottery-weighted-balls-eight-numbers-and-the-bets-that-gave-it-away",
+      "q": "How did weighting the balls change the odds?",
+      "a": "It cut the possible results from 1,000 to 8. A $1 straight ticket that paid $500 went from a 1-in-1,000 chance, worth $0.50, to about a 1-in-8 chance, worth about $62.50 — 125 times as much (calculation for this article).",
+      "source": "https://betkyo.com/en/blog/the-triple-six-fix-1980-pennsylvania-lottery-weighted-balls-eight-numbers-and-the-bets-that-gave-it-away/"
+    },
+    {
+      "article": "the-triple-six-fix-1980-pennsylvania-lottery-weighted-balls-eight-numbers-and-the-bets-that-gave-it-away",
+      "q": "How was the Pennsylvania lottery fix discovered?",
+      "a": "Through the betting pattern. An unusual share of tickets sat on the eight combinations of 4 and 6, too many people had been told in advance, an illegal numbers operator refused to pay, and phone records led investigators to the announcer’s booth.",
+      "source": "https://betkyo.com/en/blog/the-triple-six-fix-1980-pennsylvania-lottery-weighted-balls-eight-numbers-and-the-bets-that-gave-it-away/"
+    },
+    {
+      "article": "the-triple-six-fix-1980-pennsylvania-lottery-weighted-balls-eight-numbers-and-the-bets-that-gave-it-away",
+      "q": "Could a provably fair game be rigged the same way?",
+      "a": "Not by weighting the draw. A provably fair result is a public function of a server seed committed before the round and the player’s own seed, with nothing physical between the commitment and the result. The guarantee covers the result, not the custody of funds.",
+      "source": "https://betkyo.com/en/blog/the-triple-six-fix-1980-pennsylvania-lottery-weighted-balls-eight-numbers-and-the-bets-that-gave-it-away/"
     },
     {
       "article": "the-longest-losing-streak-priced-what-100-1000-and-10000-dice-rolls-will-show-you",
@@ -690,7 +720,7 @@
     {
       "article": "full-tilt-poker-390-million-owed-60-million-in-the-bank-and-the-email-that-said-player-funds-were-segregated",
       "q": "What does this have to do with provably fair?",
-      "a": "A provably fair engine proves that each result was fixed by a committed seed before the bet and can be recomputed afterwards. It proves nothing about whether the operator holds cash behind player balances. Full Tilt is the clean example of a site whose results were never questioned and whose balances were not backed; the proof covers the roll, and the vault is a separate promise that no hash can make.",
+      "a": "A provably fair engine proves that each result was fixed by a committed seed before the bet and derived from it by a published rule. It proves nothing about whether the operator holds cash behind player balances. Full Tilt is the clean example of a site whose results were never questioned and whose balances were not backed; the proof covers the roll, and the vault is a separate promise that no hash can make.",
       "source": "https://betkyo.com/en/blog/full-tilt-poker-390-million-owed-60-million-in-the-bank-and-the-email-that-said-player-funds-were-segregated/"
     },
     {
@@ -960,7 +990,7 @@
     {
       "article": "mohan-srivastava-the-statistician-who-read-scratch-tickets-without-scratching-them",
       "q": "Could the singleton trick work on a provably fair scratch card?",
-      "a": "No. The omikuji card’s tier is one draw from a committed seed pair and nonce, with no fixed quota of winners and no generator coordinating one card with the next, so nothing on the card predicts the result. The card can instead be recomputed after the round to confirm the draw.",
+      "a": "No. The omikuji card’s tier is one draw from a committed seed pair and nonce, with no fixed quota of winners and no generator coordinating one card with the next, so nothing on the card predicts the result.",
       "source": "https://betkyo.com/en/blog/mohan-srivastava-the-statistician-who-read-scratch-tickets-without-scratching-them/"
     },
     {
@@ -1044,7 +1074,7 @@
     {
       "article": "doubling-100-dollars-priced-the-chance-of-doubling-before-busting-at-every-stake-and-edge",
       "q": "Do long-shot bets give a better chance of doubling?",
-      "a": "At small stakes, yes. On dice at $1 a bet from $100, a 1-in-100 target at ×100 doubles you 41% of the time against 11% for the 50% target, because it settles in far fewer bets. At $10 a bet the order reverses. The average return is 99% either way.",
+      "a": "At small stakes, yes. At $1 a bet from $100, a 1-in-100 limbo target at ×100 doubles you 41% of the time against 11% for dice at 50%, because it settles in far fewer bets. At $10 a bet the order reverses. The average return is 99% either way.",
       "source": "https://betkyo.com/en/blog/doubling-100-dollars-priced-the-chance-of-doubling-before-busting-at-every-stake-and-edge/"
     },
     {
@@ -1289,8 +1319,8 @@
     },
     {
       "article": "dice-odds-priced-the-true-win-chance-and-return-behind-every-target",
-      "q": "Can I verify a dice roll?",
-      "a": "Yes. HMAC-SHA256 of “clientSeed-nonce-0” keyed by the revealed server seed; the first 13 hex digits over 2⁵² give u, and (floor(u × 9,999) + 1) ÷ 100 is the result.",
+      "q": "How is a dice roll derived?",
+      "a": "HMAC-SHA256 of “clientSeed-nonce-0” keyed by the server seed committed before the round; the first 13 hex digits over 2⁵² give u, and (floor(u × 9,999) + 1) ÷ 100 is the result.",
       "source": "https://betkyo.com/en/blog/dice-odds-priced-the-true-win-chance-and-return-behind-every-target/"
     },
     {
@@ -1331,8 +1361,8 @@
     },
     {
       "article": "bingo-odds-priced-exactly-every-line-count-from-zero-to-twelve-and-the-return-behind-38-balls",
-      "q": "Can I verify a bingo round?",
-      "a": "Yes. One HMAC-SHA256 per cursor keyed by the revealed server seed over “clientSeed-nonce-cursor”: cursors 0–24 deal the card, 25–62 draw the balls, and the verifier’s bingo command reproduces both and the line count.",
+      "q": "How is a bingo result derived?",
+      "a": "One HMAC-SHA256 per cursor, keyed by the server seed committed before the round, over “clientSeed-nonce-cursor”: cursors 0–24 deal the card, 25–62 draw the balls, and the open verifier’s bingo command derives both and the line count by the same rule.",
       "source": "https://betkyo.com/en/blog/bingo-odds-priced-exactly-every-line-count-from-zero-to-twelve-and-the-return-behind-38-balls/"
     },
     {
@@ -1373,8 +1403,8 @@
     },
     {
       "article": "pagoda-odds-priced-nine-floors-three-difficulties-and-the-cents-the-ladder-drops",
-      "q": "Can I verify a Pagoda round?",
-      "a": "Yes. One HMAC-SHA256 per floor keyed by the revealed server seed over “clientSeed-nonce-floor”, first 8 bytes ÷ 2⁶⁴, times the tile count and floored, gives each trap; the verifier’s pagoda command reproduces the layout and the ladder.",
+      "q": "How is a Pagoda result derived?",
+      "a": "One HMAC-SHA256 per floor, keyed by the server seed committed before the round, over “clientSeed-nonce-floor”: the first 8 bytes ÷ 2⁶⁴, times the tile count and floored, gives each trap. The open verifier’s pagoda command implements the same rule for the layout and the ladder.",
       "source": "https://betkyo.com/en/blog/pagoda-odds-priced-nine-floors-three-difficulties-and-the-cents-the-ladder-drops/"
     },
     {
@@ -1409,8 +1439,8 @@
     },
     {
       "article": "roulette-hit-rates-priced-how-long-a-number-takes-and-what-a-streak-is-worth",
-      "q": "Can I verify a roulette spin?",
-      "a": "Yes. HMAC-SHA256 of “clientSeed-nonce-0” keyed by the revealed server seed, first eight bytes as a fraction of 2⁶⁴, times 37 and floored, gives the pocket; the verifier’s roulette command does it in one step.",
+      "q": "How is a roulette spin derived?",
+      "a": "HMAC-SHA256 of “clientSeed-nonce-0” keyed by the server seed committed before the spin, first eight bytes as a fraction of 2⁶⁴, times 37 and floored, gives the pocket; the open verifier’s roulette command implements the same rule in one step.",
       "source": "https://betkyo.com/en/blog/roulette-hit-rates-priced-how-long-a-number-takes-and-what-a-streak-is-worth/"
     },
     {
@@ -1848,7 +1878,7 @@
     {
       "article": "how-the-journal-verifies-a-number-methodology",
       "q": "Does verification mean the games have no house edge?",
-      "a": "No. Every game has a published edge, computed in its article. Verification means the numbers and the randomness can be checked, not that the price is zero.",
+      "a": "No. Every game has a published edge, computed in its article. Verification means the numbers can be checked and each result is derived by a published rule, not that the price is zero.",
       "source": "https://betkyo.com/en/blog/how-the-journal-verifies-a-number-methodology/"
     },
     {
@@ -1860,7 +1890,7 @@
     {
       "article": "glossary-of-casino-math-and-provably-fair-terms",
       "q": "What does provably fair actually prove?",
-      "a": "That the house committed to its randomness before you bet, that the revealed seed is the committed one, and that every result follows from the seed pair and round number. It does not prove the game has no house edge.",
+      "a": "That the house committed to its randomness before you bet and that every result follows from the seed pair and round number. It does not prove the game has no house edge.",
       "source": "https://betkyo.com/en/blog/glossary-of-casino-math-and-provably-fair-terms/"
     },
     {
@@ -1968,7 +1998,7 @@
     {
       "article": "the-ritz-laser-scanner-and-the-1-3-million-that-was-not-a-crime",
       "q": "Can an online roulette wheel be predicted this way?",
-      "a": "Not on this site. The pocket is floor(u × 37) where u comes from a hash of the committed server seed, your client seed and the round number. There is no ball in motion and no measurement to take; what you can check instead is that the revealed seed matches the commitment and reproduces every past spin.",
+      "a": "Not on this site. The pocket is floor(u × 37) where u comes from a hash of the committed server seed, your client seed and the round number. There is no ball in motion and no measurement to take; the one thing you can observe before a spin is the commitment to the seed.",
       "source": "https://betkyo.com/en/blog/the-ritz-laser-scanner-and-the-1-3-million-that-was-not-a-crime/"
     },
     {
@@ -2082,12 +2112,12 @@
     {
       "article": "one-rounding-not-many-why-the-verifier-matches-the-server-bit-for-bit",
       "q": "Is the verifier a separate program from the game?",
-      "a": "No. The hash and number functions live in one shared module that both the demo engine and the fairness panel import, so the generator cannot drift from the verifier.",
+      "a": "The open-source verifier is a separate script, but it does the same arithmetic. The hash and number functions live in one shared module that the demo engine imports, and the verifier implements the same derivation with the same byte-to-number construction.",
       "source": "https://betkyo.com/en/blog/one-rounding-not-many-why-the-verifier-matches-the-server-bit-for-bit/"
     },
     {
       "article": "one-rounding-not-many-why-the-verifier-matches-the-server-bit-for-bit",
-      "q": "What does a failed verification mean here?",
+      "q": "What does a failed verification mean?",
       "a": "That the inputs differ from what the server used, because rounding cannot cause a false failure on this engine. It is the signal the verifier exists to give.",
       "source": "https://betkyo.com/en/blog/one-rounding-not-many-why-the-verifier-matches-the-server-bit-for-bit/"
     },
@@ -2118,7 +2148,7 @@
     {
       "article": "one-nonce-many-numbers-what-the-cursor-counts",
       "q": "Do all games use the cursor scheme?",
-      "a": "Keno and Crash use hash chains instead: keno hashes a per-ticket random hash and salt ten times, and crash follows the bustabit chain with exact integer arithmetic. The fairness panel verifies each from the strings it shows.",
+      "a": "Keno and Crash use hash chains instead: keno hashes a per-ticket random hash and salt ten times, and crash follows the bustabit chain with exact integer arithmetic.",
       "source": "https://betkyo.com/en/blog/one-nonce-many-numbers-what-the-cursor-counts/"
     },
     {
@@ -2201,8 +2231,8 @@
     },
     {
       "article": "designing-koban-flip-every-face-is-fixed-when-you-buy-the-coin",
-      "q": "Can I verify a ride?",
-      "a": "Yes. After the server seed is revealed, all faces of the ride can be recomputed from the seed pair and nonce, including flips after you cashed out.",
+      "q": "How are the faces of a ride derived?",
+      "a": "All of them come from the same seed pair and nonce, including flips after you cashed out: flip i reads cursor i, and the SHA-256 hash of the server seed is shown before the first coin is bought.",
       "source": "https://betkyo.com/en/blog/designing-koban-flip-every-face-is-fixed-when-you-buy-the-coin/"
     },
     {
@@ -2297,8 +2327,8 @@
     },
     {
       "article": "casino-holdem-priced-the-qualifying-rule-and-the-ante-bonus",
-      "q": "Can a folded hand be verified?",
-      "a": "Yes. All nine cards come from one seed pair and nonce in a fixed order; the turn and river are only read if you call, but they can be recomputed after the seed is revealed.",
+      "q": "How are the cards of a folded hand derived?",
+      "a": "All nine cards come from one seed pair and nonce in a fixed order; the turn and river are only read if you call, but they are fixed by the same seed pair and nonce either way.",
       "source": "https://betkyo.com/en/blog/casino-holdem-priced-the-qualifying-rule-and-the-ante-bonus/"
     },
     {
@@ -2382,7 +2412,7 @@
     {
       "article": "the-hot-hand-fallacy-fallacy",
       "q": "Is a streak on this site random?",
-      "a": "Each round is a hash of the committed server seed, your client seed and the round number, with nothing carried from the previous round. A streak is a run of independent results; it can be recomputed after the seed is revealed but it predicts nothing.",
+      "a": "Each round is a hash of the committed server seed, your client seed and the round number, with nothing carried from the previous round. A streak is a run of independent results; it is fully determined by those inputs but it predicts nothing.",
       "source": "https://betkyo.com/en/blog/the-hot-hand-fallacy-fallacy/"
     },
     {
@@ -2418,7 +2448,7 @@
     {
       "article": "wheel-bias-jagger-and-garcia-pelayo",
       "q": "Could wheel bias exist on an online roulette game?",
-      "a": "Not on one derived from a seed. Here the pocket is floor(u × 37) from the committed server seed, the client seed and the round number, which gives every pocket exactly 1 in 37. There is no physical wheel to wear, and any spin can be recomputed after the seed is revealed.",
+      "a": "Not on one derived from a seed. Here the pocket is floor(u × 37) from the committed server seed, the client seed and the round number, which gives every pocket exactly 1 in 37. There is no physical wheel to wear, and the open verifier implements the same rule.",
       "source": "https://betkyo.com/en/blog/wheel-bias-jagger-and-garcia-pelayo/"
     },
     {
@@ -2460,13 +2490,13 @@
     {
       "article": "ban-sugoroku-the-first-gambling-ban",
       "q": "How are dice generated on this site?",
-      "a": "Each die is a uniform number derived from the committed server seed, your client seed, the round number and a cursor, mapped to 1 through 6. After the server seed is revealed, any roll can be recomputed in your browser.",
+      "a": "Each die is a uniform number derived from the committed server seed, your client seed, the round number and a cursor, mapped to 1 through 6. The rule is published, and the open-source verifier implements the same derivation.",
       "source": "https://betkyo.com/en/blog/ban-sugoroku-the-first-gambling-ban/"
     },
     {
       "article": "what-a-hash-commitment-proves",
       "q": "What is a hash commitment in a provably fair casino?",
-      "a": "The SHA-256 fingerprint of the house’s secret server seed, shown before play and checked against the seed when it is revealed. It proves the seed was fixed before your bets and that the revealed seed is the one committed to.",
+      "a": "The SHA-256 fingerprint of the house’s secret server seed, shown before play. It proves the seed was fixed before your bets and that no other seed matches the commitment.",
       "source": "https://betkyo.com/en/blog/what-a-hash-commitment-proves/"
     },
     {
@@ -2483,8 +2513,8 @@
     },
     {
       "article": "what-a-hash-commitment-proves",
-      "q": "How do I check a round myself?",
-      "a": "Rotate the seed to reveal the retired server seed, hash it to confirm it matches the commitment you were shown, then recompute HMAC-SHA256 of the server seed over your client seed, the nonce and the cursor, and pass the result through the game’s published derivation. The seed panel performs the recomputation in your browser.",
+      "q": "How is a round’s result derived?",
+      "a": "The server seed, committed by its hash before the round, keys an HMAC-SHA256 over your client seed, the nonce and the cursor, and the output is passed through the game’s published derivation. The open-source verifier implements the same rule.",
       "source": "https://betkyo.com/en/blog/what-a-hash-commitment-proves/"
     },
     {
@@ -2496,7 +2526,7 @@
     {
       "article": "what-a-hash-commitment-proves",
       "q": "Is provably fair better than a licensed RNG audit?",
-      "a": "They answer different questions. An audit certifies a generator’s statistical behaviour over many draws; a commitment lets you check a specific round after the fact. Neither replaces the other, and neither changes the house edge.",
+      "a": "They answer different questions. An audit certifies a generator’s statistical behaviour over many draws; a commitment ties a specific round to a seed fixed before it was played. Neither replaces the other, and neither changes the house edge.",
       "source": "https://betkyo.com/en/blog/what-a-hash-commitment-proves/"
     },
     {
@@ -2531,8 +2561,8 @@
     },
     {
       "article": "designing-bingo-38-balls-12-lines",
-      "q": "Can I verify a Bingo round?",
-      "a": "Yes. The card is cursors 0 to 24 and the balls are cursors 25 to 62 of the round’s seed stream, each an HMAC-SHA256 of the committed server seed over your client seed, the nonce and the cursor. Rebuilding both and counting lines reproduces the payout.",
+      "q": "How is a Bingo result derived?",
+      "a": "The card is cursors 0 to 24 and the balls are cursors 25 to 62 of the round’s seed stream, each an HMAC-SHA256 of the committed server seed over your client seed, the nonce and the cursor. Counting the completed lines against the paytable gives the payout.",
       "source": "https://betkyo.com/en/blog/designing-bingo-38-balls-12-lines/"
     },
     {
@@ -2550,7 +2580,7 @@
     {
       "article": "illusion-of-control-and-the-client-seed",
       "q": "Then why can I set a client seed at all?",
-      "a": "So that part of the input to every result is yours and fixed before the server seed is revealed. That is what stops the house from choosing inputs whose results it likes, and it is what lets you recompute any round yourself afterwards. The seed is a verification tool.",
+      "a": "So that part of the input to every result is yours, fixed before the round and combined with a server seed the house committed to in advance. That is what stops the house from choosing inputs whose results it likes. The seed is a safeguard, not a steering wheel.",
       "source": "https://betkyo.com/en/blog/illusion-of-control-and-the-client-seed/"
     },
     {
@@ -2562,7 +2592,7 @@
     {
       "article": "illusion-of-control-and-the-client-seed",
       "q": "What does rotating the seed do?",
-      "a": "It retires the current server seed and reveals it, along with the hash it was committed under, and starts a fresh pair at round zero. Hashing the revealed seed and comparing it with the earlier commitment is the check that the house did not change seeds mid-way.",
+      "a": "It retires the current server seed and starts a fresh pair at round zero, committed under a new hash that the panel shows before your next bet. Like a new client seed, it changes the numbers that come out, not the odds behind them.",
       "source": "https://betkyo.com/en/blog/illusion-of-control-and-the-client-seed/"
     },
     {
@@ -2639,8 +2669,8 @@
     },
     {
       "article": "plinko-priced-the-binomial-behind-every-board",
-      "q": "Can I verify a Plinko drop?",
-      "a": "Each live drop returns the landing bucket and the nonce it drew on, and the seed panel shows the committed server-seed hash and your client seed; the ticket ties a drop to that pair and round. The server-side derivation itself is not in the client code, so verification runs through the ticket and the commitment.",
+      "q": "How is a Plinko drop decided?",
+      "a": "On the server, from your seed pair and the drop’s nonce. Each live drop returns the landing bucket and the nonce it drew on, and the seed panel shows the committed server-seed hash and your client seed; the ticket ties a drop to that pair and round. The server-side derivation itself is not in the client code.",
       "source": "https://betkyo.com/en/blog/plinko-priced-the-binomial-behind-every-board/"
     },
     {
@@ -2735,8 +2765,8 @@
     },
     {
       "article": "designing-hanabi-the-firework-ladder",
-      "q": "Can I verify a Hanabi spin?",
-      "a": "Yes. Every cell is one weighted draw from the committed server seed, your client seed and the nonce — base spin cursors 0–14, free spin j cursors 15+15j to 29+15j — using the public weight table, so the whole round replays from those three values.",
+      "q": "How is a Hanabi spin derived?",
+      "a": "Every cell is one weighted draw from the committed server seed, your client seed and the nonce — base spin cursors 0–14, free spin j cursors 15+15j to 29+15j — using the public weight table, so the whole round follows from those three values.",
       "source": "https://betkyo.com/en/blog/designing-hanabi-the-firework-ladder/"
     },
     {
@@ -2940,7 +2970,7 @@
     {
       "article": "the-superuser-scandal",
       "q": "Could a superuser exist in a provably fair house game?",
-      "a": "The attack has nothing to read. In a house game the entire state — your bet, the committed draw, the paytable — is either yours or published. Advance knowledge of the server seed would be an attack on the draw itself, which is what commit-reveal verification exists to expose.",
+      "a": "The attack has nothing to read. In a house game the entire state — your bet, the committed draw, the paytable — is either yours or published. Advance knowledge of the server seed would be an attack on the draw itself.",
       "source": "https://betkyo.com/en/blog/the-superuser-scandal/"
     },
     {
@@ -2958,7 +2988,7 @@
     {
       "article": "the-near-miss-effect",
       "q": "Do slot machines manufacture near misses?",
-      "a": "Some historically did, weighting reel displays so near misses appeared more often than the true odds produce them, and regulators have acted against the practice. Hanabi’s teases occur at exactly the rate independent draws imply — about 7.3% of spins show two scatters, versus 1.2% for the three that trigger free spins — and any spin can be recomputed from its committed seed pair.",
+      "a": "Some historically did, weighting reel displays so near misses appeared more often than the true odds produce them, and regulators have acted against the practice. Hanabi’s teases occur at exactly the rate independent draws imply — about 7.3% of spins show two scatters, versus 1.2% for the three that trigger free spins — and every spin is determined by its committed seed pair.",
       "source": "https://betkyo.com/en/blog/the-near-miss-effect/"
     },
     {
@@ -2988,7 +3018,7 @@
     {
       "article": "nine-six-jacks-or-better",
       "q": "Can the machine change the draw after I choose my holds?",
-      "a": "No. The entire card sequence is derived from the committed seed pair before your decision — replacements come from a single pre-ordered, without-replacement sequence, and the fairness data lets you recompute it after the round.",
+      "a": "No. The entire card sequence is derived from the committed seed pair before your decision — replacements come from a single pre-ordered, without-replacement sequence, fixed by the server seed, your client seed and the nonce under the published rule.",
       "source": "https://betkyo.com/en/blog/nine-six-jacks-or-better/"
     },
     {
@@ -3048,7 +3078,7 @@
     {
       "article": "what-a-keno-risk-level-changes",
       "q": "Can I improve my odds by choosing particular numbers?",
-      "a": "No. Every ten-ball combination is equally likely and the draw has no memory of previous rounds, so no set of numbers is better than another. The draw is committed before you see it and can be verified after the round.",
+      "a": "No. Every ten-ball combination is equally likely and the draw has no memory of previous rounds, so no set of numbers is better than another. The draw is committed before you see it.",
       "source": "https://betkyo.com/en/blog/what-a-keno-risk-level-changes/"
     },
     {
@@ -3078,7 +3108,7 @@
     {
       "article": "ronald-harris-slot-machine-scandal",
       "q": "Could the keno prediction attack work against a provably fair game?",
-      "a": "Not in the same way. Harris exploited a generator whose output was predictable to someone who knew the algorithm and its state. Under commit-reveal the server seed is committed by hash before the bet and revealed afterward, and your own client seed enters the result — so publishing the algorithm costs nothing, and the outcome cannot be changed once your bet is placed.",
+      "a": "Not in the same way. Harris exploited a generator whose output was predictable to someone who knew the algorithm and its state. Under commit-reveal the server seed is committed by hash before the bet, and your own client seed enters the result — so publishing the algorithm costs nothing, and the outcome cannot be changed once your bet is placed.",
       "source": "https://betkyo.com/en/blog/ronald-harris-slot-machine-scandal/"
     },
     {
@@ -3168,7 +3198,7 @@
     {
       "article": "the-room-is-the-game",
       "q": "Are near-misses deliberately engineered?",
-      "a": "Not necessarily. On a fair game they arise naturally from how paylines are evaluated. What matters is whether reels are weighted to produce them more often than chance would — which is what published paytables and verifiable rounds let you check.",
+      "a": "Not necessarily. On a fair game they arise naturally from how paylines are evaluated. What matters is whether reels are weighted to produce them more often than chance would — which is what published paytables and draw rules spell out in advance.",
       "source": "https://betkyo.com/en/blog/the-room-is-the-game/"
     },
     {
@@ -3371,14 +3401,14 @@
     },
     {
       "article": "verify-a-casino-round",
-      "q": "Do I need to know cryptography to verify a round?",
-      "a": "No. The manual path needs nothing beyond pasting strings into any SHA-256/HMAC calculator. Understanding why it works takes a paragraph; performing it takes a minute.",
+      "q": "Do I need to know cryptography to follow how a round is derived?",
+      "a": "No. The scheme rests on two standard building blocks — SHA-256 for the commitment, HMAC-SHA256 for each draw — plus the game’s published rule. Understanding why it works takes a paragraph.",
       "source": "https://betkyo.com/en/blog/verify-a-casino-round/"
     },
     {
       "article": "verify-a-casino-round",
-      "q": "Why do I have to rotate my seed to verify?",
-      "a": "Because the server seed must stay secret while it is still producing rounds — revealing it early would let a player compute future results. Rotation ends the seed’s life, which is exactly what makes it safe to reveal and audit.",
+      "q": "Why is the server seed committed as a hash?",
+      "a": "Because anyone who knew it could compute future results. The hash commits the house to the seed without exposing it; rotation ends the seed’s life and starts a fresh pair under a new commitment.",
       "source": "https://betkyo.com/en/blog/verify-a-casino-round/"
     },
     {
@@ -3420,7 +3450,7 @@
     {
       "article": "pagoda-design-notes",
       "q": "Could the trap move after I start picking?",
-      "a": "No. All nine trap positions derive from the seed pair committed before the round, each floor from its own cursor. Rotate your seed and you can recompute the full tower — including floors above where you stopped.",
+      "a": "No. All nine trap positions derive from the seed pair committed before the round, each floor from its own cursor. The full tower is fixed before your first pick — including floors above where you stopped.",
       "source": "https://betkyo.com/en/blog/pagoda-design-notes/"
     },
     {
@@ -3486,7 +3516,7 @@
     {
       "article": "inside-drand-the-internets-public-dice",
       "q": "Why doesn’t Betkyo just use drand for everything?",
-      "a": "Cadence and binding. Solo games need a result per click, priced per player, with the player’s own seed in the mix — that is commit-reveal’s territory. Beacon-style randomness earns its keep where one draw must serve everyone at once, and the fairness page states the scheme per game rather than pretending one tool fits all.",
+      "a": "Cadence and binding. Solo games need a result per click, priced per player, with the player’s own seed in the mix — that is the seed pair’s territory. Beacon-style randomness earns its keep where one draw must serve everyone at once, and the fairness page states the scheme per game rather than pretending one tool fits all.",
       "source": "https://betkyo.com/en/blog/inside-drand-the-internets-public-dice/"
     },
     {
@@ -3504,7 +3534,7 @@
     {
       "article": "a-short-history-of-trusting-randomness",
       "q": "Is pseudo-randomness good enough for gambling?",
-      "a": "Cryptographic pseudo-randomness is — the sequences are computationally indistinguishable from true randomness, and in a commit-reveal scheme the determinism becomes a feature: it is what lets you recompute and verify a past round exactly.",
+      "a": "Cryptographic pseudo-randomness is — the sequences are computationally indistinguishable from true randomness, and in a commit-reveal scheme the determinism becomes a feature: the same inputs always produce exactly the same round.",
       "source": "https://betkyo.com/en/blog/a-short-history-of-trusting-randomness/"
     },
     {
@@ -3540,7 +3570,7 @@
     {
       "article": "gamblers-fallacy",
       "q": "Does provably fair make the odds better?",
-      "a": "No — it makes the odds honest. Verification proves results were fixed at commitment and mapped through the published rules; the house edge in those rules is disclosed separately on each game’s odds panel.",
+      "a": "No — it makes the odds honest. Results are fixed at commitment and mapped through the published rules; the house edge in those rules is disclosed separately on each game’s odds panel.",
       "source": "https://betkyo.com/en/blog/gamblers-fallacy/"
     },
     {
@@ -3582,7 +3612,7 @@
     {
       "article": "the-ethics-of-the-house-edge",
       "q": "Does Betkyo profit from player losses?",
-      "a": "Yes — over the long run, by the published edge of each game, like every house. What we refuse is profiting from misunderstanding: the edge is printed, results are verifiable, and the interface never celebrates a loss.",
+      "a": "Yes — over the long run, by the published edge of each game, like every house. What we refuse is profiting from misunderstanding: the edge is printed, results follow a published rule, and the interface never celebrates a loss.",
       "source": "https://betkyo.com/en/blog/the-ethics-of-the-house-edge/"
     },
     {

@@ -2,6 +2,18 @@
 
 Short answers from the Betkyo Journal's Math of Luck category. Each entry is the article's own summary; the full derivation, tables and sources are on the linked page.
 
+## [How long $100 lasts, priced: the median number of $1 bets at dice ×2, dice ×10 and limbo ×100](https://betkyo.com/en/blog/how-long-100-dollars-lasts-priced-the-median-bet-count-at-x2-x10-and-x100/)
+
+_2026-11-14 · 9 min_
+
+Played **$1 at a time until it is gone**, half of all $100 bankrolls are spent within **6,712 bets at dice ×2**, **1,940 at dice ×10** and **200 at limbo ×100**; the 10th to 90th percentile ranges are **2,368–21,180**, **410–20,320** and **100–5,400** bets. The chance of still playing after **1,000 bets** is **99.59%, 67.84% and 23.91%**, and after **10,000 bets**, **32.85%, 17.85% and 7.10%**. Every setting costs about a cent per $1 bet (**1.01, 1.09 and 1.00 cents**), so the average session is close to 10,000 bets at all three — exactly $100 ÷ that cost: **9,900, 9,173 and 10,000** — yet only **33%, 19% and 7%** of bankrolls last that long. The multiplier changes the shape far more than the price: at ×100, **37% of bankrolls are gone in exactly 100 bets**. Exact calculation for this article from the engine’s odds, not a simulation.
+
+## [That number again, priced: 119 dice rolls, 8 roulette spins and the birthday problem](https://betkyo.com/en/blog/that-number-again-priced-119-dice-rolls-8-roulette-spins-and-the-birthday-problem/)
+
+_2026-11-10 · 10 min_
+
+On Betkyo roulette, with 37 equally likely pockets, some number has more likely than not come up twice by **spin 8** (55.68%). On signed-in Betkyo dice, with 9,999 equally likely results, the same point comes at **roll 119** (50.59%). The 90% points are **13 spins and 215 rolls**, the 99% points **18 spins and 303 rolls**. It is the birthday problem: n results hold n(n − 1) ÷ 2 pairs, so coincidences grow with the square of a session’s length, and **97.82%** of full 16-spin roulette history strips show a repeat. The same result **twice in a row** is another question: **1 in 37** per spin and **1 in 9,999** per roll, the chance of any other number. Neither engine reads the previous result. Calculations for this article from the engines’ outcome counts.
+
 ## [The longest losing streak, priced: what 100, 1,000 and 10,000 dice rolls will show you](https://betkyo.com/en/blog/the-longest-losing-streak-priced-what-100-1000-and-10000-dice-rolls-will-show-you/)
 
 _2026-11-06 · 8 min_

@@ -1,10 +1,10 @@
 # Betkyo Journal — index
 
-109 articles. Every game figure in the Journal is read from the engine source that pays it; incident figures come from the public record. Methodology: [How the Journal verifies a number](https://betkyo.com/en/blog/how-the-journal-verifies-a-number-methodology/).
+116 articles. Every game figure in the Journal is read from the engine source that pays it; incident figures come from the public record. Methodology: [How the Journal verifies a number](https://betkyo.com/en/blog/how-the-journal-verifies-a-number-methodology/).
 
-- [Stories & Incidents](journal/incidents.md) — 23 articles
-- [Math of Luck](journal/math.md) — 39 articles
-- [Game Notes](journal/notes.md) — 10 articles
+- [Math of Luck](journal/math.md) — 41 articles
+- [Stories & Incidents](journal/incidents.md) — 27 articles
+- [Game Notes](journal/notes.md) — 11 articles
 - [Japan & History](journal/history.md) — 10 articles
 - [Fairness Studies](journal/fairness.md) — 9 articles
 - [Crypto](journal/crypto.md) — 9 articles
@@ -12,6 +12,13 @@
 
 ## Latest
 
+- 2026-11-14 · [How long $100 lasts, priced: the median number of $1 bets at dice ×2, dice ×10 and limbo ×100](https://betkyo.com/en/blog/how-long-100-dollars-lasts-priced-the-median-bet-count-at-x2-x10-and-x100/)
+- 2026-11-12 · [Crown Melbourne, 2013: a camera scam, a reported A$32 million in eight hands, and the edge one card flips](https://betkyo.com/en/blog/crown-melbourne-2013-the-camera-scam-32-million-in-eight-hands-and-the-edge-one-card-flips/)
+- 2026-11-11 · [Cantor Gaming: the line-setter, $34 million in runner bets, and the 1 in 22 a sportsbook keeps](https://betkyo.com/en/blog/cantor-gaming-the-line-setter-34-million-in-runner-bets-and-the-1-in-22-a-sportsbook-keeps/)
+- 2026-11-10 · [That number again, priced: 119 dice rolls, 8 roulette spins and the birthday problem](https://betkyo.com/en/blog/that-number-again-priced-119-dice-rolls-8-roulette-spins-and-the-birthday-problem/)
+- 2026-11-09 · [Joan Ginther: four Texas Lottery jackpots, and why ‘1 in 18 septillion’ answers the wrong question](https://betkyo.com/en/blog/joan-ginther-four-texas-lottery-jackpots-and-why-1-in-18-septillion-answers-the-wrong-question/)
+- 2026-11-08 · [The Eudaemons: a roulette computer in a shoe, a 20% edge, and Nevada’s 1985 device ban](https://betkyo.com/en/blog/the-eudaemons-a-roulette-computer-in-a-shoe-a-20-percent-edge-and-nevadas-1985-device-ban/)
+- 2026-11-07 · [An AI host that is not allowed to say a number: how Betkyo’s Telegram chat turns a sentence into a bet](https://betkyo.com/en/blog/an-ai-host-that-is-not-allowed-to-say-a-number-how-betkyos-telegram-chat-turns-a-sentence-into-a-bet/)
 - 2026-11-06 · [The Triple Six Fix: weighted balls, eight numbers, and the bets that gave it away](https://betkyo.com/en/blog/the-triple-six-fix-1980-pennsylvania-lottery-weighted-balls-eight-numbers-and-the-bets-that-gave-it-away/)
 - 2026-11-06 · [The longest losing streak, priced: what 100, 1,000 and 10,000 dice rolls will show you](https://betkyo.com/en/blog/the-longest-losing-streak-priced-what-100-1000-and-10000-dice-rolls-will-show-you/)
 - 2026-11-05 · [Jerry and Marge Selbee: $27 million in tickets, the $2 million roll-down, and the lottery ticket that was worth more than it cost](https://betkyo.com/en/blog/jerry-and-marge-selbee-27-million-in-tickets-the-2-million-roll-down-and-the-lottery-ticket-worth-more-than-it-cost/)
@@ -20,19 +27,12 @@
 - 2026-11-03 · [How many bets before the edge shows, priced: the 40,000 rolls that hide a 1% house edge](https://betkyo.com/en/blog/how-many-bets-before-the-edge-shows-priced-the-40000-rolls-that-hide-a-1-percent-house-edge/)
 - 2026-11-01 · [Full Tilt Poker: $390 million owed, $60 million in the bank, and the email that said player funds were segregated](https://betkyo.com/en/blog/full-tilt-poker-390-million-owed-60-million-in-the-bank-and-the-email-that-said-player-funds-were-segregated/)
 - 2026-10-31 · [Dennis Nikrasch: the locksmith who reprogrammed the slot chip, ten jackpots, $6 million, and a swap that took under a minute](https://betkyo.com/en/blog/dennis-nikrasch-the-locksmith-who-reprogrammed-the-slot-chip-ten-jackpots-6-million-and-a-swap-under-a-minute/)
-- 2026-10-30 · [The Tran Organization: false shuffles, 42 guilty pleas, and the slug of cards that came back in order](https://betkyo.com/en/blog/the-tran-organization-false-shuffles-42-guilty-pleas-and-the-slug-of-cards-that-came-back-in-order/)
-- 2026-10-29 · [Eddie Tipton: the lottery random number generator that knew three dates a year](https://betkyo.com/en/blog/eddie-tipton-the-lottery-random-number-generator-that-knew-three-dates-a-year/)
-- 2026-10-22 · [Hamster Kombat: 300 million players, a 60-billion-token airdrop, and the month they left](https://betkyo.com/en/blog/hamster-kombat-300-million-players-a-60-billion-token-airdrop-and-the-month-they-left/)
-- 2026-10-21 · [Don Johnson: $15 million from Atlantic City, and the 20% rebate that flipped the edge](https://betkyo.com/en/blog/don-johnson-15-million-from-atlantic-city-and-the-20-percent-rebate-that-flipped-the-edge/)
-- 2026-10-19 · [Jontay Porter: the under only the player can guarantee, and the bets the NBA just removed](https://betkyo.com/en/blog/jontay-porter-the-under-only-the-player-can-guarantee-and-the-bets-the-nba-just-removed/)
-- 2026-10-18 · [Ippei Mizuhara: 19,000 bets, a 12% loss rate, and the bankroll that was never his](https://betkyo.com/en/blog/ippei-mizuhara-19000-bets-and-the-12-percent-that-broke-someone-elses-bankroll/)
-- 2026-10-17 · [The Stake hack: $41 million in nine hours, and the vault that provably fair does not cover](https://betkyo.com/en/blog/the-stake-hack-41-million-in-nine-hours-and-the-vault-provably-fair-does-not-cover/)
 
 ## Revised articles
 
 Articles whose figures were corrected or refreshed after publication, with the revision date. The old text stays visible on the page with the correction note.
 
-- 2026-11-05 → 2026-11-06 · [Your balance, your deposits, your wins — in the chat: Betkyo in Telegram](https://betkyo.com/en/blog/betkyo-in-telegram-your-balance-your-deposits-your-wins-in-the-chat/)
+- 2026-11-05 → 2026-11-07 · [Your balance, your deposits, your wins — in the chat: Betkyo in Telegram](https://betkyo.com/en/blog/betkyo-in-telegram-your-balance-your-deposits-your-wins-in-the-chat/)
 - 2026-11-04 → 2026-11-06 · [The Squid Game token: ×286,000 in six days, zero in five minutes, and the market where you could buy but not sell](https://betkyo.com/en/blog/the-squid-game-token-286000x-in-six-days-zero-in-five-minutes-and-the-market-where-you-could-buy-but-not-sell/)
 - 2026-11-03 → 2026-11-06 · [How many bets before the edge shows, priced: the 40,000 rolls that hide a 1% house edge](https://betkyo.com/en/blog/how-many-bets-before-the-edge-shows-priced-the-40000-rolls-that-hide-a-1-percent-house-edge/)
 - 2026-11-01 → 2026-11-06 · [Full Tilt Poker: $390 million owed, $60 million in the bank, and the email that said player funds were segregated](https://betkyo.com/en/blog/full-tilt-poker-390-million-owed-60-million-in-the-bank-and-the-email-that-said-player-funds-were-segregated/)
@@ -92,18 +92,22 @@ Articles whose figures were corrected or refreshed after publication, with the r
 - 2026-08-28 → 2026-11-06 · [The auditor was the attack: Ronald Harris and the slot machine he was paid to check](https://betkyo.com/en/blog/ronald-harris-slot-machine-scandal/)
 - 2026-08-07 → 2026-11-06 · [Where the money sits: hot wallets, cold storage and what “proof of reserves” proves](https://betkyo.com/en/blog/where-the-money-sits/)
 - 2026-08-07 → 2026-11-06 · [The room is the game: how casino floors are built to keep you in them](https://betkyo.com/en/blog/the-room-is-the-game/)
+- 2026-08-07 → 2026-11-06 · [Pachinko: how Japan built a gambling industry in a country where gambling is illegal](https://betkyo.com/en/blog/pachinko-and-the-three-shop-system/)
+- 2026-08-07 → 2026-11-06 · [Oicho-Kabu: the card game that gave the yakuza their name](https://betkyo.com/en/blog/oicho-kabu-and-the-word-yakuza/)
+- 2026-08-07 → 2026-11-06 · [The night black came up twenty-six times: Monte Carlo, 1913](https://betkyo.com/en/blog/the-monte-carlo-black-streak/)
 - 2026-07-24 → 2026-11-06 · [How a casino round is derived: a step-by-step walkthrough](https://betkyo.com/en/blog/verify-a-casino-round/)
 - 2026-07-24 → 2026-11-06 · [Designing Pagoda’s ladder: a game with no bad button](https://betkyo.com/en/blog/pagoda-design-notes/)
 - 2026-07-24 → 2026-11-06 · [Omikuji: the shrine lottery that predates every casino](https://betkyo.com/en/blog/omikuji-the-shrine-lottery/)
 - 2026-07-24 → 2026-11-06 · [The students who beat the house: how the MIT Blackjack Team ran counting as a business](https://betkyo.com/en/blog/mit-blackjack-team/)
 - 2026-07-24 → 2026-11-06 · [Inside drand: the internet’s public dice](https://betkyo.com/en/blog/inside-drand-the-internets-public-dice/)
 - 2026-07-24 → 2026-11-06 · [A short history of trusting randomness: from knucklebones to hash commitments](https://betkyo.com/en/blog/a-short-history-of-trusting-randomness/)
-- 2026-07-24 → 2026-11-06 · [Before Mario: Nintendo spent 66 years as a gambling-card company](https://betkyo.com/en/blog/hanafuda-and-nintendo/)
+- 2026-07-24 → 2026-11-06 · [Before Mario: Nintendo spent more than 70 years as a gambling-card company](https://betkyo.com/en/blog/hanafuda-and-nintendo/)
 - 2026-07-24 → 2026-11-06 · [The gambler’s fallacy: why streaks feel like signals (and why the dice don’t care)](https://betkyo.com/en/blog/gamblers-fallacy/)
 - 2026-07-24 → 2026-11-06 · [Four ways to prove a random number: commit-reveal, beacons, VRF, certified hardware](https://betkyo.com/en/blog/four-ways-to-prove-a-random-number/)
 - 2026-07-24 → 2026-11-06 · [The honest house: an essay on the ethics of the edge](https://betkyo.com/en/blog/the-ethics-of-the-house-edge/)
 - 2026-07-24 → 2026-11-06 · [Paying the network, not the house: a player’s guide to crypto fees](https://betkyo.com/en/blog/crypto-fees-for-players/)
 - 2026-07-24 → 2026-11-06 · [Chinchiro: the real rules of Japan’s street dice game — with exact payouts](https://betkyo.com/en/blog/chinchiro-rules-and-odds/)
+- 2026-07-24 → 2026-11-06 · [The Run: how Archie Karas turned $50 into $40 million — and why he had to lose it](https://betkyo.com/en/blog/archie-karas-the-run/)
 - 2026-07-24 → 2026-11-06 · [Andar Bahar’s random ×5 boosts don’t change the house edge — here’s the proof](https://betkyo.com/en/blog/andar-bahar-boost-math/)
 
 

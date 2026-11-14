@@ -2,11 +2,17 @@
 
 Short answers from the Betkyo Journal's Game Notes category. Each entry is the article's own summary; the full derivation, tables and sources are on the linked page.
 
+## [An AI host that is not allowed to say a number: how Betkyo’s Telegram chat turns a sentence into a bet](https://betkyo.com/en/blog/an-ai-host-that-is-not-allowed-to-say-a-number-how-betkyos-telegram-chat-turns-a-sentence-into-a-bet/)
+
+_2026-11-07 · 6 min_
+
+In [@BetkyoPlayBot](https://betkyo.com/en/telegram/tour/) an **AI host** reads what you type in plain English (“a dollar on dice at 2x”, “5 on Red Lions”) and words a one-line reply. It **never moves money and never produces a number**: the balance, the line, the price and the payout all come from Betkyo’s own system, and every bet or withdrawal is a **card you confirm**, valid once for **60 seconds**. Chat bets are capped at **$25 a bet and $250 a day**; typing “lock” stops bets, withdrawals and account changes from the chat, and real-money play wherever you signed in with Telegram, at once. The games themselves open as [Betkyo Play](https://betkyo.com/en/telegram/play/), with 1,000 demo chips. 18+.
+
 ## [Your balance, your deposits, your wins — in the chat: Betkyo in Telegram](https://betkyo.com/en/blog/betkyo-in-telegram-your-balance-your-deposits-your-wins-in-the-chat/)
 
-_2026-11-05, revised 2026-11-06 · 6 min_
+_2026-11-05, revised 2026-11-07 · 6 min_
 
-The official bot is **@BetkyoPlayBot**; its page is [betkyo.com/en/telegram](https://betkyo.com/en/telegram/). Reply with a number or a sentence: **1** balance, **2** play, **3** deposit address, **4** race standing, **5** today’s 福袋, **6** a quick dice bet, **7** a free roll, **8** withdraw, **0** quiet. A chat dice bet is shown as a card and nothing is placed until you tap *Place bet*; the chat caps bets at **$25 a bet and $250 a day**, withdrawals at **$1,000 a day** to an address you have used and **$300** to a new one. The Mini App starts you with **1,000 play chips** and no sign-up. The bot never asks first for a password, a code, a seed phrase or an address. 18+.
+The official bot is **@BetkyoPlayBot**; the picture tour is [betkyo.com/en/telegram/tour](https://betkyo.com/en/telegram/tour/). Reply with a number or a sentence: **1** balance, **2** play, **3** deposit address, **4** race standing, **5** today’s 福袋, **6** a quick dice bet, **7** a free roll, **8** withdraw, **0** quiet. A chat dice bet is shown as a card and nothing is placed until you tap *Place bet*; the chat caps bets at **$25 a bet and $250 a day**, withdrawals at **$1,000 a day** to an address you have used and **$300** to a new one. [Betkyo Play](https://betkyo.com/en/telegram/play/) makes your account on the spot with **1,000 play chips** and no sign-up form. The bot never asks first for a password, a code, a seed phrase or an address. 18+.
 
 ## [Designing Koban Flip: every face is fixed when you buy the coin](https://betkyo.com/en/blog/designing-koban-flip-every-face-is-fixed-when-you-buy-the-coin/)
 

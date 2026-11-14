@@ -34,15 +34,15 @@ _2026-08-31, revised 2026-11-06 · 9 min_
 
 ## [Pachinko: how Japan built a gambling industry in a country where gambling is illegal](https://betkyo.com/en/blog/pachinko-and-the-three-shop-system/)
 
-_2026-08-07 · 8 min_
+_2026-08-07, revised 2026-11-06 · 8 min_
 
-Pachinko is legal because, on paper, it is not gambling: a player wins **balls**, exchanges them for **prizes** inside the parlour, and — if they want cash — sells those prizes at a **legally separate business off the premises**. This is the **three-shop system** (三店方式): parlour, prize counter and buyer are formally unrelated, so no single entity pays out money for a game of chance. The structure is decades old, openly known, and has made pachinko one of the largest leisure industries in the world.
+Pachinko is legal because, on paper, it is not gambling: a player wins **balls**, exchanges them for **prizes** inside the parlour, and — if they want cash — sells those prizes at a **legally separate business off the premises**. This is the **three-shop system** (三店方式): parlour, exchange booth and prize wholesaler are formally unrelated, so no single entity pays out money for a game of chance. The structure is decades old, openly known, and has made pachinko one of the largest leisure industries in the world.
 
 ## [Oicho-Kabu: the card game that gave the yakuza their name](https://betkyo.com/en/blog/oicho-kabu-and-the-word-yakuza/)
 
-_2026-08-07 · 7 min_
+_2026-08-07, revised 2026-11-06 · 7 min_
 
-Oicho-Kabu is a Japanese card game played to a score of **nine**, where only the last digit of a sum counts. The hand **8-9-3** totals twenty and therefore scores **zero** — worthless. Spoken in the older readings of the numerals it is **ya-ku-za**, and that is the accepted origin of the word: a self-description by gamblers as the useless hand, later attached to the organisations that grew out of the gambling houses.
+Oicho-Kabu is a Japanese card game played to a score of **nine**, where only the last digit of a sum counts. The hand **8-9-3** totals twenty and therefore scores **zero** — worthless. Spoken with everyday readings of the numerals it is **ya-ku-sa**, pronounced yakuza, and that is the accepted origin of the word: a self-description by gamblers as the useless hand, later attached to the organisations that grew out of the gambling houses.
 
 ## [Omikuji: the shrine lottery that predates every casino](https://betkyo.com/en/blog/omikuji-the-shrine-lottery/)
 
@@ -50,11 +50,11 @@ _2026-07-24, revised 2026-11-06 · 6 min_
 
 **Omikuji** (御神籤) are the fortune lots drawn at Japanese shrines and temples: shake a box, draw a stick, receive a slip ranked from **大吉** (great blessing) down to **凶** (curse). The numbered-lot-with-poem tradition is attributed to the 10th-century monk **Ryōgen**, and lot-drawing itself was once serious statecraft — in 1428 Japan chose a shōgun by drawing lots.
 
-## [Before Mario: Nintendo spent 66 years as a gambling-card company](https://betkyo.com/en/blog/hanafuda-and-nintendo/)
+## [Before Mario: Nintendo spent more than 70 years as a gambling-card company](https://betkyo.com/en/blog/hanafuda-and-nintendo/)
 
 _2026-07-24, revised 2026-11-06 · 7 min_
 
-**Nintendo** was founded in Kyoto in **1889** by Fusajiro Yamauchi as a workshop printing **hanafuda** (花札, “flower cards”) — a 48-card deck that evolved specifically to dodge Edo-era gambling bans by replacing numbers with flowers. Nintendo sold playing cards for 66 years before its first toy, and it still sells hanafuda today.
+**Nintendo** was founded in Kyoto in **1889** by Fusajiro Yamauchi as a workshop printing **hanafuda** (花札, “flower cards”) — a 48-card deck that evolved specifically to dodge Edo-era gambling bans by replacing numbers with flowers. Nintendo sold playing cards for more than 70 years before its first toy, and it still sells hanafuda today.
 
 ## [Chinchiro: the real rules of Japan’s street dice game — with exact payouts](https://betkyo.com/en/blog/chinchiro-rules-and-odds/)
 

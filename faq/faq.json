@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-06",
+  "generated": "2026-11-13",
   "license": "CC BY 4.0",
-  "count": 617,
+  "count": 656,
   "items": [
     {
       "game": "dice",
@@ -490,6 +490,240 @@
       "source": "https://betkyo.com/en/guide/andar-bahar/"
     },
     {
+      "article": "how-long-100-dollars-lasts-priced-the-median-bet-count-at-x2-x10-and-x100",
+      "q": "How long does $100 last at $1 a bet?",
+      "a": "Played $1 at a time until it is gone, half of all $100 bankrolls are spent within 6,712 bets at dice ×2 (roll under 49.50), 1,940 at dice ×10 (under 9.90) and 200 at limbo ×100; the 10th to 90th percentile ranges are 2,368–21,180, 410–20,320 and 100–5,400 bets. Exact calculation for this article from the engine’s odds.",
+      "source": "https://betkyo.com/en/blog/how-long-100-dollars-lasts-priced-the-median-bet-count-at-x2-x10-and-x100/"
+    },
+    {
+      "article": "how-long-100-dollars-lasts-priced-the-median-bet-count-at-x2-x10-and-x100",
+      "q": "What is the average number of bets before $100 runs out?",
+      "a": "Exactly $100 divided by the expected loss per bet: 9,900 at dice ×2 (1.01 cents a bet), 9,173 at dice ×10 (1.09 cents) and 10,000 at limbo ×100 (1.00 cent). Only 33%, 19% and 7% of bankrolls last that long.",
+      "source": "https://betkyo.com/en/blog/how-long-100-dollars-lasts-priced-the-median-bet-count-at-x2-x10-and-x100/"
+    },
+    {
+      "article": "how-long-100-dollars-lasts-priced-the-median-bet-count-at-x2-x10-and-x100",
+      "q": "Does a higher multiplier make a bankroll last longer?",
+      "a": "Usually not: the median falls from 6,712 bets at ×2 to 1,940 at ×10 and 200 at ×100, at nearly the same cost per bet. Only the tail grows: after 100,000 bets 1.67% of ×100 bankrolls are still playing, against 0.031% at ×2.",
+      "source": "https://betkyo.com/en/blog/how-long-100-dollars-lasts-priced-the-median-bet-count-at-x2-x10-and-x100/"
+    },
+    {
+      "article": "how-long-100-dollars-lasts-priced-the-median-bet-count-at-x2-x10-and-x100",
+      "q": "What is the chance of still playing after 1,000 or 10,000 bets?",
+      "a": "From $100 at $1 a bet: after 1,000 bets, 99.59% at dice ×2, 67.84% at dice ×10 and 23.91% at limbo ×100; after 10,000 bets, 32.85%, 17.85% and 7.10%.",
+      "source": "https://betkyo.com/en/blog/how-long-100-dollars-lasts-priced-the-median-bet-count-at-x2-x10-and-x100/"
+    },
+    {
+      "article": "how-long-100-dollars-lasts-priced-the-median-bet-count-at-x2-x10-and-x100",
+      "q": "Can you bet ×100 on dice?",
+      "a": "No. The dice screen takes targets from 2.00 to 98.00, so its top payout is ×49.50 (roll under 2.00), where $100 at $1 a bet has a median of 446 bets. ×100 is a limbo target, with the house edge fixed at 1% at every multiplier.",
+      "source": "https://betkyo.com/en/blog/how-long-100-dollars-lasts-priced-the-median-bet-count-at-x2-x10-and-x100/"
+    },
+    {
+      "article": "crown-melbourne-2013-the-camera-scam-32-million-in-eight-hands-and-the-edge-one-card-flips",
+      "q": "What happened at Crown Melbourne in 2013?",
+      "a": "In early February 2013 an overseas high roller won a reported A$32 million over eight hands of cards in a VIP room. Crown said its surveillance department had uncovered a sophisticated betting scam, dismissed a VIP services staff member and banned the patron. The reported method, which Crown never confirmed, was remote access to the casino’s own surveillance cameras, with information relayed to the player at the table.",
+      "source": "https://betkyo.com/en/blog/crown-melbourne-2013-the-camera-scam-32-million-in-eight-hands-and-the-edge-one-card-flips/"
+    },
+    {
+      "article": "crown-melbourne-2013-the-camera-scam-32-million-in-eight-hands-and-the-edge-one-card-flips",
+      "q": "Was the money recovered, and was anyone charged?",
+      "a": "Crown said in March 2013 that it was in a good position to recover a significant portion, and in 2015 The Sunday Age reported that most of the winnings had not yet left the casino. No recovered amount was ever published. No charges were ever reported; according to The Sunday Age, Crown decided not to press charges.",
+      "source": "https://betkyo.com/en/blog/crown-melbourne-2013-the-camera-scam-32-million-in-eight-hands-and-the-edge-one-card-flips/"
+    },
+    {
+      "article": "crown-melbourne-2013-the-camera-scam-32-million-in-eight-hands-and-the-edge-one-card-flips",
+      "q": "What game was being played?",
+      "a": "It was never named. Reports said cards or card tables; the outlets that said poker gave no source, and the one that said blackjack got the date wrong. This article uses baccarat’s Banker bet, with a 1.06% house edge on an eight-deck shoe, as a yardstick, because a game with no decisions can be priced exactly.",
+      "source": "https://betkyo.com/en/blog/crown-melbourne-2013-the-camera-scam-32-million-in-eight-hands-and-the-edge-one-card-flips/"
+    },
+    {
+      "article": "crown-melbourne-2013-the-camera-scam-32-million-in-eight-hands-and-the-edge-one-card-flips",
+      "q": "How much does seeing the cards change the odds?",
+      "a": "On an eight-deck baccarat shoe the Banker bet costs the player 1.06% a hand. Knowing the first card dealt before betting and backing the better side is worth about +6.8% a hand, Player’s two cards about +35.6%, and every card +95% on each Banker win and +100% on each Player win (calculation for this article).",
+      "source": "https://betkyo.com/en/blog/crown-melbourne-2013-the-camera-scam-32-million-in-eight-hands-and-the-edge-one-card-flips/"
+    },
+    {
+      "article": "crown-melbourne-2013-the-camera-scam-32-million-in-eight-hands-and-the-edge-one-card-flips",
+      "q": "What are the honest odds of winning eight hands in a row?",
+      "a": "At baccarat, without information, about 1 in 511 betting Banker and 1 in 636 betting Player if a tie breaks the run, or 1 in 230 and 1 in 286 counting decided hands only, close to eight heads in a row at 1 in 256 (calculation for this article).",
+      "source": "https://betkyo.com/en/blog/crown-melbourne-2013-the-camera-scam-32-million-in-eight-hands-and-the-edge-one-card-flips/"
+    },
+    {
+      "article": "cantor-gaming-the-line-setter-34-million-in-runner-bets-and-the-1-in-22-a-sportsbook-keeps",
+      "q": "What happened at Cantor Gaming?",
+      "a": "A Las Vegas sportsbook affiliated with Cantor Fitzgerald took bets from paid runners, many placed for bettors outside Nevada, and failed basic anti-money-laundering checks. Its director of risk management, Michael Colbert, pleaded guilty to a federal gambling conspiracy charge in 2013; the company, renamed CG Technology, paid $28 million to settle the state and federal cases.",
+      "source": "https://betkyo.com/en/blog/cantor-gaming-the-line-setter-34-million-in-runner-bets-and-the-1-in-22-a-sportsbook-keeps/"
+    },
+    {
+      "article": "cantor-gaming-the-line-setter-34-million-in-runner-bets-and-the-1-in-22-a-sportsbook-keeps",
+      "q": "Who was Michael Colbert?",
+      "a": "Cantor Gaming’s director of risk management, whose job, in the Justice Department’s words, was to set the lines and odds. Arrested on 24 October 2012, he pleaded guilty on 21 August 2013 to conspiracy to conduct an illegal gambling business and was sentenced in October 2016 without prison.",
+      "source": "https://betkyo.com/en/blog/cantor-gaming-the-line-setter-34-million-in-runner-bets-and-the-1-in-22-a-sportsbook-keeps/"
+    },
+    {
+      "article": "cantor-gaming-the-line-setter-34-million-in-runner-bets-and-the-1-in-22-a-sportsbook-keeps",
+      "q": "What is messenger betting?",
+      "a": "Betting through a paid runner who places wagers for someone else. Nevada books may not knowingly accept such bets, or take bets from outside the state. Nevada’s complaint counted about $34.3 million in runner tickets at Cantor in 2011 and 2012.",
+      "source": "https://betkyo.com/en/blog/cantor-gaming-the-line-setter-34-million-in-runner-bets-and-the-1-in-22-a-sportsbook-keeps/"
+    },
+    {
+      "article": "cantor-gaming-the-line-setter-34-million-in-runner-bets-and-the-1-in-22-a-sportsbook-keeps",
+      "q": "How much did Cantor Gaming pay?",
+      "a": "$5.5 million to Nevada in January 2014, then the largest fine in the Nevada Gaming Commission’s history, and $22.5 million to federal authorities in October 2016: $28 million for the two cases. A separate $1.5 million Nevada settlement in July 2016 covered about 20,000 underpaid winning bets.",
+      "source": "https://betkyo.com/en/blog/cantor-gaming-the-line-setter-34-million-in-runner-bets-and-the-1-in-22-a-sportsbook-keeps/"
+    },
+    {
+      "article": "cantor-gaming-the-line-setter-34-million-in-runner-bets-and-the-1-in-22-a-sportsbook-keeps",
+      "q": "Why does −110 mean a 4.5% hold?",
+      "a": "Each side risks $110 to win $100. With equal money on both sides the book takes in $220, pays the winner $210 and keeps $10: 1 dollar in 22, about 4.5%. The bettor needs 52.4% to break even; the book is sure of its 4.5% only when the two sides match.",
+      "source": "https://betkyo.com/en/blog/cantor-gaming-the-line-setter-34-million-in-runner-bets-and-the-1-in-22-a-sportsbook-keeps/"
+    },
+    {
+      "article": "that-number-again-priced-119-dice-rolls-8-roulette-spins-and-the-birthday-problem",
+      "q": "How many roulette spins until a number repeats?",
+      "a": "On a single-zero wheel of 37 equally likely pockets, some number has repeated with 55.68% chance by spin 8, 90.89% by spin 13 and 99.33% by spin 18; the first repeat comes on spin 8.31 on average. Calculations for this article.",
+      "source": "https://betkyo.com/en/blog/that-number-again-priced-119-dice-rolls-8-roulette-spins-and-the-birthday-problem/"
+    },
+    {
+      "article": "that-number-again-priced-119-dice-rolls-8-roulette-spins-and-the-birthday-problem",
+      "q": "How many dice rolls until a result repeats?",
+      "a": "On signed-in Betkyo dice, one of 9,999 equally likely results per roll, some result has repeated with 50.59% chance by roll 119, 90.15% by roll 215 and 99.02% by roll 303. The first repeat comes on roll 125.99 on average.",
+      "source": "https://betkyo.com/en/blog/that-number-again-priced-119-dice-rolls-8-roulette-spins-and-the-birthday-problem/"
+    },
+    {
+      "article": "that-number-again-priced-119-dice-rolls-8-roulette-spins-and-the-birthday-problem",
+      "q": "What are the odds of the same number twice in a row in roulette?",
+      "a": "1 in 37, 2.70%, on each spin: the chance of any other number. At least one back-to-back repeat has happened with even odds by spin 27, and 93.36% of 100-spin sessions hold one. Three in a row is 1 in 1,369 for any given three spins.",
+      "source": "https://betkyo.com/en/blog/that-number-again-priced-119-dice-rolls-8-roulette-spins-and-the-birthday-problem/"
+    },
+    {
+      "article": "that-number-again-priced-119-dice-rolls-8-roulette-spins-and-the-birthday-problem",
+      "q": "Does a repeated number mean the wheel is hot or rigged?",
+      "a": "No. Repeats are what independent draws produce: 97.82% of 16-spin strips hold one, and in 37 spins some pocket lands four or more times 51.00% of the time. Each spin comes from the server seed, your client seed and the round’s nonce, with no earlier result as an input.",
+      "source": "https://betkyo.com/en/blog/that-number-again-priced-119-dice-rolls-8-roulette-spins-and-the-birthday-problem/"
+    },
+    {
+      "article": "that-number-again-priced-119-dice-rolls-8-roulette-spins-and-the-birthday-problem",
+      "q": "What is the birthday problem?",
+      "a": "It asks how many draws from N equally likely outcomes it takes before two probably match. For 365 birthdays the answer is 23 people (50.73%). The rule of thumb is about 1.2√N; the exact even-odds answers for 9,999 and 37 outcomes are 119 and 8.",
+      "source": "https://betkyo.com/en/blog/that-number-again-priced-119-dice-rolls-8-roulette-spins-and-the-birthday-problem/"
+    },
+    {
+      "article": "that-number-again-priced-119-dice-rolls-8-roulette-spins-and-the-birthday-problem",
+      "q": "Does betting the number that just came up change the odds?",
+      "a": "No. It is a straight-up bet: ×36 total return on a 1-in-37 chance, a 97.30% return and a 2.70% house edge, the same as every other bet on the wheel.",
+      "source": "https://betkyo.com/en/blog/that-number-again-priced-119-dice-rolls-8-roulette-spins-and-the-birthday-problem/"
+    },
+    {
+      "article": "joan-ginther-four-texas-lottery-jackpots-and-why-1-in-18-septillion-answers-the-wrong-question",
+      "q": "Who was Joan Ginther?",
+      "a": "A former college math professor with a Stanford doctorate, from Bishop, Texas, who won four Texas Lottery top prizes between 1993 and 2010: a share of an $11 million Lotto Texas jackpot and the top prizes of three scratch-off games. She died in April 2024.",
+      "source": "https://betkyo.com/en/blog/joan-ginther-four-texas-lottery-jackpots-and-why-1-in-18-septillion-answers-the-wrong-question/"
+    },
+    {
+      "article": "joan-ginther-four-texas-lottery-jackpots-and-why-1-in-18-septillion-answers-the-wrong-question",
+      "q": "How much did Joan Ginther win?",
+      "a": "About $20.4 million at face value from the four top prizes: a $5.4 million annuity from the 1993 jackpot (20 payments of $270,000) plus scratch-off prizes of $2 million (2006), $3 million (2008) and $10 million (2010). AP said nearly $21 million.",
+      "source": "https://betkyo.com/en/blog/joan-ginther-four-texas-lottery-jackpots-and-why-1-in-18-septillion-answers-the-wrong-question/"
+    },
+    {
+      "article": "joan-ginther-four-texas-lottery-jackpots-and-why-1-in-18-septillion-answers-the-wrong-question",
+      "q": "Were the odds really 1 in 18 septillion?",
+      "a": "Only for one person, named in advance, who bought exactly one ticket in each of the four games, which is what that figure assumes. With an estimated 80,000 tickets at about 1 in 600,000 each, three scratch-off top prizes come out near 1 in 2,800 (calculation for this article); an analyst quoted by the Inquirer put it at about 1 in 1,300.",
+      "source": "https://betkyo.com/en/blog/joan-ginther-four-texas-lottery-jackpots-and-why-1-in-18-septillion-answers-the-wrong-question/"
+    },
+    {
+      "article": "joan-ginther-four-texas-lottery-jackpots-and-why-1-in-18-septillion-answers-the-wrong-question",
+      "q": "How many lottery tickets did Joan Ginther buy?",
+      "a": "Nobody published a count. Two statistics experts consulted by the Inquirer put the average scenario at more than 80,000 tickets costing more than $2.5 million; under other assumptions, the Inquirer’s estimates ran from 72,000 to about 100,000 tickets.",
+      "source": "https://betkyo.com/en/blog/joan-ginther-four-texas-lottery-jackpots-and-why-1-in-18-septillion-answers-the-wrong-question/"
+    },
+    {
+      "article": "joan-ginther-four-texas-lottery-jackpots-and-why-1-in-18-septillion-answers-the-wrong-question",
+      "q": "Did Joan Ginther cheat?",
+      "a": "Nothing on the record says so, and she was never charged with anything. The Texas Lottery said in 2011 that no allegations or hints of wrongdoing had been brought to its attention. The theory that she had worked out how prizes were distributed came from Nathaniel Rich in Harper’s in 2011 and was never proven.",
+      "source": "https://betkyo.com/en/blog/joan-ginther-four-texas-lottery-jackpots-and-why-1-in-18-septillion-answers-the-wrong-question/"
+    },
+    {
+      "article": "joan-ginther-four-texas-lottery-jackpots-and-why-1-in-18-septillion-answers-the-wrong-question",
+      "q": "What is a $50 scratch ticket worth?",
+      "a": "In Extreme Payout, the game that paid her $10 million, $38.72 on average at its printed 77.44% payout, or $30.63 once the three $10 million prizes were gone (calculation for this article). What a remaining ticket is worth depends on how many top prizes are still out and how many tickets are left.",
+      "source": "https://betkyo.com/en/blog/joan-ginther-four-texas-lottery-jackpots-and-why-1-in-18-septillion-answers-the-wrong-question/"
+    },
+    {
+      "article": "the-eudaemons-a-roulette-computer-in-a-shoe-a-20-percent-edge-and-nevadas-1985-device-ban",
+      "q": "Who were the Eudaemons?",
+      "a": "A group of physics students and friends in Santa Cruz, California, led by J. Doyne Farmer and Norman Packard, who from 1976 to 1981 tried to predict roulette with physics and a computer hidden in a shoe. Thomas Bass, one of their bettors, told the story in The Eudaemonic Pie (1985).",
+      "source": "https://betkyo.com/en/blog/the-eudaemons-a-roulette-computer-in-a-shoe-a-20-percent-edge-and-nevadas-1985-device-ban/"
+    },
+    {
+      "article": "the-eudaemons-a-roulette-computer-in-a-shoe-a-20-percent-edge-and-nevadas-1985-device-ban",
+      "q": "How did the Eudaemons’ shoe computer work?",
+      "a": "One player tapped a toe switch to time the ball and the rotor during the roughly 15 seconds before betting closed. A small 6502-based computer in a shoe predicted the likely octant of the wheel and sent one of nine signals by radio to a bettor, who felt it through solenoids and bet on numbers in that part of the wheel.",
+      "source": "https://betkyo.com/en/blog/the-eudaemons-a-roulette-computer-in-a-shoe-a-20-percent-edge-and-nevadas-1985-device-ban/"
+    },
+    {
+      "article": "the-eudaemons-a-roulette-computer-in-a-shoe-a-20-percent-edge-and-nevadas-1985-device-ban",
+      "q": "Did the Eudaemons really have a 44% edge?",
+      "a": "No. Bass wrote that the system gave up to a 44% advantage, a best case. Farmer, who built it, says they played at about a 20% edge over the house, did not get rich, and the museum that holds the shoe puts their winnings at about $10,000.",
+      "source": "https://betkyo.com/en/blog/the-eudaemons-a-roulette-computer-in-a-shoe-a-20-percent-edge-and-nevadas-1985-device-ban/"
+    },
+    {
+      "article": "the-eudaemons-a-roulette-computer-in-a-shoe-a-20-percent-edge-and-nevadas-1985-device-ban",
+      "q": "Why was the real edge so much lower than 44%?",
+      "a": "Prediction error. In a simple model that reproduces Thorp’s published figures, about +44% on three numbers needs a prediction spread of about 10 pockets and +20% about 12, so two extra pockets of blur cut the edge by more than half (calculation for this article).",
+      "source": "https://betkyo.com/en/blog/the-eudaemons-a-roulette-computer-in-a-shoe-a-20-percent-edge-and-nevadas-1985-device-ban/"
+    },
+    {
+      "article": "the-eudaemons-a-roulette-computer-in-a-shoe-a-20-percent-edge-and-nevadas-1985-device-ban",
+      "q": "Is using a roulette computer illegal?",
+      "a": "In Nevada, yes. Senate Bill 467, approved on 30 May 1985 and now NRS 465.075, makes it a felony to use or possess a device to predict outcomes or gain an advantage at a game in a licensed casino. The Eudaemons played before the law and were never charged.",
+      "source": "https://betkyo.com/en/blog/the-eudaemons-a-roulette-computer-in-a-shoe-a-20-percent-edge-and-nevadas-1985-device-ban/"
+    },
+    {
+      "article": "the-eudaemons-a-roulette-computer-in-a-shoe-a-20-percent-edge-and-nevadas-1985-device-ban",
+      "q": "Can an online roulette wheel be predicted the same way?",
+      "a": "Not on this site. There is no ball and no rotor; the pocket is floor(u × 37), where u comes from a hash of the committed server seed, your client seed and the round number, so there is nothing in motion to time.",
+      "source": "https://betkyo.com/en/blog/the-eudaemons-a-roulette-computer-in-a-shoe-a-20-percent-edge-and-nevadas-1985-device-ban/"
+    },
+    {
+      "article": "an-ai-host-that-is-not-allowed-to-say-a-number-how-betkyos-telegram-chat-turns-a-sentence-into-a-bet",
+      "q": "Does Betkyo’s Telegram bot use AI?",
+      "a": "Yes. An AI host reads what you type in plain English and words a one-line reply. It never moves money and never produces a number: every figure comes from Betkyo’s own system, and every bet or withdrawal is a card you confirm.",
+      "source": "https://betkyo.com/en/blog/an-ai-host-that-is-not-allowed-to-say-a-number-how-betkyos-telegram-chat-turns-a-sentence-into-a-bet/"
+    },
+    {
+      "article": "an-ai-host-that-is-not-allowed-to-say-a-number-how-betkyos-telegram-chat-turns-a-sentence-into-a-bet",
+      "q": "Can the AI place a bet or send a withdrawal by itself?",
+      "a": "No. A message can only lead to a card with the exact figures. Nothing is placed or sent until you tap it, and each card works once and expires after 60 seconds.",
+      "source": "https://betkyo.com/en/blog/an-ai-host-that-is-not-allowed-to-say-a-number-how-betkyos-telegram-chat-turns-a-sentence-into-a-bet/"
+    },
+    {
+      "article": "an-ai-host-that-is-not-allowed-to-say-a-number-how-betkyos-telegram-chat-turns-a-sentence-into-a-bet",
+      "q": "Can I bet on football from the Telegram chat?",
+      "a": "Yes. Say “sports” or name a team, pick a side (to win, Handicap or Total, each explained in plain words), choose a stake and confirm the card. Chat bets are capped at $25 a bet and $250 a day.",
+      "source": "https://betkyo.com/en/blog/an-ai-host-that-is-not-allowed-to-say-a-number-how-betkyos-telegram-chat-turns-a-sentence-into-a-bet/"
+    },
+    {
+      "article": "an-ai-host-that-is-not-allowed-to-say-a-number-how-betkyos-telegram-chat-turns-a-sentence-into-a-bet",
+      "q": "What happens if the price changes before I confirm?",
+      "a": "Nothing is taken. The chat shows a new card with the new price, and you decide again.",
+      "source": "https://betkyo.com/en/blog/an-ai-host-that-is-not-allowed-to-say-a-number-how-betkyos-telegram-chat-turns-a-sentence-into-a-bet/"
+    },
+    {
+      "article": "an-ai-host-that-is-not-allowed-to-say-a-number-how-betkyos-telegram-chat-turns-a-sentence-into-a-bet",
+      "q": "I lost my phone. How do I stop the chat?",
+      "a": "Type “lock” in the chat, or tap Lock the chat in Settings → General on betkyo.com. Bets, withdrawals and account changes from the chat stop at once, as do real-money play and withdrawals wherever you signed in with Telegram, Betkyo Play included; unlocking is on the site with your two-factor code or password.",
+      "source": "https://betkyo.com/en/blog/an-ai-host-that-is-not-allowed-to-say-a-number-how-betkyos-telegram-chat-turns-a-sentence-into-a-bet/"
+    },
+    {
+      "article": "an-ai-host-that-is-not-allowed-to-say-a-number-how-betkyos-telegram-chat-turns-a-sentence-into-a-bet",
+      "q": "What is Betkyo Play?",
+      "a": "The games as an app inside Telegram: nine quick games, nothing to download, no sign-up form, and 1,000 demo chips to try them. It opens from @BetkyoPlayBot and uses the same account as betkyo.com.",
+      "source": "https://betkyo.com/en/blog/an-ai-host-that-is-not-allowed-to-say-a-number-how-betkyos-telegram-chat-turns-a-sentence-into-a-bet/"
+    },
+    {
       "article": "the-triple-six-fix-1980-pennsylvania-lottery-weighted-balls-eight-numbers-and-the-bets-that-gave-it-away",
       "q": "What was the Triple Six Fix?",
       "a": "The rigging of the Pennsylvania Lottery’s televised Daily Number on 24 April 1980. Every ping-pong ball except the 4s and 6s was weighted with latex paint, so only eight three-digit numbers could come up; the draw produced 666.",
@@ -594,7 +828,7 @@
     {
       "article": "betkyo-in-telegram-your-balance-your-deposits-your-wins-in-the-chat",
       "q": "Do I need an account to try Betkyo in Telegram?",
-      "a": "No. The Mini App gives 1,000 play chips with no sign-up, and reply 7 in the chat rolls the dice in play chips. A real account is made at the first deposit or on request.",
+      "a": "No. The Mini App gives 1,000 play chips with no sign-up, and reply 7 in the chat rolls the dice in play chips. Opening Betkyo Play makes the account on the spot; there is no sign-up form.",
       "source": "https://betkyo.com/en/blog/betkyo-in-telegram-your-balance-your-deposits-your-wins-in-the-chat/"
     },
     {
@@ -1644,7 +1878,7 @@
     {
       "article": "uston-v-resorts-the-1982-ruling-that-a-casino-cannot-bar-a-card-counter",
       "q": "How did the Casino Control Commission respond to the ruling?",
-      "a": "With rule changes rather than a ban. Amendments published in June 1982 and adopted in August 1982 let casinos shuffle after any round, use the Bart Carter shuffle, install continuous-shuffling shoes and use more decks. In 1991 a further rule let a casino change a table’s minimum and maximum wager at any time without notifying the Commission.",
+      "a": "With rule changes rather than a ban. Amendments published in June 1982 and adopted in August and September 1982 let casinos shuffle after any round, use the Bart Carter shuffle, install continuous-shuffling shoes and use more decks. In 1991 a further rule let a casino change a table’s minimum and maximum wager at any time without notifying the Commission.",
       "source": "https://betkyo.com/en/blog/uston-v-resorts-the-1982-ruling-that-a-casino-cannot-bar-a-card-counter/"
     },
     {
@@ -1944,7 +2178,7 @@
     {
       "article": "tommy-carmichael-and-the-light-wand-what-a-slot-sensor-could-not-see",
       "q": "Who was Tommy Glenn Carmichael?",
-      "a": "A Tulsa television repairman who cheated slot machines from about 1980 to 1996 with home-made devices: the top-bottom joint, the monkey paw and the light wand. He was imprisoned in 1985, arrested again in 1996, pleaded guilty in 2001 and was added to Nevada’s Black Book in 2003.",
+      "a": "A Tulsa television repairman who cheated slot machines from about 1980 to 1999 with home-made devices: the top-bottom joint, the monkey paw and the light wand. He was imprisoned in 1985, arrested again in 1996, pleaded guilty in 2000 and was added to Nevada’s Black Book in 2003.",
       "source": "https://betkyo.com/en/blog/tommy-carmichael-and-the-light-wand-what-a-slot-sensor-could-not-see/"
     },
     {
@@ -1980,7 +2214,7 @@
     {
       "article": "the-ritz-laser-scanner-and-the-1-3-million-that-was-not-a-crime",
       "q": "Why were they not charged?",
-      "a": "The law then in force, the Gaming Act 1845, addressed fraud and unlawful devices used in the game itself. The scanner measured the spin without touching the ball, the wheel or the dealer, so the police concluded no offence had been committed. The Gambling Act 2005 later widened the definition of cheating.",
+      "a": "The law then in force, the Gaming Act 1845, punished winning by “any fraud or unlawful device or ill practice” in playing or betting on a game. The scanner measured the spin without touching the ball, the wheel or the dealer, so the police concluded no offence had been committed. The Gambling Act 2005 later replaced the 1845 cheating offence, with effect from September 2007.",
       "source": "https://betkyo.com/en/blog/the-ritz-laser-scanner-and-the-1-3-million-that-was-not-a-crime/"
     },
     {
@@ -1992,7 +2226,7 @@
     {
       "article": "the-ritz-laser-scanner-and-the-1-3-million-that-was-not-a-crime",
       "q": "Is sector targeting the same as wheel bias?",
-      "a": "No. Wheel bias exploits a defective wheel and needs thousands of recorded spins to find. Sector targeting exploits a perfectly good wheel by measuring a single spin in progress. Both are observation rather than interference, which is why courts in England and Spain treated them as they did.",
+      "a": "No. Wheel bias exploits a defective wheel and needs thousands of recorded spins to find. Sector targeting exploits a perfectly good wheel by measuring a single spin in progress. Both are observation rather than interference, which is why the police in England and the Supreme Court in Spain treated them as they did.",
       "source": "https://betkyo.com/en/blog/the-ritz-laser-scanner-and-the-1-3-million-that-was-not-a-crime/"
     },
     {
@@ -2430,7 +2664,7 @@
     {
       "article": "wheel-bias-jagger-and-garcia-pelayo",
       "q": "Who was Joseph Jagger?",
-      "a": "A British engineer who, in the early 1870s, had clerks record the results of the wheels at Monte Carlo, identified one wheel with nine favoured numbers, and won a reported two million francs betting on them before the casino rearranged its wheels and frets.",
+      "a": "A British engineer who, around 1881 (some tellings say 1873), studied the results of the wheels at Monte Carlo, identified one wheel that favoured certain numbers, and won a reported two million francs betting on them before the casino changed its wheels and frets.",
       "source": "https://betkyo.com/en/blog/wheel-bias-jagger-and-garcia-pelayo/"
     },
     {
@@ -2454,7 +2688,7 @@
     {
       "article": "wheel-bias-jagger-and-garcia-pelayo",
       "q": "How many spins does it take to find a bias?",
-      "a": "Thousands of spins of the same wheel. The difference between 1 in 37 and 1 in 30 is about six spins in a thousand, so separating a real bias from noise with confidence takes on the order of several thousand recorded results, which is why both men needed clerks and weeks.",
+      "a": "Thousands of spins of the same wheel. The difference between 1 in 37 and 1 in 30 is about six spins in a thousand, so separating a real bias from noise with confidence takes on the order of several thousand recorded results, which is why both men needed weeks at the wheel.",
       "source": "https://betkyo.com/en/blog/wheel-bias-jagger-and-garcia-pelayo/"
     },
     {
@@ -2946,7 +3180,7 @@
     {
       "article": "the-superuser-scandal",
       "q": "What was the Absolute Poker superuser scandal?",
-      "a": "In 2007, insiders at Absolute Poker used an observer account that could see every player’s hole cards in real time. The account POTRIPPER won a tournament with statistically impossible decisions; a mis-sent hand history containing all hole cards proved it. The regulator found seven linked accounts had cheated over about 40 days; Absolute refunded $1.6 million and paid a $500,000 fine.",
+      "a": "In 2007, insiders at Absolute Poker found a way to see opponents’ hole cards in real time. The account POTRIPPER won a tournament with statistically impossible decisions; a mis-sent hand history containing all hole cards proved it. The regulator found seven linked accounts had cheated over about 40 days; Absolute refunded $1.6 million and paid a $500,000 fine.",
       "source": "https://betkyo.com/en/blog/the-superuser-scandal/"
     },
     {
@@ -3282,7 +3516,7 @@
     {
       "article": "oicho-kabu-and-the-word-yakuza",
       "q": "Does yakuza really come from a card game?",
-      "a": "It is the standard and most widely accepted account: 8-9-3 is the worthless hand in Oicho-Kabu, read ya-ku-za in the older numeral forms. Like most etymologies of this age it rests on tradition rather than a dated document.",
+      "a": "It is the standard and most widely accepted account: 8-9-3 is the worthless hand in Oicho-Kabu, read ya-ku-sa with everyday numeral readings and pronounced yakuza. The derivation is old and documented: Kitamura Nobuyo’s Kiyu Shoran (1830), quoting a 1789 essay, explains that 8-9-3 makes twenty, which counts for nothing, so gamblers began using it as slang for anything bad. The word itself is attested from 1736.",
       "source": "https://betkyo.com/en/blog/oicho-kabu-and-the-word-yakuza/"
     },
     {
@@ -3318,7 +3552,7 @@
     {
       "article": "the-monte-carlo-black-streak",
       "q": "Was betting on red the mistake?",
-      "a": "Not in itself — red carried the same slightly negative expectation as anything else on that wheel. The mistake was raising the stake each time on the belief that red was overdue, which turns a small disadvantage into a total loss when the streak continues.",
+      "a": "Not in itself — red carried a slightly negative expectation, in fact a smaller one than most bets on that wheel. The mistake was raising the stake each time on the belief that red was overdue, which turns a small disadvantage into a total loss when the streak continues.",
       "source": "https://betkyo.com/en/blog/the-monte-carlo-black-streak/"
     },
     {
@@ -3672,7 +3906,7 @@
     {
       "article": "archie-karas-the-run",
       "q": "Was Karas cheating during The Run?",
-      "a": "No such claim attaches to The Run itself — the 2013 card-marking conviction came nearly two decades later, at small stakes. The Run is remembered precisely because it appears to have been legitimate variance at unprecedented size.",
+      "a": "No such claim attaches to The Run itself — the card-marking conviction (a guilty plea, sentenced in 2014) came nearly two decades later, at small stakes, though Nevada’s Gaming Control Board had arrested him on suspicion of blackjack cheating in 1988, 1992, 1996 and 2007. The Run is remembered precisely because it appears to have been legitimate variance at unprecedented size.",
       "source": "https://betkyo.com/en/blog/archie-karas-the-run/"
     },
     {

@@ -43,7 +43,7 @@ Betkyo is operated by Shirokane Interactive, holds no gambling licence at presen
 | [Tairyō](games/tairyo.md) | Tairyō (大漁 — “big catch”) is Betkyo’s fishing slot: 5 reels, 3 rows, 10 lines, where collector wilds gather the koi values on screen. | 3 |
 | [Omikuji](games/omikuji.md) | A shrine fortune slip you scratch open: match three symbols and the slip pays, up to ×100.. | 2 |
 | [Fukubukuro](games/fukubukuro.md) | Lucky bags, Betkyo style: every bag pays something — the question is how much. | 2 |
-| [Roulette](games/roulette.md) | European single-zero roulette — one green pocket, not two, which is the version you want. | 4 |
+| [Roulette](games/roulette.md) | European single-zero roulette — one green pocket, not two, which is the version you want. | 5 |
 | [Sic Bo](games/sic-bo.md) | Three dice, one shake, a whole table of ways to bet it. | 3 |
 | [Bingo](games/bingo.md) | 38 balls, one card, seven pay lines — complete lines to win, with the top pattern paying ×500.. | 4 |
 | [Hanabi](games/hanabi.md) | A summer-festival slot where the reels end in fireworks — line wins build toward a top payout of ×2,000.. | 2 |

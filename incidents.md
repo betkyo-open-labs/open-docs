@@ -2,6 +2,22 @@
 
 Famous runs, heists, collapses and cons from the public record, each written up with the arithmetic that decided it. Summaries are the articles' own; sources are listed on each page.
 
+## [Crown Melbourne, 2013: a camera scam, a reported A$32 million in eight hands, and the edge one card flips](https://betkyo.com/en/blog/crown-melbourne-2013-the-camera-scam-32-million-in-eight-hands-and-the-edge-one-card-flips/)
+
+In February 2013 an overseas high roller won a reported A$32 million in eight hands of cards at Crown Melbourne. Surveillance noticed the bets, and the tape reportedly showed that the VIP-room cameras had been breached and someone was signalling him at the table. He was turned out of his villa in the night and banned, a VIP staffer was sacked, and no charges were ever reported. The record, what one known card does to a 1% house edge, and the honest odds of the run.
+
+## [Cantor Gaming: the line-setter, $34 million in runner bets, and the 1 in 22 a sportsbook keeps](https://betkyo.com/en/blog/cantor-gaming-the-line-setter-34-million-in-runner-bets-and-the-1-in-22-a-sportsbook-keeps/)
+
+Cantor Gaming offered Las Vegas higher limits and betting on a tablet mid-game, and by its own estimate took more than 30% of Nevada’s sports wagers. The company later admitted that the man who set its lines had knowingly let runners bet for a New Jersey ring. The record, and the arithmetic of a book that keeps one dollar in twenty-two only when both sides match.
+
+## [Joan Ginther: four Texas Lottery jackpots, and why ‘1 in 18 septillion’ answers the wrong question](https://betkyo.com/en/blog/joan-ginther-four-texas-lottery-jackpots-and-why-1-in-18-septillion-answers-the-wrong-question/)
+
+Between 1993 and 2010 a former math professor from a farming town near Corpus Christi won four Texas Lottery top prizes, about $20.4 million at face value. AP quoted the odds as 1 in 18 septillion, a number that assumes she bought exactly four tickets. Lottery records later showed 28 instant prizes of $1,000 or more, and experts estimated more than 80,000 tickets. What is documented, what was only speculated, what a $50 scratch ticket was worth, and the question that famous number should have answered.
+
+## [The Eudaemons: a roulette computer in a shoe, a 20% edge, and Nevada’s 1985 device ban](https://betkyo.com/en/blog/the-eudaemons-a-roulette-computer-in-a-shoe-a-20-percent-edge-and-nevadas-1985-device-ban/)
+
+From 1976 to 1981 a group of physics students from Santa Cruz tried to beat roulette with Newton’s laws: a toe switch to time the ball, a computer hidden in a shoe, and buzzing solenoids to tell a bettor where to put the chips. The book said the system was worth up to 44%. The man who built it says they played at about 20% and never got rich. The record, the arithmetic of two pockets of blur, and the law Nevada passed in 1985.
+
 ## [The Triple Six Fix: weighted balls, eight numbers, and the bets that gave it away](https://betkyo.com/en/blog/the-triple-six-fix-1980-pennsylvania-lottery-weighted-balls-eight-numbers-and-the-bets-that-gave-it-away/)
 
 On 24 April 1980 the Pennsylvania Daily Number came up 6-6-6 on live television. Every ball in the three machines except the 4s and the 6s had been injected with white latex paint, so only eight of the thousand possible numbers could come up. The man reading them out had arranged it. This is what the record says happened, what the weighting did to a $1 ticket, and why the fix was caught by the bets rather than by the balls.
@@ -56,7 +72,7 @@ In 2003 a Toronto geostatistician won $3 on a gift scratch ticket, looked at the
 
 ## [Uston v. Resorts: the 1982 ruling that a casino cannot bar a card counter](https://betkyo.com/en/blog/uston-v-resorts-the-1982-ruling-that-a-casino-cannot-bar-a-card-counter/)
 
-On 30 January 1979 Atlantic City’s only casino barred the best-known card counter in America from its blackjack tables. Three years and three courts later the New Jersey Supreme Court told it that the rules of the game belonged to the state, not the house, and that a player who followed them could not be shown the door for being good at them. The house did not lose the war. It got the rules changed instead.
+On 30 January 1979 Atlantic City’s only casino barred the best-known card counter in America from its blackjack tables. Three years and two courts later the New Jersey Supreme Court told it that the rules of the game belonged to the state, not the house, and that a player who followed them could not be shown the door for being good at them. The house did not lose the war. It got the rules changed instead.
 
 ## [Tommy Carmichael and the light wand: what a slot sensor could not see](https://betkyo.com/en/blog/tommy-carmichael-and-the-light-wand-what-a-slot-sensor-could-not-see/)
 
@@ -72,7 +88,7 @@ Roulette is unbeatable on paper because every pocket is equally likely. On a phy
 
 ## [Edge sorting: how Phil Ivey read the backs of the cards, and why two courts called it cheating](https://betkyo.com/en/blog/phil-ivey-edge-sorting/)
 
-In 2012 the best-known poker player alive won £7.7 million at a London casino and $9.6 million in Atlantic City without touching a card. The trick was a printing flaw on the card backs and a dealer who agreed to turn them. Both casinos refused to pay, both went to court, and the highest court in England used the case to rewrite the definition of dishonesty.
+In 2012 the best-known poker player alive won £7.7 million at a London casino and $9.6 million in Atlantic City without touching a card. The trick was a printing flaw on the card backs and a dealer who agreed to turn them. Crockfords refused to pay, the Borgata paid and then sued to get its money back, and the highest court in England used the case to rewrite the definition of dishonesty.
 
 ## [The superuser: when the house could see your cards](https://betkyo.com/en/blog/the-superuser-scandal/)
 
@@ -116,17 +132,17 @@ Two dice under a bamboo cup, one question — even or odd. Chō-han offered odds
 
 ## [Pachinko: how Japan built a gambling industry in a country where gambling is illegal](https://betkyo.com/en/blog/pachinko-and-the-three-shop-system/)
 
-Japan’s criminal code prohibits gambling. Japan also has tens of thousands of parlours full of machines people feed money into for hours. The bridge between those two facts is a piece of legal architecture so elegant it has survived for decades: you never win money, you win a prize — and someone else buys the prize.
+Japan’s criminal code prohibits gambling. Japan also has some 6,500 pachinko parlours full of machines people feed money into for hours. The bridge between those two facts is a piece of legal architecture so elegant it has survived for decades: you never win money, you win a prize — and someone else buys the prize.
 
 ## [Oicho-Kabu: the card game that gave the yakuza their name](https://betkyo.com/en/blog/oicho-kabu-and-the-word-yakuza/)
 
-Eight-nine-three is the worst hand in a four-hundred-year-old Japanese card game: three cards that sum to twenty and score exactly zero. Read the digits aloud in the old counting — ya-ku-za — and you have the most widely accepted origin of the word.
+Eight-nine-three is the worst hand in a four-hundred-year-old Japanese card game: three cards that sum to twenty and score exactly zero. Read the digits aloud — ya-ku-sa, pronounced yakuza — and you have the most widely accepted origin of the word.
 
 ## [Omikuji: the shrine lottery that predates every casino](https://betkyo.com/en/blog/omikuji-the-shrine-lottery/)
 
 Japan has drawn sacred lots for over a thousand years — to read fortunes, settle disputes, and once, to pick a shōgun. The history of omikuji, and how a scratch game borrows it honestly.
 
-## [Before Mario: Nintendo spent 66 years as a gambling-card company](https://betkyo.com/en/blog/hanafuda-and-nintendo/)
+## [Before Mario: Nintendo spent more than 70 years as a gambling-card company](https://betkyo.com/en/blog/hanafuda-and-nintendo/)
 
 Nintendo was founded in 1889 to print hanafuda — the flower cards born from Japan’s repeated bans on gambling decks. The story of the cards, the parlors that bought them, and the pivot that followed.
 

@@ -2,11 +2,29 @@
 
 Narration text of the YouTube Shorts on the OfficialBetkyo channel, for search and accessibility. Every figure spoken is in the linked article.
 
+## An AI host that is not allowed to say a number
+
+“A dollar on dice at two x.” Type that into Betkyo’s Telegram chat, and an AI host reads it. Chat AIs are good with words, and bad with numbers nobody gave them. So this one never gets the numbers. It reads the game, the stake and the multiplier, and writes one line back. That is all it produces. Betkyo’s own system supplies every figure: your balance, your limits, the exact payout. Then a card: under forty-nine fifty pays two dollars. Nothing is placed until you tap. The card lasts sixty seconds. Football works the same way. Say lots of goals, and the card spells it out: three or more goals in the match. Chat bets are capped at twenty-five dollars a bet and two hundred fifty a day. Lost your phone? Type lock. The AI understands. Only you decide. Betkyo, inside Telegram. Eighteen plus.
+
+Full article: https://betkyo.com/en/blog/an-ai-host-that-is-not-allowed-to-say-a-number-how-betkyos-telegram-chat-turns-a-sentence-into-a-bet/
+
+## Bill Benter: the $16M Triple Trio he never cashed
+
+Hong Kong, 2001. A computer's bet hits all nine horses: about sixteen million dollars. He never cashed it. Bill Benter started as a Las Vegas card counter, and landed in a casino blacklist. In 1985 he took three IBM computers and a racing model to Hong Kong. Season one lost most of the stake. Years later, the fix: start from the crowd's own odds, and let the model correct them. His 1994 paper shows the catch. The track kept about nineteen percent; only the crowd's worst errors paid. He bet a fraction of Kelly; full Kelly often halves the bank. Four seasons in five made money. In June 1997 the club suspended his phone account, to protect the betting public, it said. The money went to charity. A model can out-guess a crowd, never a fixed edge. Full story on the Betkyo Journal.
+
+Full article: https://betkyo.com/en/blog/bill-benter-the-horse-racing-model-that-beat-the-hong-kong-tote-and-the-16-million-triple-trio-he-never-cashed/
+
 ## Bingo odds, priced exactly: why 11 lines is impossible
 
 Solo bingo. One card, a free centre, and thirty-eight balls out of seventy-five. Most cards complete nothing. Sixty-two point eight percent of the time. One line pays one and a half times. It lands on twenty-eight point six percent of cards. Two lines, seven percent. Three lines, one point three. Seven or more, one card in a hundred and fifty-five thousand. The return is ninety-six point six six percent, and seventy-one percent of it comes from one or two lines. The free star is worth a whole ball. A line through it needs four numbers, not five. And eleven lines is impossible. One missing number always breaks a row and a column. Full derivation at betkyo dot com slash blog. Eighteen plus. Play responsibly.
 
 Full article: https://betkyo.com/en/blog/bingo-odds-priced-exactly-every-line-count-from-zero-to-twelve-and-the-return-behind-38-balls/
+
+## Cantor Gaming: the line-setter who let the runners bet
+
+Las Vegas, 2011 to 2012. Three runners bet about thirty-four million dollars at Cantor Gaming. A runner bets for someone else, often a gambler outside Nevada. Nevada law bars both. The company admitted its line-setter, Michael Colbert, knowingly let runners bet for a New Jersey ring. Why take that money? At minus one-ten, a book keeps one dollar in twenty-two, whatever the score. Only when both sides match. A retired detective said Cantor asked the ring to fill the other side. October 2012: twenty-five indicted in New York, Colbert among them. He later pleaded guilty. Nevada fined it a then-record five and a half million. The federal bill was twenty-two and a half million more. A book is only as clean as whoever balances it. Full story on the Betkyo Journal.
+
+Full article: https://betkyo.com/en/blog/cantor-gaming-the-line-setter-34-million-in-runner-bets-and-the-1-in-22-a-sportsbook-keeps/
 
 ## Chinchiro odds: the dealer rolls first, and that is the house edge
 
@@ -19,6 +37,12 @@ Full article: https://betkyo.com/en/blog/chinchiro-priced-the-dealer-rolls-first
 Crash is one hidden number and a clock. The number is drawn before the round; the clock climbs toward it. A cash-out pays only if the round busts strictly above it. That rule sets every price. A target pays ninety-nine over the target. Two: forty-nine point five percent. Ten: nine point nine. Times the payout, every target returns ninety-nine percent. A flat one percent edge, wherever you cash out. The curve reaches two slightly more often. One round in four hundred and two busts on exactly two. One round in a hundred busts at one point zero zero. About one in ten reaches ten. The multiplier doubles every ten seconds. Two at ten, ten at thirty-three, a hundred at sixty-six. Full derivation at betkyo dot com slash blog. Eighteen plus. Play responsibly.
 
 Full article: https://betkyo.com/en/blog/crash-odds-priced-the-chance-of-every-cash-out-target/
+
+## Crown Melbourne, 2013: a reported A$32M in eight hands of cards
+
+Melbourne, 2013. A high roller wins a reported thirty-two million Australian dollars in eight hands. Surveillance noticed the size of the wins, and the bets. He bet against the odds, and won. The tape reportedly showed the VIP-room cameras were breached. Someone was signalling him at the table. At night, security knocked on his villa door. His family was turned out, and he was banned. Crown called it a sophisticated betting scam and sacked a VIP staffer. No charges were reported. The game was never named. At baccarat, one known card turns a one percent edge into plus six point eight percent. Eight straight Banker wins by chance: one in five hundred eleven. The streak wasn't the tell. The bets were. A house edge only lasts while nobody can see the cards. Full story on the Betkyo Journal.
+
+Full article: https://betkyo.com/en/blog/crown-melbourne-2013-the-camera-scam-32-million-in-eight-hands-and-the-edge-one-card-flips/
 
 ## Dice odds, priced exactly: why the screen's 99% is not what you get
 
@@ -50,11 +74,29 @@ A one percent house edge. Can you see it? Not in one roll. Not in a thousand. Di
 
 Full article: https://betkyo.com/en/blog/how-many-bets-before-the-edge-shows-priced-the-40000-rolls-that-hide-a-1-percent-house-edge/
 
+## The Eudaemons: a roulette computer hidden in a shoe
+
+Las Vegas, 1981. A computer hidden in a shoe tells a player where to bet. The ball lands on thirteen. Physics students timed the ball with a toe switch, in the fifteen seconds before bets close. The shoe computer picked one of eight slices of the wheel, and buzzed it to the bettor through solenoids. The book said the system was worth up to forty-four percent. The man who built it says about twenty. In a simple model, that gap is about two pockets of blur in the prediction. Small errors cost a lot of edge. Then the solenoids started twitching at random. Casino electronics had swamped the radio link. They won about ten thousand dollars in all. In 1985 Nevada made such devices a felony. None of them was charged. On Betkyo's wheel there is no ball to time. Full story on the Betkyo Journal.
+
+Full article: https://betkyo.com/en/blog/the-eudaemons-a-roulette-computer-in-a-shoe-a-20-percent-edge-and-nevadas-1985-device-ban/
+
+## The fortune cookie Powerball: 110 winners where 3 to 5 were expected
+
+March 2005. Powerball expects three to five second-prize winners. A hundred and ten win. Each wins a set hundred thousand dollars, five hundred thousand with Power Play: nineteen point four million in all. The lottery suspects a system error, or fraud. Staff check lucky-number magazines, even an episode of Lost. Then the claims begin. In Tennessee, the first three winners each say: a fortune cookie. The slip is traced to a factory in Queens: four million cookies a day, numbers drawn from a bowl. Players had used the forty as their Powerball. The ball drawn was forty-two. A forty-two would have split the jackpot a hundred and eleven ways, at no extra cost. Better for us, the director said. No fraud, no charges, every prize paid. Just a crowd playing one slip. Full story on the Betkyo Journal.
+
+Full article: https://betkyo.com/en/blog/the-fortune-cookie-powerball-2005-110-second-prizes-where-3-to-5-were-expected-and-the-19-4-million-bill/
+
 ## Full Tilt Poker: $390M owed, $60M in the bank
 
 May 2008. A poker site emails a player: all player funds are segregated and held separately. March 2011. It owes players three hundred ninety million. The bank holds sixty. In four years the owners were paid four hundred forty-three point nine million. More than all players were owed. When US deposits stopped clearing, it credited the accounts anyway. One hundred thirty million that never arrived. June 2011. The chief executive writes: at this point we can't even take a five million run. The games were never accused of anything. The cards were fair. The vault was fifteen percent full. US players got their first dollar back one thousand and fifty days later. About two thousand seven hundred sixty each. A provably fair engine proves the roll. Nothing proves the vault. Full story on the Betkyo Journal.
 
 Full article: https://betkyo.com/en/blog/full-tilt-poker-390-million-owed-60-million-in-the-bank-and-the-email-that-said-player-funds-were-segregated/
+
+## Four Texas lottery top prizes and the wrong 1 in 18 septillion
+
+Four Texas Lottery top prizes, one woman. AP put the odds at one in eighteen septillion. Joan Ginther, a former math professor, won about twenty point four million dollars from 1993 to 2010. But that figure assumes her four winning tickets were the only four tickets she ever bought. Records showed twenty-eight prizes of a thousand dollars or more. Experts estimated over eighty thousand tickets. At one in six hundred thousand a ticket, that volume puts three top prizes near one in twenty-eight hundred. The fifty-dollar game that paid her ten million returned about seventy-seven cents on the dollar. Nothing on record says she cheated. A magazine's theory was never proven, and she was never charged. The real question about any big win: how many people were trying? Full story on the Betkyo Journal.
+
+Full article: https://betkyo.com/en/blog/joan-ginther-four-texas-lottery-jackpots-and-why-1-in-18-septillion-answers-the-wrong-question/
 
 ## Hamster Kombat: 300M players, a 60B-token airdrop, and the month they left
 
@@ -74,11 +116,23 @@ What does an hour at the casino cost? Not the edge. Edge times stake times how m
 
 Full article: https://betkyo.com/en/blog/the-price-of-an-hour-what-each-game-costs-per-hour-at-your-stake-and-pace/
 
+## How long does $100 last? Half are gone by bet 200 at ×100
+
+A hundred dollars, a dollar a bet, a one percent edge. The average session: about ten thousand bets. That average is real. But at dice times two, half of all bankrolls are gone by bet six thousand seven hundred twelve. At dice times ten, half are gone by bet one thousand nine hundred forty. At limbo times a hundred, half are gone within two hundred bets. Same price at all three: about one cent per dollar bet. The multiplier changes the shape, not the cost. At times a hundred, thirty-seven percent of bankrolls are gone in exactly one hundred bets, without a single win. Only seven percent last the average ten thousand bets. A few long runs carry the mean. The average is not what most sessions look like. Full tables on the Betkyo Journal.
+
+Full article: https://betkyo.com/en/blog/how-long-100-dollars-lasts-priced-the-median-bet-count-at-x2-x10-and-x100/
+
 ## Don Johnson: $15M from Atlantic City, and the rebate that flipped the edge
 
 April 2011. A former jockey sits down at the Tropicana and bets one hundred thousand dollars a hand. Twelve hours later: up five point eight million. The casino's monthly table win drops fifty-four percent. He was not counting cards. They were watching. He had negotiated before he sat down. Twenty percent back on losses past half a million, per trip, plus rules that cut the house edge to a quarter percent. The trick: lose half a million, stop, pay four hundred thousand. Win? Keep playing with their money. In a fair game that is worth about ninety thousand dollars a try, even though you lose nine tries in ten. Fifteen million from three casinos. The Tropicana's president was out in weeks. Every casino pulled the deal. Full story at betkyo dot com slash blog. Eighteen plus. Play responsibly.
 
 Full article: https://betkyo.com/en/blog/don-johnson-15-million-from-atlantic-city-and-the-20-percent-rebate-that-flipped-the-edge/
+
+## Stefan Mandel tried to buy every Virginia Lotto ticket (1992)
+
+February 1992. Virginia's Lotto: just over seven million combinations, a twenty-seven-million-dollar jackpot. Stefan Mandel's Australian fund sets out to buy every one. The jackpot is 3.8 times the cost. By his account, printers run for over a month. Stores agree to take the slips ten thousand at a time. Then the clock runs out, at about five million tickets. Roughly a quarter go unbought. February fifteenth: the Fund holds the only jackpot ticket. Twenty-seven million dollars. Paid over twenty years with thirty-four percent withheld, 3.8 times the cost was about 1.3. One co-winner: a loss. The Fund fought the tax withholding in federal court. In 1994 the answer was: pay first, then seek a refund. Buying every ticket was still a gamble. Full story on the Betkyo Journal.
+
+Full article: https://betkyo.com/en/blog/stefan-mandel-and-the-1992-virginia-lottery-7059052-combinations-27-million-and-why-buying-every-ticket-was-a-gamble/
 
 ## Mines game odds: no tile is safer, and the edge does not compound
 
@@ -91,6 +145,12 @@ Full article: https://betkyo.com/en/blog/mines-odds-priced-every-multiplier-for-
 Nineteen thousand bets. Twenty-five a day, for over two years. None of the money was his. Shohei Ohtani's interpreter bet with an illegal bookmaker, about twelve thousand eight hundred dollars a bet. He won a hundred and forty-two million. He lost a hundred and eighty-three. Net: forty million down. Twelve and a half percent of everything he wagered. A sports book's edge is about four and a half. At minus one-ten, that is a forty-six percent pick rate. Break-even is fifty-two. The hole stayed open because the bookie gave credit, and he paid it with seventeen million from Ohtani's account. A losing game is survivable only while the stakes are bounded by what you have. Credit removes the bound. Full story at betkyo dot com slash blog. Eighteen plus. Play responsibly.
 
 Full article: https://betkyo.com/en/blog/ippei-mizuhara-19000-bets-and-the-12-percent-that-broke-someone-elses-bankroll/
+
+## Brian Molony: C$10.2M from a Toronto bank, $75,000 a hand
+
+A Toronto assistant bank manager bets up to seventy-five thousand dollars a hand. It's the bank's money. For almost two years, Brian Molony wrote false loans at his CIBC branch. He took sixteen to seventeen million Canadian, repaid about six, and left the bank ten point two million short. At Caesars in Atlantic City he lost more than seven million US dollars, Time reported. At a one percent edge, the house needs about six hundred sixty million in bets to take seven million on average. A night is luck: two bad days cost him two million. Over a year, the arithmetic takes over. Wiretaps in an unrelated police case exposed him in 1982. He served thirty months; the casino was shut for a day. Chasing a loss only adds volume, and volume is what the edge feeds on. Full story on the Betkyo Journal.
+
+Full article: https://betkyo.com/en/blog/brian-molony-10-2-million-from-the-bank-75000-a-hand-and-the-math-of-winning-it-back/
 
 ## Dennis Nikrasch: the locksmith who rewrote the slot chip
 
@@ -110,6 +170,12 @@ March twentieth, 2024. A Raptors bench player tells a bettor he's unwell. Then h
 
 Full article: https://betkyo.com/en/blog/jontay-porter-the-under-only-the-player-can-guarantee-and-the-bets-the-nba-just-removed/
 
+## A repeat by spin 8: the birthday problem on roulette and dice
+
+Thirty-seven numbers on the wheel. How many spins until one comes up twice? More likely than not by spin eight. It's the birthday problem. In a room of twenty-three people, two probably share a birthday. Signed-in dice: nine thousand nine hundred ninety-nine results. Even odds of a repeat by roll one hundred nineteen. Why so soon? A hundred nineteen rolls make seven thousand twenty-one pairs, and any pair can match. The roulette strip keeps sixteen spins. Only about one full strip in forty-six has no repeat. Twice in a row? One in thirty-seven. Exactly the chance of any other number. Each spin reads the server seed, your client seed and the nonce. Nothing in it reads the last result. That number again is the expected case, not a sign. Full numbers on the Betkyo Journal.
+
+Full article: https://betkyo.com/en/blog/that-number-again-priced-119-dice-rolls-8-roulette-spins-and-the-birthday-problem/
+
 ## Rock paper scissors odds: why ×1.97 is a 1.5% edge, not 1%
 
 Rock, paper, scissors against the dealer. A win pays one point nine seven times your stake. The dealer's hand is random. Whatever you throw wins, draws and loses one time in three. A draw just replays. So every run is really a coin flip: win or lose, fifty fifty. Half the time you get one point nine seven. That returns ninety-eight point five percent. Ride the streak and each win is the same bet again, on everything you have won so far. Cash out after five wins and the return is ninety-two point seven percent. After ten, eighty-six. The cheapest way to play is to bank the first win and start again. Full derivation at betkyo dot com slash blog. Eighteen plus. Play responsibly.
@@ -121,6 +187,12 @@ Full article: https://betkyo.com/en/blog/rps-priced-the-1-97-win-a-1-5-percent-e
 2003. A retired couple in Michigan reads a lottery brochure. Jerry says: three minutes. The game had a cap. Jackpot hits two million, nobody wins, the money rolls down into the smaller prizes. On a roll-down night the one-in-thirty-nine-thousand match paid twenty-two thousand instead of four. So a two-dollar ticket was worth two fourteen in cash. Buy enough, and the averages arrive. Three hundred twelve thousand tickets a drawing, sorted by hand in a motel room. Ten days. The risk: five to thirteen percent a night that someone hit the jackpot and nothing rolled down. It happened once. Nine years: twenty-seven million in tickets, seven point seven five million kept. Legal. The state took forty percent. A casino edge never rolls down. That's the whole difference. Full story on the Betkyo Journal.
 
 Full article: https://betkyo.com/en/blog/jerry-and-marge-selbee-27-million-in-tickets-the-2-million-roll-down-and-the-lottery-ticket-worth-more-than-it-cost/
+
+## How long $100 lasts at $1 a bet: 6,712 bets at ×2, 200 at ×100
+
+A hundred dollars, a dollar a bet, about a cent of edge each. Ten thousand bets? Most bankrolls never get there. Dice at two x: half of all hundred-dollar bankrolls are gone by bet six thousand seven hundred twelve. Dice at ten x: by bet nineteen hundred forty. Limbo at a hundred x: by bet two hundred. Nearly the same price. The average stays near ten thousand. Only thirty-three, nineteen and seven percent of bankrolls ever reach it. At a hundred x, thirty-seven percent are gone in exactly a hundred bets: a hundred misses in a row. But after a hundred thousand bets, one point six seven percent still play, against point zero three one at two x. The multiplier barely moved the price. It changed the shape of the session. Pick the shape before you play. Full tables on the Betkyo Journal.
+
+Full article: https://betkyo.com/en/blog/how-long-100-dollars-lasts-priced-the-median-bet-count-at-x2-x10-and-x100/
 
 ## Squid Game token: $0.01 to $2,861 in six days, zero in five minutes
 

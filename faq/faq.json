@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-13",
+  "generated": "2026-11-19",
   "license": "CC BY 4.0",
-  "count": 656,
+  "count": 678,
   "items": [
     {
       "game": "dice",
@@ -488,6 +488,138 @@
       "q": "Is Andar Bahar provably fair?",
       "a": "Yes. Every Betkyo original commits to its randomness before you bet: a server seed fixed by its SHA-256 hash and mixed with your own client seed, or, for the shared-round games, a hash chain published in advance. The fairness page explains the exact scheme.",
       "source": "https://betkyo.com/en/guide/andar-bahar/"
+    },
+    {
+      "article": "bill-benter-the-horse-racing-model-that-beat-the-hong-kong-tote-and-the-16-million-triple-trio-he-never-cashed",
+      "q": "Who is Bill Benter?",
+      "a": "An American former card counter who from 1985 bet on Hong Kong Jockey Club racing with a computer model and described its method in a paper presented in 1993 and published in 1994. Bloomberg reports there was “no law against what they were doing”, and he told Asiaweek his work was perfectly legal; the club suspended his telephone account in June 1997.",
+      "source": "https://betkyo.com/en/blog/bill-benter-the-horse-racing-model-that-beat-the-hong-kong-tote-and-the-16-million-triple-trio-he-never-cashed/"
+    },
+    {
+      "article": "bill-benter-the-horse-racing-model-that-beat-the-hong-kong-tote-and-the-16-million-triple-trio-he-never-cashed",
+      "q": "How did Bill Benter’s horse racing model work?",
+      "a": "A multinomial logit turned handicapping factors into win probabilities, and a second logit blended them with the public’s tote odds, scoring a pseudo-R² of 0.1396 over 3,198 races against 0.1218 for the odds alone. He bet a fraction of Kelly on every positive-expectation bet in the win and exotic pools. At a take of about 19%, a horse paid on average only if the model rated it more than about 1.23 times as likely to win as the crowd did (calculation for this article).",
+      "source": "https://betkyo.com/en/blog/bill-benter-the-horse-racing-model-that-beat-the-hong-kong-tote-and-the-16-million-triple-trio-he-never-cashed/"
+    },
+    {
+      "article": "bill-benter-the-horse-racing-model-that-beat-the-hong-kong-tote-and-the-16-million-triple-trio-he-never-cashed",
+      "q": "Why did Benter bet only a fraction of Kelly?",
+      "a": "His paper gives three reasons: overestimating the edge by more than a factor of two makes growth negative, withdrawals shrink the wealth really available, and downswings of more than half the bank are a common occurrence at full Kelly. He suggested a half or a third. On the paper’s example bet, half Kelly keeps 76.4% of full Kelly’s growth and two-thirds keeps 89.7% (calculation for this article).",
+      "source": "https://betkyo.com/en/blog/bill-benter-the-horse-racing-model-that-beat-the-hong-kong-tote-and-the-16-million-triple-trio-he-never-cashed/"
+    },
+    {
+      "article": "bill-benter-the-horse-racing-model-that-beat-the-hong-kong-tote-and-the-16-million-triple-trio-he-never-cashed",
+      "q": "How much did Bill Benter win?",
+      "a": "Only estimates exist. His paper reports four profitable seasons out of five and a chart ending near 40 times the starting bank (read off the chart, approximate). Asiaweek calculated about $37 million a year in 2000. Benter told Bloomberg in 2018 that his operations had probably made close to a billion dollars overall, some of it going to partners, and that he is not a billionaire.",
+      "source": "https://betkyo.com/en/blog/bill-benter-the-horse-racing-model-that-beat-the-hong-kong-tote-and-the-16-million-triple-trio-he-never-cashed/"
+    },
+    {
+      "article": "bill-benter-the-horse-racing-model-that-beat-the-hong-kong-tote-and-the-16-million-triple-trio-he-never-cashed",
+      "q": "What happened to the 2001 Triple Trio ticket?",
+      "a": "On 6 November 2001 one of the 51,381 lines his program bet hit all nine horses of the Happy Valley Triple Trio, an official dividend of HK$38,577,504; Bloomberg values his win at about US$16 million. According to Bloomberg he had decided in advance to leave it unclaimed, and unclaimed dividends go to the Hong Kong Jockey Club Charities Trust.",
+      "source": "https://betkyo.com/en/blog/bill-benter-the-horse-racing-model-that-beat-the-hong-kong-tote-and-the-16-million-triple-trio-he-never-cashed/"
+    },
+    {
+      "article": "bill-benter-the-horse-racing-model-that-beat-the-hong-kong-tote-and-the-16-million-triple-trio-he-never-cashed",
+      "q": "Could a model like Benter’s beat a casino game?",
+      "a": "No. His edge was a share of other bettors’ mistakes in a pari-mutuel pool. A fixed-edge casino game has no crowd price to correct: Betkyo dice pays ×1.98 on 4,999 of 9,999 equally likely results, a 1.0% edge set by a published rule. No model creates an edge there, and Kelly says to stake nothing.",
+      "source": "https://betkyo.com/en/blog/bill-benter-the-horse-racing-model-that-beat-the-hong-kong-tote-and-the-16-million-triple-trio-he-never-cashed/"
+    },
+    {
+      "article": "stefan-mandel-and-the-1992-virginia-lottery-7059052-combinations-27-million-and-why-buying-every-ticket-was-a-gamble",
+      "q": "Who is Stefan Mandel?",
+      "a": "A Romanian-born organiser of lottery syndicates who, by his own account, won once in Romania with a block of tickets and then 12 or 13 times in Australia by buying every combination, until the rules there changed. In February 1992 the International Lotto Fund he organised, an Australian trust with about 2,500 investors, set out to buy every combination of the Virginia Lotto and won its $27 million jackpot.",
+      "source": "https://betkyo.com/en/blog/stefan-mandel-and-the-1992-virginia-lottery-7059052-combinations-27-million-and-why-buying-every-ticket-was-a-gamble/"
+    },
+    {
+      "article": "stefan-mandel-and-the-1992-virginia-lottery-7059052-combinations-27-million-and-why-buying-every-ticket-was-a-gamble",
+      "q": "Did Stefan Mandel buy every ticket in the Virginia lottery?",
+      "a": "No. The Fund set out to buy all 7,059,052 combinations but ran out of time after about 5 to 5.6 million tickets, 71–79% of them; sources differ on the exact number. Its tickets still included the only jackpot winner of the 15 February 1992 draw: $27,036,142 in 20 annual instalments, plus $662,868 in smaller prizes.",
+      "source": "https://betkyo.com/en/blog/stefan-mandel-and-the-1992-virginia-lottery-7059052-combinations-27-million-and-why-buying-every-ticket-was-a-gamble/"
+    },
+    {
+      "article": "stefan-mandel-and-the-1992-virginia-lottery-7059052-combinations-27-million-and-why-buying-every-ticket-was-a-gamble",
+      "q": "When does buying every lottery ticket pay?",
+      "a": "Only when the jackpot is several times the cost of every combination and few or no other tickets share it. For a 20-year annuity valued at 8% with 34% withheld, a sole winner needs a jackpot of about 2.86 times the cost of the full set; one co-winner doubles that to 5.72. Virginia’s jackpot was 3.83 times the cost: worth about 1.34 times for a sole winner and 0.67 with one co-winner (calculation for this article).",
+      "source": "https://betkyo.com/en/blog/stefan-mandel-and-the-1992-virginia-lottery-7059052-combinations-27-million-and-why-buying-every-ticket-was-a-gamble/"
+    },
+    {
+      "article": "stefan-mandel-and-the-1992-virginia-lottery-7059052-combinations-27-million-and-why-buying-every-ticket-was-a-gamble",
+      "q": "Was buying every combination legal?",
+      "a": "At the time, yes: pre-filled play slips were legal, and the Lottery paid. The FBI and the Australian Securities Commission examined the operation, no charges were reported, and a 2011 account says no wrongdoing was proven. Virginia’s current rules forbid marking play slips with an automated printing device.",
+      "source": "https://betkyo.com/en/blog/stefan-mandel-and-the-1992-virginia-lottery-7059052-combinations-27-million-and-why-buying-every-ticket-was-a-gamble/"
+    },
+    {
+      "article": "stefan-mandel-and-the-1992-virginia-lottery-7059052-combinations-27-million-and-why-buying-every-ticket-was-a-gamble",
+      "q": "What did the court decide about the tax?",
+      "a": "A federal district judge in Richmond ordered the Lottery to pay each instalment in full, without its 34% withholding, but in 1994 the Fourth Circuit reversed for lack of jurisdiction: withholding is tax collection, so the Anti-Injunction Act and the Tax Injunction Act barred the order, and the Fund’s route was to pay under protest and seek a refund. No court ruled on its treaty argument.",
+      "source": "https://betkyo.com/en/blog/stefan-mandel-and-the-1992-virginia-lottery-7059052-combinations-27-million-and-why-buying-every-ticket-was-a-gamble/"
+    },
+    {
+      "article": "stefan-mandel-and-the-1992-virginia-lottery-7059052-combinations-27-million-and-why-buying-every-ticket-was-a-gamble",
+      "q": "Does buying every combination work at a casino game?",
+      "a": "Not for profit. At a fixed-odds game a full cover returns exactly the table’s return: forty one-pick keno tickets on one draw always include exactly ten hits, $39.60 back on $40 on this site’s Classic table. Only a prize pool larger than the cost of every combination can lift a full cover above its price.",
+      "source": "https://betkyo.com/en/blog/stefan-mandel-and-the-1992-virginia-lottery-7059052-combinations-27-million-and-why-buying-every-ticket-was-a-gamble/"
+    },
+    {
+      "article": "the-fortune-cookie-powerball-2005-110-second-prizes-where-3-to-5-were-expected-and-the-19-4-million-bill",
+      "q": "What happened in the 2005 fortune cookie Powerball draw?",
+      "a": "On 30 March 2005, 110 Powerball tickets matched all five white balls but not the Powerball, where three to five were expected. Most, about 104 by one count, had played 22 28 32 33 39 40 from a fortune cookie slip printed by Wonton Food in Queens, using the 40 as their Powerball; the ball drawn was 42.",
+      "source": "https://betkyo.com/en/blog/the-fortune-cookie-powerball-2005-110-second-prizes-where-3-to-5-were-expected-and-the-19-4-million-bill/"
+    },
+    {
+      "article": "the-fortune-cookie-powerball-2005-110-second-prizes-where-3-to-5-were-expected-and-the-19-4-million-bill",
+      "q": "Was the fortune cookie Powerball a fraud?",
+      "a": "No. The Multi-State Lottery Association first suspected a system error or a fraud, but the investigation traced the numbers to a fortune cookie and concluded the winners had simply played numbers that came with their food. Every prize was paid and no charges were reported.",
+      "source": "https://betkyo.com/en/blog/the-fortune-cookie-powerball-2005-110-second-prizes-where-3-to-5-were-expected-and-the-19-4-million-bill/"
+    },
+    {
+      "article": "the-fortune-cookie-powerball-2005-110-second-prizes-where-3-to-5-were-expected-and-the-19-4-million-bill",
+      "q": "How much did the 110 second prizes cost?",
+      "a": "Eighty-nine base winners received $100,000 and 21 Power Play winners, at that night’s 5x, $500,000: $19.4 million in all, put at nearly $19 million at the time, where the tier normally cost about $0.55 million (calculation for this article).",
+      "source": "https://betkyo.com/en/blog/the-fortune-cookie-powerball-2005-110-second-prizes-where-3-to-5-were-expected-and-the-19-4-million-bill/"
+    },
+    {
+      "article": "the-fortune-cookie-powerball-2005-110-second-prizes-where-3-to-5-were-expected-and-the-19-4-million-bill",
+      "q": "Why would a 42 on the slip have been better for the lottery?",
+      "a": "Because the jackpot was one pool divided among its winners. Had all 110 held a 42, they would have split it 111 ways with the real jackpot ticket, about $124,787 each in cash, at no extra cost to the lottery; as second prizes each cost a fixed $100,000 or $500,000.",
+      "source": "https://betkyo.com/en/blog/the-fortune-cookie-powerball-2005-110-second-prizes-where-3-to-5-were-expected-and-the-19-4-million-bill/"
+    },
+    {
+      "article": "the-fortune-cookie-powerball-2005-110-second-prizes-where-3-to-5-were-expected-and-the-19-4-million-bill",
+      "q": "Do fortune cookie or lucky numbers change the odds of winning?",
+      "a": "No. Every combination has the same chance of being drawn. Numbers many people play only mean more people to share a jackpot with: that night the cookie numbers carried about 38% less expected value per $1 than a random pick (calculation for this article).",
+      "source": "https://betkyo.com/en/blog/the-fortune-cookie-powerball-2005-110-second-prizes-where-3-to-5-were-expected-and-the-19-4-million-bill/"
+    },
+    {
+      "article": "brian-molony-10-2-million-from-the-bank-75000-a-hand-and-the-math-of-winning-it-back",
+      "q": "Who was Brian Molony?",
+      "a": "An assistant manager at a CIBC branch in Toronto who, between 1980 and 1982, wrote false loans to real and invented businesses and gambled the money in Atlantic City and Las Vegas. He was convicted in 1983 of defrauding the bank of C$10.2 million, about US$8.3 million.",
+      "source": "https://betkyo.com/en/blog/brian-molony-10-2-million-from-the-bank-75000-a-hand-and-the-math-of-winning-it-back/"
+    },
+    {
+      "article": "brian-molony-10-2-million-from-the-bank-75000-a-hand-and-the-math-of-winning-it-back",
+      "q": "How much did Brian Molony lose at Caesars?",
+      "a": "Time reported more than $7 million at Caesars’ Atlantic City casino in 1981 and 1982, with bets of up to $75,000 a hand at baccarat. The bank’s lawsuit, as reported by the Philadelphia Inquirer, claimed $4.732 million lost there between February 1981 and April 1982.",
+      "source": "https://betkyo.com/en/blog/brian-molony-10-2-million-from-the-bank-75000-a-hand-and-the-math-of-winning-it-back/"
+    },
+    {
+      "article": "brian-molony-10-2-million-from-the-bank-75000-a-hand-and-the-math-of-winning-it-back",
+      "q": "What happened to Molony and to the casino?",
+      "a": "Molony was sentenced to six years and served 30 months. In 1985 New Jersey closed Caesars’ Atlantic City casino for 24 hours and fined six employees a combined $36,500. The bank’s suit against the casino was settled in May 1986 on undisclosed terms.",
+      "source": "https://betkyo.com/en/blog/brian-molony-10-2-million-from-the-bank-75000-a-hand-and-the-math-of-winning-it-back/"
+    },
+    {
+      "article": "brian-molony-10-2-million-from-the-bank-75000-a-hand-and-the-math-of-winning-it-back",
+      "q": "Is Owning Mahowny a true story?",
+      "a": "It is a fictionalised retelling of the Molony case, released in 2003 with Philip Seymour Hoffman as “Dan Mahowny”. Gary Stephen Ross, author of the book on the case, Stung, said the film was faithful to what happened.",
+      "source": "https://betkyo.com/en/blog/brian-molony-10-2-million-from-the-bank-75000-a-hand-and-the-math-of-winning-it-back/"
+    },
+    {
+      "article": "brian-molony-10-2-million-from-the-bank-75000-a-hand-and-the-math-of-winning-it-back",
+      "q": "Can you win back gambling losses by betting bigger?",
+      "a": "Not reliably. At a negative edge every way of chasing loses on average. The least bad chase, a few very large bets, still has worse than a coin flip’s chance: 49.32% to double a bankroll with one Player bet at baccarat, and 6.1% if the same bankroll is spread over 100 bets.",
+      "source": "https://betkyo.com/en/blog/brian-molony-10-2-million-from-the-bank-75000-a-hand-and-the-math-of-winning-it-back/"
     },
     {
       "article": "how-long-100-dollars-lasts-priced-the-median-bet-count-at-x2-x10-and-x100",

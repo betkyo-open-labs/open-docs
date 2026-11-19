@@ -1,9 +1,9 @@
 # Betkyo Journal — index
 
-116 articles. Every game figure in the Journal is read from the engine source that pays it; incident figures come from the public record. Methodology: [How the Journal verifies a number](https://betkyo.com/en/blog/how-the-journal-verifies-a-number-methodology/).
+120 articles. Every game figure in the Journal is read from the engine source that pays it; incident figures come from the public record. Methodology: [How the Journal verifies a number](https://betkyo.com/en/blog/how-the-journal-verifies-a-number-methodology/).
 
+- [Stories & Incidents](journal/incidents.md) — 31 articles
 - [Math of Luck](journal/math.md) — 41 articles
-- [Stories & Incidents](journal/incidents.md) — 27 articles
 - [Game Notes](journal/notes.md) — 11 articles
 - [Japan & History](journal/history.md) — 10 articles
 - [Fairness Studies](journal/fairness.md) — 9 articles
@@ -12,6 +12,10 @@
 
 ## Latest
 
+- 2026-11-20 · [Bill Benter: the horse-racing model that beat the Hong Kong tote, the 19% take it had to clear, and the $16 million Triple Trio he never cashed](https://betkyo.com/en/blog/bill-benter-the-horse-racing-model-that-beat-the-hong-kong-tote-and-the-16-million-triple-trio-he-never-cashed/)
+- 2026-11-19 · [Stefan Mandel and the 1992 Virginia Lottery: 7,059,052 combinations, a $27 million jackpot, and why buying every ticket was still a gamble](https://betkyo.com/en/blog/stefan-mandel-and-the-1992-virginia-lottery-7059052-combinations-27-million-and-why-buying-every-ticket-was-a-gamble/)
+- 2026-11-18 · [The fortune cookie Powerball: 110 second prizes where three to five were expected, and the $19.4 million bill](https://betkyo.com/en/blog/the-fortune-cookie-powerball-2005-110-second-prizes-where-3-to-5-were-expected-and-the-19-4-million-bill/)
+- 2026-11-17 · [Brian Molony: C$10.2 million from the bank, $75,000 a hand, and the math of winning it back](https://betkyo.com/en/blog/brian-molony-10-2-million-from-the-bank-75000-a-hand-and-the-math-of-winning-it-back/)
 - 2026-11-14 · [How long $100 lasts, priced: the median number of $1 bets at dice ×2, dice ×10 and limbo ×100](https://betkyo.com/en/blog/how-long-100-dollars-lasts-priced-the-median-bet-count-at-x2-x10-and-x100/)
 - 2026-11-12 · [Crown Melbourne, 2013: a camera scam, a reported A$32 million in eight hands, and the edge one card flips](https://betkyo.com/en/blog/crown-melbourne-2013-the-camera-scam-32-million-in-eight-hands-and-the-edge-one-card-flips/)
 - 2026-11-11 · [Cantor Gaming: the line-setter, $34 million in runner bets, and the 1 in 22 a sportsbook keeps](https://betkyo.com/en/blog/cantor-gaming-the-line-setter-34-million-in-runner-bets-and-the-1-in-22-a-sportsbook-keeps/)
@@ -23,10 +27,6 @@
 - 2026-11-06 · [The longest losing streak, priced: what 100, 1,000 and 10,000 dice rolls will show you](https://betkyo.com/en/blog/the-longest-losing-streak-priced-what-100-1000-and-10000-dice-rolls-will-show-you/)
 - 2026-11-05 · [Jerry and Marge Selbee: $27 million in tickets, the $2 million roll-down, and the lottery ticket that was worth more than it cost](https://betkyo.com/en/blog/jerry-and-marge-selbee-27-million-in-tickets-the-2-million-roll-down-and-the-lottery-ticket-worth-more-than-it-cost/)
 - 2026-11-05 · [Your balance, your deposits, your wins — in the chat: Betkyo in Telegram](https://betkyo.com/en/blog/betkyo-in-telegram-your-balance-your-deposits-your-wins-in-the-chat/)
-- 2026-11-04 · [The Squid Game token: ×286,000 in six days, zero in five minutes, and the market where you could buy but not sell](https://betkyo.com/en/blog/the-squid-game-token-286000x-in-six-days-zero-in-five-minutes-and-the-market-where-you-could-buy-but-not-sell/)
-- 2026-11-03 · [How many bets before the edge shows, priced: the 40,000 rolls that hide a 1% house edge](https://betkyo.com/en/blog/how-many-bets-before-the-edge-shows-priced-the-40000-rolls-that-hide-a-1-percent-house-edge/)
-- 2026-11-01 · [Full Tilt Poker: $390 million owed, $60 million in the bank, and the email that said player funds were segregated](https://betkyo.com/en/blog/full-tilt-poker-390-million-owed-60-million-in-the-bank-and-the-email-that-said-player-funds-were-segregated/)
-- 2026-10-31 · [Dennis Nikrasch: the locksmith who reprogrammed the slot chip, ten jackpots, $6 million, and a swap that took under a minute](https://betkyo.com/en/blog/dennis-nikrasch-the-locksmith-who-reprogrammed-the-slot-chip-ten-jackpots-6-million-and-a-swap-under-a-minute/)
 
 ## Revised articles
 

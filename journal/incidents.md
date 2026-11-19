@@ -2,6 +2,30 @@
 
 Short answers from the Betkyo Journal's Stories & Incidents category. Each entry is the article's own summary; the full derivation, tables and sources are on the linked page.
 
+## [Bill Benter: the horse-racing model that beat the Hong Kong tote, the 19% take it had to clear, and the $16 million Triple Trio he never cashed](https://betkyo.com/en/blog/bill-benter-the-horse-racing-model-that-beat-the-hong-kong-tote-and-the-16-million-triple-trio-he-never-cashed/)
+
+_2026-11-20 · 11 min_
+
+**Bill Benter**, an American former card counter, began betting on Hong Kong Jockey Club races with a computer model in **1985** and described how it worked in a paper presented in **1993** and published in **1994**. A **multinomial logit** model turned handicapping factors into win probabilities; a second stage blended them with the **public’s tote odds**, scoring a fit (pseudo-R²) of **0.1396** over **3,198 races** against **0.1218** for the odds alone; and he bet a conservative **fraction of the Kelly stake**. The track kept **about 19%** of the pools he bet, so a horse was worth backing only if the model rated it more than about **1.23 times** as likely to win as the crowd did (calculation for this article), and the size of the pools capped profit at a realistic **0.25–0.5%** of turnover. He reported **four profitable seasons out of five**. On **6 November 2001** one of the **51,381** lines his program bet hit all nine horses of the Happy Valley **Triple Trio**, an official dividend of **HK$38,577,504**; Bloomberg values his win at about **US$16 million**. He never claimed it. His edge was a share of other bettors’ mistakes; a fixed-edge casino game has no crowd to correct.
+
+## [Stefan Mandel and the 1992 Virginia Lottery: 7,059,052 combinations, a $27 million jackpot, and why buying every ticket was still a gamble](https://betkyo.com/en/blog/stefan-mandel-and-the-1992-virginia-lottery-7059052-combinations-27-million-and-why-buying-every-ticket-was-a-gamble/)
+
+_2026-11-19 · 10 min_
+
+In February 1992 the **International Lotto Fund**, an Australian trust organised by Romanian-born **Stefan Mandel**, set out to buy all **7,059,052** combinations of Virginia’s pick-6-of-44 Lotto, because the jackpot, about **$27 million**, was **3.83 times** the cost of every ticket. It ran out of time after roughly 5 to 5.6 million tickets but held the only jackpot winner of the **15 February** draw: **$27,036,142**, paid over 20 years, plus $662,868 in smaller prizes. The headline multiple was never the edge. Value the payments at 8% and take off the **34%** tax withholding, and a full cover’s 3.83 becomes about **1.34**; one co-winner would have made it **0.67**, a loss (calculation for this article). The rule of thumb: buying every combination pays a sole winner only when the jackpot is about **2.9 times** the cost of the full set, and one co-winner doubles the bar. On the withholding, the Fund lost on appeal in 1994 without the treaty question being decided: pay first, the Fourth Circuit said, then seek a refund.
+
+## [The fortune cookie Powerball: 110 second prizes where three to five were expected, and the $19.4 million bill](https://betkyo.com/en/blog/the-fortune-cookie-powerball-2005-110-second-prizes-where-3-to-5-were-expected-and-the-19-4-million-bill/)
+
+_2026-11-18 · 11 min_
+
+On **30 March 2005** Powerball drew **22-28-32-33-39** with Powerball **42**, and **110** tickets matched the five white balls but not the Powerball, a set second prize at odds of **1 in 2,939,677**. Officials had expected **three to five**; a calculation for this article gives **3.5**. Each won **$100,000**, or $500,000 with Power Play at 5x: **$19.4 million** in all. The Multi-State Lottery Association suspected a system error or a fraud, until the first winners to claim in Tennessee said the numbers came from a **fortune cookie**: a slip reading **22 28 32 33 39 40**, printed by **Wonton Food** in Queens, which picked its numbers from a bowl. It was coincidence; every prize was paid and no charges were reported. On independent picks, 110 winners is about a **1 in 10¹¹⁹** event, which shows only that the picks were not independent. And a jackpot is one shared pool: had all 110 held a 42, they would have split it 111 ways at no extra cost, which is why the association’s director said a 42 on the slip **“would have been better for us.”**
+
+## [Brian Molony: C$10.2 million from the bank, $75,000 a hand, and the math of winning it back](https://betkyo.com/en/blog/brian-molony-10-2-million-from-the-bank-75000-a-hand-and-the-math-of-winning-it-back/)
+
+_2026-11-17 · 10 min_
+
+Between 1980 and 1982 **Brian Molony**, an assistant manager at a CIBC branch in Toronto, wrote false loans to real and invented businesses and gambled the money in Atlantic City and Las Vegas. He took about C$16–17 million, repaid about C$6 million and left the bank **C$10.2 million** short (about US$8.3 million), which UPI called Canada’s largest one-person bank fraud. Time reported that he lost **more than US$7 million** at Caesars’ Atlantic City casino (then branded the Boardwalk Regency), betting up to **$75,000 a hand** at baccarat. Police wiretaps in an unrelated investigation exposed him in 1982; he was sentenced to **six years** and served 30 months, and New Jersey later closed the casino for **24 hours**. The arithmetic: the edge is a fee on every dollar bet, so at Banker’s **1.06%** the house needs about **$660 million** of bets to take $7 million on average (calculation for this article). One bad night is luck; a year of that betting is arithmetic, and chasing a hole only adds the volume the edge feeds on.
+
 ## [Crown Melbourne, 2013: a camera scam, a reported A$32 million in eight hands, and the edge one card flips](https://betkyo.com/en/blog/crown-melbourne-2013-the-camera-scam-32-million-in-eight-hands-and-the-edge-one-card-flips/)
 
 _2026-11-12 · 10 min_

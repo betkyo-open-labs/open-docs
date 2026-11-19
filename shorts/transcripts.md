@@ -10,7 +10,7 @@ Full article: https://betkyo.com/en/blog/an-ai-host-that-is-not-allowed-to-say-a
 
 ## Bill Benter: the $16M Triple Trio he never cashed
 
-Hong Kong, 2001. A computer's bet hits all nine horses: about sixteen million dollars. He never cashed it. Bill Benter started as a Las Vegas card counter, and landed in a casino blacklist. In 1985 he took three IBM computers and a racing model to Hong Kong. Season one lost most of the stake. Years later, the fix: start from the crowd's own odds, and let the model correct them. His 1994 paper shows the catch. The track kept about nineteen percent; only the crowd's worst errors paid. He bet a fraction of Kelly; full Kelly often halves the bank. Four seasons in five made money. In June 1997 the club suspended his phone account, to protect the betting public, it said. The money went to charity. A model can out-guess a crowd, never a fixed edge. Full story on the Betkyo Journal.
+Hong Kong, 2001. A computer's bet hits all nine horses: about sixteen million dollars. He never cashed it. Bill Benter started as a Las Vegas card counter, and landed in a casino blacklist. In 1985 he took three IBM computers and a racing model to Hong Kong. Season one lost most of the stake. Years later, the fix: start from the crowd's own odds, and let the model correct them. His 1994 paper shows the catch. The track kept about nineteen percent; only the crowd's worst errors paid. He bet a fraction of Kelly; at full Kelly, losing half the bank is common. Four seasons in five made money. In June 1997 the club suspended his phone account, to protect the betting public, it said. The money went to charity. A model can out-guess a crowd, never a fixed edge. Full story on the Betkyo Journal.
 
 Full article: https://betkyo.com/en/blog/bill-benter-the-horse-racing-model-that-beat-the-hong-kong-tote-and-the-16-million-triple-trio-he-never-cashed/
 
@@ -118,7 +118,7 @@ Full article: https://betkyo.com/en/blog/the-price-of-an-hour-what-each-game-cos
 
 ## How long does $100 last? Half are gone by bet 200 at ×100
 
-A hundred dollars, a dollar a bet, a one percent edge. The average session: about ten thousand bets. That average is real. But at dice times two, half of all bankrolls are gone by bet six thousand seven hundred twelve. At dice times ten, half are gone by bet one thousand nine hundred forty. At limbo times a hundred, half are gone within two hundred bets. Same price at all three: about one cent per dollar bet. The multiplier changes the shape, not the cost. At times a hundred, thirty-seven percent of bankrolls are gone in exactly one hundred bets, without a single win. Only seven percent last the average ten thousand bets. A few long runs carry the mean. The average is not what most sessions look like. Full tables on the Betkyo Journal.
+A hundred dollars, a dollar a bet, a one percent edge. The average session: about ten thousand bets. That average is real. But at dice times two, half of all bankrolls are gone by bet six thousand seven hundred twelve. At dice times ten, half are gone within one thousand nine hundred forty bets. At limbo times a hundred, half are gone within two hundred bets. Same price at all three: about one cent per dollar bet. The multiplier changes the shape, not the cost. Thirty-seven percent of bankrolls at times one hundred are gone in exactly one hundred bets, without a single win. Only seven percent last the average ten thousand bets. A few long runs carry the mean. The average is not what most sessions look like. Full tables on the Betkyo Journal.
 
 Full article: https://betkyo.com/en/blog/how-long-100-dollars-lasts-priced-the-median-bet-count-at-x2-x10-and-x100/
 
@@ -146,9 +146,9 @@ Nineteen thousand bets. Twenty-five a day, for over two years. None of the money
 
 Full article: https://betkyo.com/en/blog/ippei-mizuhara-19000-bets-and-the-12-percent-that-broke-someone-elses-bankroll/
 
-## Brian Molony: C$10.2M from a Toronto bank, $75,000 a hand
+## A bank manager bet $75,000 a hand with C$10.2M of his bank's money
 
-A Toronto assistant bank manager bets up to seventy-five thousand dollars a hand. It's the bank's money. For almost two years, Brian Molony wrote false loans at his CIBC branch. He took sixteen to seventeen million Canadian, repaid about six, and left the bank ten point two million short. At Caesars in Atlantic City he lost more than seven million US dollars, Time reported. At a one percent edge, the house needs about six hundred sixty million in bets to take seven million on average. A night is luck: two bad days cost him two million. Over a year, the arithmetic takes over. Wiretaps in an unrelated police case exposed him in 1982. He served thirty months; the casino was shut for a day. Chasing a loss only adds volume, and volume is what the edge feeds on. Full story on the Betkyo Journal.
+Toronto, 1980. An assistant bank manager starts writing false loans to real and invented firms. A private jet flies him to Atlantic City. He bets up to seventy-five thousand dollars a hand. Time reported he lost over seven million dollars at one casino. The money was his bank's. The bank never noticed. Wiretaps in another police case exposed him in 1982. He served thirty months. New Jersey's penalty fell on the casino: it closed for twenty-four hours, two days after Thanksgiving. At Banker's one percent edge, taking seven million needs about six hundred sixty million in bets, on average. Win it back? One all-in bet doubles a bankroll forty-nine percent of the time. A hundred bets: six percent. The edge feeds on volume, and a chase is a machine for volume. Full story on the Betkyo Journal.
 
 Full article: https://betkyo.com/en/blog/brian-molony-10-2-million-from-the-bank-75000-a-hand-and-the-math-of-winning-it-back/
 

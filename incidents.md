@@ -2,6 +2,22 @@
 
 Famous runs, heists, collapses and cons from the public record, each written up with the arithmetic that decided it. Summaries are the articles' own; sources are listed on each page.
 
+## [Bill Benter: the horse-racing model that beat the Hong Kong tote, the 19% take it had to clear, and the $16 million Triple Trio he never cashed](https://betkyo.com/en/blog/bill-benter-the-horse-racing-model-that-beat-the-hong-kong-tote-and-the-16-million-triple-trio-he-never-cashed/)
+
+In September 1985 an American card counter flew to Hong Kong with three IBM computers and a statistical model of horse races. The first season lost most of the stake, and years later he found the change that made it work: start from the crowd’s own odds and correct them. In 1994 he published how the system worked, the take it had to clear and how much to bet. The paper, the arithmetic of a 19% take and fractional Kelly, the results he reported, and the Triple Trio of 6 November 2001 that he never cashed.
+
+## [Stefan Mandel and the 1992 Virginia Lottery: 7,059,052 combinations, a $27 million jackpot, and why buying every ticket was still a gamble](https://betkyo.com/en/blog/stefan-mandel-and-the-1992-virginia-lottery-7059052-combinations-27-million-and-why-buying-every-ticket-was-a-gamble/)
+
+In February 1992 an Australian fund set out to buy every one of the 7,059,052 combinations in Virginia’s pick-6-of-44 Lotto, because the jackpot was almost four times the cost of all of them together. It ran out of time with about a quarter of them unbought, held the only winning ticket anyway, and fought the tax withholding in federal court until 1994. This is what the record says happened, and the arithmetic of when buying every ticket actually pays.
+
+## [The fortune cookie Powerball: 110 second prizes where three to five were expected, and the $19.4 million bill](https://betkyo.com/en/blog/the-fortune-cookie-powerball-2005-110-second-prizes-where-3-to-5-were-expected-and-the-19-4-million-bill/)
+
+On 30 March 2005 Powerball drew 22, 28, 32, 33 and 39 with a Powerball of 42, and 110 tickets matched all five white balls but not the Powerball, where about three to five were expected. The lottery suspected a system error or a fraud. The answer was a fortune cookie slip printed in Queens. This is what the record says happened, why odds like that prove a model wrong rather than a miracle right, and why a 42 on the slip would have cost the lottery nothing extra.
+
+## [Brian Molony: C$10.2 million from the bank, $75,000 a hand, and the math of winning it back](https://betkyo.com/en/blog/brian-molony-10-2-million-from-the-bank-75000-a-hand-and-the-math-of-winning-it-back/)
+
+In 1981 and 1982 an assistant bank manager from Toronto bet up to $75,000 a hand at baccarat in Atlantic City with money taken through false loans at his own branch. The bank was left C$10.2 million short and New Jersey closed the casino for a day. What the record says, what a 1% edge needs to take $7 million, and the arithmetic of winning a hole back.
+
 ## [Crown Melbourne, 2013: a camera scam, a reported A$32 million in eight hands, and the edge one card flips](https://betkyo.com/en/blog/crown-melbourne-2013-the-camera-scam-32-million-in-eight-hands-and-the-edge-one-card-flips/)
 
 In February 2013 an overseas high roller won a reported A$32 million in eight hands of cards at Crown Melbourne. Surveillance noticed the bets, and the tape reportedly showed that the VIP-room cameras had been breached and someone was signalling him at the table. He was turned out of his villa in the night and banned, a VIP staffer was sacked, and no charges were ever reported. The record, what one known card does to a 1% house edge, and the honest odds of the run.
